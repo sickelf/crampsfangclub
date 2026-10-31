@@ -5,7 +5,7 @@
     <article class="album" id="{{ .title | urlize }}">
       <div class="sleeve">
         {{ with .cover }}
-          <img src="{{ . }}" alt="">
+          <img src="{{ . | strings.TrimPrefix "/" | relURL }}" alt="">
         {{ else }}
           <div class="sleeve-fallback">
             <span>THE CRAMPS</span>

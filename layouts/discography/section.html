@@ -16,7 +16,7 @@
     <ul class="page-list singles">
       {{ range hugo.Data.discography.singles }}
       <li>
-        {{ with .cover }}<img class="single-cover" src="{{ . }}" alt="">{{ end }}
+        {{ with .cover }}<img class="single-cover" src="{{ . | strings.TrimPrefix "/" | relURL }}" alt="">{{ end }}
         <span>{{ .title }}</span>
         <span>{{ .year }} · {{ .album }}</span>
       </li>
