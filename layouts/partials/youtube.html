@@ -1,0 +1,11 @@
+{{- $id := .id -}}
+{{- $title := .title -}}
+{{- $thumb := printf "https://i.ytimg.com/vi/%s/hqdefault.jpg" $id -}}
+{{- $local := printf "static/images/thumbs/%s.jpg" $id -}}
+{{- if fileExists $local -}}
+  {{- $thumb = printf "/images/thumbs/%s.jpg" $id -}}
+{{- end -}}
+<a class="yt-facade" href="https://www.youtube.com/watch?v={{ $id }}" data-id="{{ $id }}" aria-label="Play {{ $title }}">
+  <img src="{{ $thumb }}" alt="" width="640" height="480" loading="lazy" decoding="async">
+  <span class="yt-play" aria-hidden="true"></span>
+</a>

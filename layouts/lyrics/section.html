@@ -1,0 +1,46 @@
+{{ define "main" }}
+<section class="lyrics">
+  <div class="page-head">
+    <p class="eyebrow">Words</p>
+    <h1>{{ .Title }}</h1>
+    <div class="content">{{ .Content }}</div>
+  </div>
+
+  {{ $songs := hugo.Data.lyrics.songs }}
+  {{ $letters := slice }}
+  {{ range $songs }}
+    {{ $bare := .title }}
+    {{ if and (hasPrefix $bare "(") (in $bare ")") }}{{ $bare = strings.TrimLeft " " (index (split $bare ")") 1) }}{{ end }}
+    {{ $letter := upper (substr $bare 0 1) }}
+    {{ if not (findRE "^[A-Z]" $letter) }}{{ $letter = "#" }}{{ end }}
+    {{ $letters = $letters | append $letter }}
+  {{ end }}
+  <nav class="letter-nav" aria-label="Jump to letter">
+    {{ range uniq $letters }}
+      <a href="#letter-{{ . }}">{{ . }}</a>
+    {{ end }}
+  </nav>
+
+  <ul class="lyric-index">
+    {{ $prev := "" }}
+    {{ range $songs }}
+      {{ $bare := .title }}
+      {{ if and (hasPrefix $bare "(") (in $bare ")") }}{{ $bare = strings.TrimLeft " " (index (split $bare ")") 1) }}{{ end }}
+      {{ $letter := upper (substr $bare 0 1) }}
+      {{ if not (findRE "^[A-Z]" $letter) }}{{ $letter = "#" }}{{ end }}
+      {{ if ne $letter $prev }}
+        <li class="letter cramps-fill" id="letter-{{ $letter }}"><span>{{ $letter }}</span></li>
+        {{ $prev = $letter }}
+      {{ end }}
+      <li id="{{ .anchor }}">
+        <a class="lyric-title" href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+        <span class="lyric-albums">
+          {{ range $i, $album := .albums }}{{ if $i }} · {{ end }}<a href="/discography/#{{ $album.id }}">{{ $album.title }}</a>{{ with $album.year }} <em>({{ . }})</em>{{ end }}{{ end }}
+        </span>
+      </li>
+    {{ end }}
+  </ul>
+
+  <p class="source-note">Lyrics via <a href="{{ hugo.Data.lyrics.source }}">Genius</a>. This site does not host the words.</p>
+</section>
+{{ end }}

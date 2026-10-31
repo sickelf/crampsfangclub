@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="disco">
+  <div class="page-head">
+    <p class="eyebrow">Records</p>
+    <h1>{{ .Title }}</h1>
+    <div class="content">{{ .Content }}</div>
+  </div>
+
+  {{ partial "album-grid.html" (dict "heading" "Studio albums" "items" hugo.Data.discography.studio "lyrics" true "tabs" true "karaoke" true) }}
+  {{ partial "album-grid.html" (dict "heading" "Live" "items" hugo.Data.discography.live "tabs" true "karaoke" true) }}
+  {{ partial "album-grid.html" (dict "heading" "Compilations" "items" hugo.Data.discography.compilations "tabs" true "karaoke" true) }}
+  {{ partial "album-grid.html" (dict "heading" "EPs" "items" hugo.Data.discography.eps "tabs" true "karaoke" true) }}
+
+  <section class="release-block">
+    <h2 id="singles">Singles</h2>
+    <ul class="page-list singles">
+      {{ range hugo.Data.discography.singles }}
+      <li>
+        {{ with .cover }}<img class="single-cover" src="{{ . }}" alt="">{{ end }}
+        <span>{{ .title }}</span>
+        <span>{{ .year }} · {{ .album }}</span>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+</section>
+{{ end }}

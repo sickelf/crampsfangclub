@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <article class="post">
+    <p class="date">{{ .Section | humanize }}{{ with .Date }} · {{ .Format "Jan 2, 2006" }}{{ end }}</p>
+    <h1>{{ .Title }}</h1>
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}

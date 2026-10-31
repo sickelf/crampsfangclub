@@ -1,0 +1,303 @@
+{
+  "note": "Fan-made lessons and playthroughs found on YouTube. Some are full tutorials, some are just covers that show the part.",
+  "instrument": {
+    "id": "bass",
+    "title": "Bass",
+    "songs": [
+      {
+        "title": "Bikini Girls with Machine Guns",
+        "anchor": "bass-bikini-girls-with-machine-guns",
+        "albums": [
+          {
+            "title": "Stay Sick!",
+            "year": "1990",
+            "id": "stay-sick"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=iS_gMuKY-YU",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "Blue Moon Baby",
+        "anchor": "bass-blue-moon-baby",
+        "albums": [
+          {
+            "title": "A Date with Elvis",
+            "year": "1986",
+            "id": "a-date-with-elvis"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=J4-ViUxxiOk",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "Chicken",
+        "anchor": "bass-chicken",
+        "albums": [
+          {
+            "title": "A Date with Elvis",
+            "year": "1986",
+            "id": "a-date-with-elvis"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=1rjIzJKm5hg",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "Fever",
+        "anchor": "bass-fever",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=SF4y9MajHrY",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "Garbageman",
+        "anchor": "bass-garbageman",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=2LU8TcFdt1M",
+            "by": "The Bass Punk",
+            "label": "The Bass Punk"
+          }
+        ]
+      },
+      {
+        "title": "Goo Goo Muck",
+        "anchor": "bass-goo-goo-muck",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=g1MmlWWJRZ0",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=lONDs6G6T-Q",
+            "by": "PoizenJam",
+            "label": "PoizenJam · Cover"
+          }
+        ]
+      },
+      {
+        "title": "Green Door",
+        "anchor": "bass-green-door",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=XbbYVO0K6OE",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "Human Fly",
+        "anchor": "bass-human-fly",
+        "albums": [
+          {
+            "title": "Gravest Hits",
+            "year": "1979",
+            "id": "gravest-hits"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=iWQK5p52lWc",
+            "by": "Guillermo Bertolin",
+            "label": "Guillermo Bertolin"
+          }
+        ]
+      },
+      {
+        "title": "I Can't Hardly Stand It",
+        "anchor": "bass-i-cant-hardly-stand-it",
+        "albums": [
+          {
+            "title": "Gravest Gravy",
+            "year": "2026",
+            "id": "gravest-gravy"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=npOQjZvMz6k",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "New Kind Of Kick",
+        "anchor": "bass-new-kind-of-kick",
+        "albums": [
+          {
+            "title": "...Off the Bone",
+            "year": "1983",
+            "id": "...off-the-bone"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=0R00SK_mqTs",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "Queen of Pain",
+        "anchor": "bass-queen-of-pain",
+        "albums": [
+          {
+            "title": "Big Beat from Badsville",
+            "year": "1997",
+            "id": "big-beat-from-badsville"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=YYmZoPVkNE4",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "Tear It Up",
+        "anchor": "bass-tear-it-up",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=VUja96kstBU",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "The Crusher",
+        "anchor": "bass-the-crusher",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=DiqDt4s7rEM",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "The Mad Daddy",
+        "anchor": "bass-the-mad-daddy",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=T99YoaTQ7iY",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "The Way I Walk",
+        "anchor": "bass-the-way-i-walk",
+        "albums": [
+          {
+            "title": "...Off the Bone",
+            "year": "1983",
+            "id": "...off-the-bone"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=zpRvLpbjnZI",
+            "by": "PoizenJam",
+            "label": "PoizenJam"
+          }
+        ]
+      },
+      {
+        "title": "You Got Good Taste",
+        "anchor": "bass-you-got-good-taste",
+        "albums": [
+          {
+            "title": "Smell of Female",
+            "year": "1983",
+            "id": "smell-of-female"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=r0-bd1khmGw",
+            "by": "Obirtcho",
+            "label": "Obirtcho"
+          }
+        ]
+      }
+    ],
+    "extras": []
+  }
+}

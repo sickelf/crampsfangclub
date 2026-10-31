@@ -1,0 +1,669 @@
+@font-face {
+  font-family: "The Cramps";
+  src: url("/fonts/the-cramps.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --bg: #070707;
+  --bg-2: #111111;
+  --ink: #f6f1e8;
+  --muted: #b7b0a6;
+  --line: #2a2a2a;
+  --red: #e10600;
+  --red-deep: #8f0500;
+  --shadow: 0 18px 50px rgba(0, 0, 0, 0.45);
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+.lyric-index li[id],
+h2.letter { scroll-margin-top: 130px; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  background:
+    radial-gradient(1200px 500px at 80% -10%, rgba(225, 6, 0, 0.22), transparent 55%),
+    linear-gradient(180deg, #101010 0%, var(--bg) 220px);
+  font-family: "Barlow", "Avenir Next", "Segoe UI", sans-serif;
+  line-height: 1.55;
+}
+
+a { color: inherit; text-decoration: none; }
+img { max-width: 100%; display: block; }
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: rgba(7, 7, 7, 0.92);
+  border-bottom: 4px solid var(--red);
+  backdrop-filter: blur(10px);
+}
+
+.header-inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 18px 24px;
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+
+a.site-title,
+a.site-title:hover { color: inherit; }
+
+.site-title {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  line-height: 0.85;
+}
+
+.title-kicker {
+  position: relative;
+  z-index: 1;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 13px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: white;
+}
+
+.title-kicker { margin-top: calc(-0.3em + 3px); text-align: center; }
+
+.title-main {
+  position: relative;
+  z-index: 2;
+  font-family: "The Cramps", "Bebas Neue", Impact, sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 0.88;
+  color: var(--ink);
+}
+
+.main-nav {
+  margin-left: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.main-nav a {
+  color: var(--muted);
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+
+.main-nav a:hover,
+.main-nav a.active {
+  color: var(--ink);
+  border-bottom-color: var(--red);
+}
+
+.nav-toggle { display: none; }
+
+.main-content {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 36px 24px 80px;
+}
+
+.hero {
+  position: relative;
+  overflow: visible;
+  display: flex;
+  align-items: center;
+  gap: 36px;
+  padding: 42px 8px 24px;
+  border-bottom: 1px solid var(--line);
+}
+.hero-lockup { flex: 0 0 auto; }
+
+.kicker,
+.eyebrow {
+  margin: 0 0 10px;
+  color: var(--red);
+  font-weight: 700;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+
+.hero h1,
+.page-head h1,
+.post h1 {
+  margin: 0;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  line-height: 0.88;
+}
+
+.hero h1 {
+  font-family: "The Cramps", "Bebas Neue", Impact, sans-serif;
+  font-weight: 400;
+  font-size: clamp(64px, 9vw, 120px);
+  letter-spacing: 0.01em;
+  color: var(--ink);
+  width: fit-content;
+}
+
+.hero h1 span:not(.cramps-fill),
+.hero h1 span.tail {
+  display: block;
+  position: relative;
+  z-index: 1;
+  color: white;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 0.32em;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.hero h1 span.unofficial {
+  margin-bottom: calc(-0.3em - 4px);
+  transform: translateY(-30px);
+  text-align: center;
+  line-height: 1;
+  padding-inline: 0.12em;
+}
+.hero h1 span.tail { margin-top: calc(-0.3em - 4px); text-align: center; }
+
+.hero h1 span.cramps-fill {
+  display: block;
+  position: relative;
+  z-index: 2;
+  font-family: "The Cramps", "Bebas Neue", Impact, sans-serif;
+  font-size: 1em;
+  letter-spacing: 0.01em;
+  line-height: 0.88;
+}
+
+.tagline {
+  flex: 1 1 auto;
+  min-width: 0;
+  max-width: 560px;
+  margin: 0 0 0 auto;
+  text-align: right;
+  font-family: "Special Elite", "Courier New", monospace;
+  font-size: clamp(16px, 1.8vw, 22px);
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 18px;
+  background: var(--red);
+  color: #fff !important;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  box-shadow: var(--shadow);
+}
+
+.btn.ghost {
+  background: transparent;
+  color: var(--ink);
+  border: 1px solid var(--line);
+  box-shadow: none;
+}
+
+.btn:hover { background: var(--red-deep); }
+.btn.ghost:hover { border-color: var(--red); color: white; }
+
+.section-block { margin-top: 54px; }
+.news-block { margin-top: 24px; }
+
+.section-block h2,
+.page-head h1 {
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: clamp(42px, 6vw, 68px);
+  letter-spacing: 0.04em;
+  margin: 0 0 18px;
+}
+
+.card-grid,
+.door-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+.card,
+.door {
+  display: block;
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  padding: 22px;
+  min-height: 150px;
+  transition: transform 0.15s ease, border-color 0.15s ease;
+}
+
+.card:hover,
+.door:hover {
+  transform: translateY(-3px);
+  border-color: var(--red);
+}
+
+.card h3,
+.door h3 {
+  margin: 8px 0 8px;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 34px;
+  letter-spacing: 0.04em;
+}
+
+.card p,
+.door p,
+.content p { color: var(--muted); }
+
+.date {
+  color: var(--red);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.page-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.page-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.page-list a:hover { color: var(--red); }
+
+.news-list { max-width: 760px; }
+.news-item { padding: 0 0 28px; border-bottom: 1px solid var(--line); }
+.news-item h3 {
+  margin: 4px 0 14px;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 34px;
+  letter-spacing: 0.04em;
+  line-height: 0.95;
+}
+.news-image {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  margin: 0 0 16px;
+  border: 1px solid var(--line);
+}
+
+.post,
+.section-list,
+.taxonomy {
+  max-width: 760px;
+}
+
+.content h1,
+.content h2,
+.content h3 {
+  font-family: "Bebas Neue", Impact, sans-serif;
+  letter-spacing: 0.04em;
+  line-height: 1;
+}
+
+.content a { color: var(--red); }
+
+.site-footer {
+  border-top: 4px solid var(--red);
+  background: #050505;
+}
+
+.footer-inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 28px 24px 40px;
+}
+
+.footer-slogan {
+  margin: 0 0 6px;
+  font-family: "Special Elite", "Courier New", monospace;
+  font-size: 22px;
+}
+
+.footer-copyright {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+@media (max-width: 860px) {
+  .header-inner { align-items: flex-start; flex-wrap: wrap; }
+  .main-nav { margin-left: 0; width: 100%; }
+  .hero { padding-top: 42px; }
+}
+
+.album-grid {
+  display: grid;
+  gap: 28px;
+  margin-top: 28px;
+}
+
+.album {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 22px;
+  padding: 18px;
+  background: #101010;
+  border: 1px solid var(--line);
+}
+
+.sleeve img,
+.sleeve-fallback {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  background: #050505;
+  border: 1px solid var(--line);
+}
+
+.sleeve-fallback {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 14px;
+  background:
+    linear-gradient(160deg, #1a1a1a 0%, #070707 55%),
+    repeating-linear-gradient(135deg, transparent, transparent 8px, rgba(225,6,0,.18) 8px, rgba(225,6,0,.18) 9px);
+}
+
+.sleeve-fallback span,
+.sleeve-fallback em {
+  color: var(--red);
+  font-size: 12px;
+  letter-spacing: 0.16em;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sleeve-fallback strong {
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 34px;
+  line-height: 0.9;
+  letter-spacing: 0.03em;
+}
+
+.album-body h2 {
+  margin: 4px 0 12px;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 42px;
+  letter-spacing: 0.03em;
+  line-height: 0.9;
+}
+
+.album-body ol {
+  columns: 2;
+  margin: 0;
+  padding-left: 18px;
+  color: var(--muted);
+}
+
+.album-body li { break-inside: avoid; margin: 0 0 4px; }
+
+.wiki { color: var(--red); font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; font-size: 13px; }
+
+.release-block { margin-top: 48px; }
+.release-block h2 {
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 48px;
+  margin: 0 0 8px;
+  letter-spacing: 0.04em;
+}
+
+.page-list.singles li {
+  align-items: center;
+  gap: 18px;
+}
+.page-list.singles .single-cover {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  flex: 0 0 220px;
+  border: 1px solid var(--line);
+}
+.page-list.singles li span:first-of-type { font-weight: 700; }
+.source-note { margin-top: 36px; color: var(--muted); font-size: 14px; }
+.source-note a { color: var(--red); }
+.muted { color: var(--muted); }
+
+@media (max-width: 760px) {
+  .album { grid-template-columns: 1fr; }
+  .album-body ol { columns: 1; }
+  .page-list li { flex-direction: column; }
+}
+
+.cover-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+}
+
+.mini-release {
+  background: #101010;
+  border: 1px solid var(--line);
+  padding: 12px;
+}
+
+.mini-release img,
+.sleeve-fallback.mini {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.mini-release h3 {
+  margin: 0 0 4px;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 26px;
+  letter-spacing: 0.03em;
+  line-height: 0.95;
+}
+
+.mini-release p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.track-btn {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 2px 6px 1px;
+  background: var(--red);
+  color: white;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 1.1;
+  text-decoration: none;
+  vertical-align: 1px;
+}
+a.track-btn:hover { background: #ff2a1f; color: white; }
+
+.letter-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  margin: 8px 0 28px;
+}
+.letter-nav a {
+  color: var(--red);
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.04em;
+}
+.letter-nav a:hover { color: white; }
+
+.lyric-index {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-width: 1040px;
+}
+.lyric-index li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 18px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+.lyric-index .letter,
+h2.letter {
+  display: block;
+  border: 0;
+  margin: 0;
+  padding: 32px 0 6px;
+  font-family: "The Cramps", "Bebas Neue", Impact, sans-serif;
+  font-size: 72px;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 0.85;
+  color: var(--red);
+}
+.lyric-index .letter span,
+h2.letter span { font-family: inherit; font-weight: 400; }
+.lyric-title { font-weight: 700; }
+.lyric-title:hover { color: var(--red); }
+.lyric-albums {
+  color: var(--muted);
+  text-align: right;
+  font-size: 14px;
+}
+.tab-versions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+}
+.lyric-albums a:hover { color: var(--red); }
+.lyric-albums em { font-style: normal; }
+
+@media (max-width: 760px) {
+  .hero { flex-direction: column; align-items: flex-start; gap: 16px; }
+  .tagline { max-width: 640px; }
+  .lyric-index li { flex-direction: column; gap: 4px; align-items: flex-start; }
+  .lyric-albums { text-align: left; }
+}
+
+
+.cramps-fill {
+  color: var(--red);
+  -webkit-text-stroke: 0.025em var(--ink);
+  paint-order: stroke fill;
+}
+
+.karaoke-group {
+  margin: 48px 0 8px;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 42px;
+  letter-spacing: 0.04em;
+}
+.karaoke-album { margin: 28px 0; }
+.karaoke-album h3 {
+  margin: 0 0 14px;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 28px;
+  letter-spacing: 0.04em;
+}
+.karaoke-album h3 em { color: var(--muted); font-style: normal; font-size: 0.7em; }
+.karaoke-songs {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 22px 18px;
+}
+.karaoke-song-title { margin: 0 0 8px; font-weight: 700; }
+.karaoke-frame {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  background: #000;
+}
+.yt-facade {
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #000;
+  cursor: pointer;
+}
+.yt-facade img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.yt-play {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 68px;
+  height: 48px;
+  transform: translate(-50%, -50%);
+  background: var(--red);
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+}
+.yt-play::before {
+  content: "";
+  position: absolute;
+  left: 28px;
+  top: 14px;
+  border-style: solid;
+  border-width: 10px 0 10px 16px;
+  border-color: transparent transparent transparent #fff;
+}
+.yt-facade:hover .yt-play,
+.yt-facade:focus-visible .yt-play { background: #ff2a1f; }
+.yt-facade:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
+.karaoke-credit { margin: 6px 0 0; color: var(--muted); font-size: 13px; }
+.karaoke-credit a:hover { color: var(--red); }
+
+.tutorial-extras-head {
+  margin: 28px 0 10px;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 26px;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+.lesson { margin: 26px 0 34px; }
+.lesson h3 {
+  margin: 0 0 12px;
+  font-family: "Bebas Neue", Impact, sans-serif;
+  font-size: 30px;
+  letter-spacing: 0.03em;
+}
+.lesson h3 a { font-size: 0.62em; letter-spacing: 0.04em; }
+.lesson h3 em { color: var(--muted); font-style: normal; font-size: 0.55em; }
+.lesson .karaoke-songs { grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); }

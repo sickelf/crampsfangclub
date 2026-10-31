@@ -1,0 +1,746 @@
+{
+  "source": "https://www.youtube.com/results?search_query=the+cramps+karaoke",
+  "note": "Fan-made karaoke instrumentals found on YouTube. One link per song, with extras where several people have made one.",
+  "songs": [
+    {
+      "title": "All Women Are Bad",
+      "anchor": "all-women-are-bad",
+      "albums": [
+        {
+          "title": "Stay Sick!",
+          "year": "1990",
+          "id": "stay-sick"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=JPuFJnQXFBI",
+          "by": "Punk Media Karaoke"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=r3UVZ37DneA",
+          "by": "Johnny Ds KilleR KaraoKe"
+        }
+      ]
+    },
+    {
+      "title": "Bikini Girls with Machine Guns",
+      "anchor": "bikini-girls-with-machine-guns",
+      "albums": [
+        {
+          "title": "Stay Sick!",
+          "year": "1990",
+          "id": "stay-sick"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=IVWZDR-irlU",
+          "by": "Deep Bench Karaoke"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=VdnlF-LzLbY",
+          "by": "Alex Flenner"
+        }
+      ]
+    },
+    {
+      "title": "Blue Moon Baby",
+      "anchor": "blue-moon-baby",
+      "albums": [
+        {
+          "title": "A Date with Elvis",
+          "year": "1986",
+          "id": "a-date-with-elvis"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=pgjdun19UuM",
+          "by": "Scream Queen Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "Bop Pills",
+      "anchor": "bop-pills",
+      "albums": [
+        {
+          "title": "Stay Sick!",
+          "year": "1990",
+          "id": "stay-sick"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=aeF910jOAGI",
+          "by": "Chaz Worm"
+        }
+      ]
+    },
+    {
+      "title": "Call of the Wighat",
+      "anchor": "call-of-the-wighat",
+      "albums": [
+        {
+          "title": "Smell of Female",
+          "year": "1983",
+          "id": "smell-of-female"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=gAS3vjBxOPA",
+          "by": "MyHandsDown"
+        }
+      ]
+    },
+    {
+      "title": "Can't Find My Mind",
+      "anchor": "can-t-find-my-mind",
+      "albums": [
+        {
+          "title": "Psychedelic Jungle",
+          "year": "1981",
+          "id": "psychedelic-jungle"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=SuGWrzM-a5c",
+          "by": "Scream Queen Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "Chicken",
+      "anchor": "chicken",
+      "albums": [
+        {
+          "title": "A Date with Elvis",
+          "year": "1986",
+          "id": "a-date-with-elvis"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=chCDAbyGsU4",
+          "by": "Chaz Worm"
+        }
+      ]
+    },
+    {
+      "title": "Domino",
+      "anchor": "domino",
+      "albums": [
+        {
+          "title": "Gravest Gravy",
+          "year": "2026",
+          "id": "gravest-gravy"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=GiUEJ3-VPZI",
+          "by": "Stuff I Like"
+        }
+      ]
+    },
+    {
+      "title": "Drug Train",
+      "anchor": "drug-train",
+      "albums": [
+        {
+          "title": "...Off the Bone",
+          "year": "1983",
+          "id": "off-the-bone"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=qkz82cpSKQQ",
+          "by": "wooden_indian"
+        }
+      ]
+    },
+    {
+      "title": "Elvis Fucking Christ!",
+      "anchor": "elvis-fucking-christ",
+      "albums": [
+        {
+          "title": "Fiends of Dope Island",
+          "year": "2003",
+          "id": "fiends-of-dope-island"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=v23POwXdjs0",
+          "by": "Off-Key Orchestra"
+        }
+      ]
+    },
+    {
+      "title": "Eyeball in My Martini",
+      "anchor": "eyeball-in-my-martini",
+      "albums": [
+        {
+          "title": "Look Mom No Head!",
+          "year": "1991",
+          "id": "look-mom-no-head"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KmnjddVCM_4",
+          "by": "Chaz Worm"
+        }
+      ]
+    },
+    {
+      "title": "Fever",
+      "anchor": "fever",
+      "albums": [
+        {
+          "title": "Songs the Lord Taught Us",
+          "year": "1980",
+          "id": "songs-the-lord-taught-us"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=hakiwJB3v3M",
+          "by": "Lemmy Caution Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "Garbageman",
+      "anchor": "garbageman",
+      "albums": [
+        {
+          "title": "Songs the Lord Taught Us",
+          "year": "1980",
+          "id": "songs-the-lord-taught-us"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=2IHWsGMidkY",
+          "by": "Funbox Karaoke"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=gAsV7ZEbb4g",
+          "by": "3F Karaoke Group"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_E3LHew_Mgo",
+          "by": "Dana Morrigan"
+        }
+      ]
+    },
+    {
+      "title": "Goo Goo Muck",
+      "anchor": "goo-goo-muck",
+      "albums": [
+        {
+          "title": "Psychedelic Jungle",
+          "year": "1981",
+          "id": "psychedelic-jungle"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=VERPO-ZChQk",
+          "by": "KaraFun Karaoke"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=X8RNLcUeX4g",
+          "by": "ggnzla RECORDS"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=mxsOwCGv4YI",
+          "by": "MrEntertainerKaraoke"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=kQoLoc3WOMU",
+          "by": "Deep Bench Karaoke"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=xuaq7gUraj0",
+          "by": "Custom Karaoke 🎤 by Chad Couger "
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=i7evW97VhMc",
+          "by": "Punk Media Karaoke"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=kmCQjQ4s5Hg",
+          "by": "Karaoke All Keys"
+        }
+      ]
+    },
+    {
+      "title": "Her Love Rubbed Off",
+      "anchor": "her-love-rubbed-off",
+      "albums": [
+        {
+          "title": "Stay Sick!",
+          "year": "1990",
+          "id": "stay-sick"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=YDZknVd1A-A",
+          "by": "Funbox Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "How Far Can Too Far Go?",
+      "anchor": "how-far-can-too-far-go",
+      "albums": [
+        {
+          "title": "A Date with Elvis",
+          "year": "1986",
+          "id": "a-date-with-elvis"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=jD6J-td08Zo",
+          "by": "Niche Karaoke enjoyer"
+        }
+      ]
+    },
+    {
+      "title": "Human Fly",
+      "anchor": "human-fly",
+      "albums": [
+        {
+          "title": "Gravest Hits",
+          "year": "1979",
+          "id": "gravest-hits"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=gq1RstV1sX0",
+          "by": "ObsKure Karaoke"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=qOeuRkXbSLo",
+          "by": "Bingo Master's Breakout"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=xD3uglCoNck",
+          "by": "Caritas Goth Karaoke"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=s-c-2b411ik",
+          "by": "Punk Media Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "I Can't Hardly Stand It",
+      "anchor": "i-can-t-hardly-stand-it",
+      "albums": [
+        {
+          "title": "Gravest Gravy",
+          "year": "2026",
+          "id": "gravest-gravy"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=w1-en2WftjU",
+          "by": "Johnny Ds KilleR KaraoKe"
+        }
+      ]
+    },
+    {
+      "title": "I Wanna Get in Your Pants",
+      "anchor": "i-wanna-get-in-your-pants",
+      "albums": [
+        {
+          "title": "Look Mom No Head!",
+          "year": "1991",
+          "id": "look-mom-no-head"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=fm-7mgMAu58",
+          "by": "Karaoke For No One"
+        }
+      ]
+    },
+    {
+      "title": "I Was a Teenage Werewolf",
+      "anchor": "i-was-a-teenage-werewolf",
+      "albums": [
+        {
+          "title": "Songs the Lord Taught Us",
+          "year": "1980",
+          "id": "songs-the-lord-taught-us"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=6SeTRt-UfXY",
+          "by": "ggnzla RECORDS"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=-myL_z2AWBE",
+          "by": "Punk Media Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "Love Me",
+      "anchor": "love-me",
+      "albums": [
+        {
+          "title": "...Off the Bone",
+          "year": "1983",
+          "id": "off-the-bone"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=p3odPzEv7iA",
+          "by": "Exi AFK"
+        }
+      ]
+    },
+    {
+      "title": "Mystery Plane",
+      "anchor": "mystery-plane",
+      "albums": [
+        {
+          "title": "Songs the Lord Taught Us",
+          "year": "1980",
+          "id": "songs-the-lord-taught-us"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KQkeWFN_fPE",
+          "by": "Miss Fortune Karaoke Studio"
+        }
+      ]
+    },
+    {
+      "title": "New Kind of Kick",
+      "anchor": "new-kind-of-kick",
+      "albums": [
+        {
+          "title": "...Off the Bone",
+          "year": "1983",
+          "id": "off-the-bone"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=0X7Ddvftr6k",
+          "by": "Lemmy Caution Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "Primitive",
+      "anchor": "primitive",
+      "albums": [
+        {
+          "title": "Psychedelic Jungle",
+          "year": "1981",
+          "id": "psychedelic-jungle"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=u2CfvNHf5Js",
+          "by": "Gabaoke"
+        }
+      ]
+    },
+    {
+      "title": "Queen of Pain",
+      "anchor": "queen-of-pain",
+      "albums": [
+        {
+          "title": "Big Beat from Badsville",
+          "year": "1997",
+          "id": "big-beat-from-badsville"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=45Nk6IUs2wg",
+          "by": "ggnzla RECORDS"
+        }
+      ]
+    },
+    {
+      "title": "Route 66 (Get Your Kicks On)",
+      "anchor": "route-66-get-your-kicks-on",
+      "albums": [
+        {
+          "title": "Flamejob",
+          "year": "1994",
+          "id": "flamejob"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=_UqJyvByy_c",
+          "by": "Custom Karaoke 🎤 by Chad Couger "
+        }
+      ]
+    },
+    {
+      "title": "She Said",
+      "anchor": "she-said",
+      "albums": [
+        {
+          "title": "...Off the Bone",
+          "year": "1983",
+          "id": "off-the-bone"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=rZaAOBu2kP0",
+          "by": "Punk Media Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "Sheena's in a Goth Gang",
+      "anchor": "sheena-s-in-a-goth-gang",
+      "albums": [
+        {
+          "title": "Big Beat from Badsville",
+          "year": "1997",
+          "id": "big-beat-from-badsville"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=zlHh52Ku8p4",
+          "by": "Caritas Goth Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "Shortnin' Bread",
+      "anchor": "shortnin-bread",
+      "albums": [
+        {
+          "title": "Stay Sick!",
+          "year": "1990",
+          "id": "stay-sick"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=t-zocBLbX0E",
+          "by": "Chaz Worm"
+        }
+      ]
+    },
+    {
+      "title": "Strychnine",
+      "anchor": "strychnine",
+      "albums": [
+        {
+          "title": "Songs the Lord Taught Us",
+          "year": "1980",
+          "id": "songs-the-lord-taught-us"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=4R1zTpYkHBI",
+          "by": "Lemmy Caution Karaoke"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=IVTm9anl9-I",
+          "by": "Punk Media Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "Sunglasses After Dark",
+      "anchor": "sunglasses-after-dark",
+      "albums": [
+        {
+          "title": "Songs the Lord Taught Us",
+          "year": "1980",
+          "id": "songs-the-lord-taught-us"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=6G8dsQX6EKY",
+          "by": "Scream Queen Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "Surfin' Dead",
+      "anchor": "surfin-dead",
+      "albums": [
+        {
+          "title": "Smell of Female",
+          "year": "1983",
+          "id": "smell-of-female"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=oiBBsAW-hyk",
+          "by": "Down1nFlames"
+        }
+      ]
+    },
+    {
+      "title": "Tear It Up",
+      "anchor": "tear-it-up",
+      "albums": [
+        {
+          "title": "Songs the Lord Taught Us",
+          "year": "1980",
+          "id": "songs-the-lord-taught-us"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=stQ6NVETI-4",
+          "by": "Caritas Goth Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "The Creature from the Black Leather Lagoon",
+      "anchor": "the-creature-from-the-black-leather-lagoon",
+      "albums": [
+        {
+          "title": "Stay Sick!",
+          "year": "1990",
+          "id": "stay-sick"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=awFP-y8ii5E",
+          "by": "Funbox Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "The Crusher",
+      "anchor": "the-crusher",
+      "albums": [
+        {
+          "title": "Psychedelic Jungle",
+          "year": "1981",
+          "id": "psychedelic-jungle"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=zY4ZaVusANk",
+          "by": "Punk Media Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "The Way I Walk",
+      "anchor": "the-way-i-walk",
+      "albums": [
+        {
+          "title": "Gravest Hits",
+          "year": "1979",
+          "id": "gravest-hits"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=PfNZCb3jxpI",
+          "by": "Lemmy Caution Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "TV Set",
+      "anchor": "tv-set",
+      "albums": [
+        {
+          "title": "Songs the Lord Taught Us",
+          "year": "1980",
+          "id": "songs-the-lord-taught-us"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=N_6SQgpduT8",
+          "by": "Chaz Worm"
+        }
+      ]
+    },
+    {
+      "title": "Under the Wires",
+      "anchor": "under-the-wires",
+      "albums": [
+        {
+          "title": "Psychedelic Jungle",
+          "year": "1981",
+          "id": "psychedelic-jungle"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=a9HZaXqQRPM",
+          "by": "Lemmy Caution Karaoke"
+        }
+      ]
+    },
+    {
+      "title": "What's Inside a Girl?",
+      "anchor": "what-s-inside-a-girl",
+      "albums": [
+        {
+          "title": "A Date with Elvis",
+          "year": "1986",
+          "id": "a-date-with-elvis"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Re6GQzrwj84",
+          "by": "KaraokePup"
+        }
+      ]
+    },
+    {
+      "title": "You Got Good Taste",
+      "anchor": "you-got-good-taste",
+      "albums": [
+        {
+          "title": "Smell of Female",
+          "year": "1983",
+          "id": "smell-of-female"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=O3KPgu9T74k",
+          "by": "Scream Queen Karaoke"
+        }
+      ]
+    }
+  ]
+}

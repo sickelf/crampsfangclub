@@ -1,0 +1,45 @@
+<section class="release-block">
+  <h2>{{ .heading }}</h2>
+  <div class="album-grid">
+    {{ range .items }}
+    <article class="album" id="{{ .title | urlize }}">
+      <div class="sleeve">
+        {{ with .cover }}
+          <img src="{{ . }}" alt="">
+        {{ else }}
+          <div class="sleeve-fallback">
+            <span>THE CRAMPS</span>
+            <strong>{{ .title }}</strong>
+            <em>{{ with .year }}{{ . }}{{ else }}{{ .released }}{{ end }}</em>
+          </div>
+        {{ end }}
+      </div>
+      <div class="album-body">
+        <p class="date">{{ .released }}{{ with .label }} · {{ . }}{{ end }}</p>
+        <h2>{{ .title }}</h2>
+        {{ if .tracks }}
+        <ol>
+          {{ range .tracks }}
+          <li>
+            {{ . }}
+            {{ if $.lyrics }}
+              {{ $hit := index hugo.Data.lyricsIndex . }}
+              {{ with $hit }} <a class="track-btn" href="/lyrics/#{{ .anchor }}">Lyrics</a>{{ end }}
+            {{ end }}
+            {{ if $.tabs }}
+              {{ $tab := index hugo.Data.tabsIndex . }}
+              {{ with $tab }} <a class="track-btn" href="/tabs/#{{ .anchor }}">Tabs</a>{{ end }}
+            {{ end }}
+            {{ if $.karaoke }}
+              {{ $kara := index hugo.Data.karaokeIndex . }}
+              {{ with $kara }} <a class="track-btn" href="/karaoke/#{{ .anchor }}">Karaoke</a>{{ end }}
+            {{ end }}
+          </li>
+          {{ end }}
+        </ol>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>

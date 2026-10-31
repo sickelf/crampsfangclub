@@ -1,0 +1,527 @@
+{
+  "source": "https://en.wikipedia.org/wiki/The_Cramps_discography",
+  "studio": [
+    {
+      "title": "Songs the Lord Taught Us",
+      "year": "1980",
+      "released": "March 1980",
+      "label": "Illegal (ILP 005)",
+      "cover": "/images/covers/songs-the-lord-taught-us.webp",
+      "tracks": [
+        "TV Set",
+        "Rock on the Moon",
+        "Garbageman",
+        "I Was a Teenage Werewolf",
+        "Sunglasses After Dark",
+        "The Mad Daddy",
+        "Mystery Plane",
+        "Zombie Dance",
+        "What's Behind the Mask",
+        "Strychnine",
+        "I'm Cramped",
+        "Tear It Up",
+        "Fever"
+      ]
+    },
+    {
+      "title": "Psychedelic Jungle",
+      "year": "1981",
+      "released": "April 1981",
+      "label": "Illegal (ILP 009)",
+      "tracks": [
+        "Green Fuz",
+        "Goo Goo Muck",
+        "Rockin' Bones",
+        "Voodoo Idol",
+        "Primitive",
+        "Caveman",
+        "The Crusher",
+        "Don't Eat Stuff Off the Sidewalk",
+        "Can't Find My Mind",
+        "Jungle Hop",
+        "The Natives Are Restless",
+        "Under the Wires",
+        "Beautiful Gardens",
+        "Green Door"
+      ],
+      "cover": "/images/covers/psychedelic-jungle.webp"
+    },
+    {
+      "title": "A Date with Elvis",
+      "year": "1986",
+      "released": "February 1986",
+      "label": "Big Beat (WIKA 46)",
+      "tracks": [
+        "How Far Can Too Far Go?",
+        "The Hot Pearl Snatch",
+        "People Ain't No Good",
+        "What's Inside a Girl?",
+        "Can Your Pussy Do the Dog?",
+        "Kizmiaz",
+        "Cornfed Dames",
+        "Chicken",
+        "(Hot Pool Of) Womanneed",
+        "Aloha from Hell",
+        "It's Just That Song",
+        "Blue Moon Baby",
+        "Georgia Lee Brown",
+        "Give Me a Woman",
+        "Get Off the Road"
+      ],
+      "cover": "/images/covers/a-date-with-elvis.webp"
+    },
+    {
+      "title": "Stay Sick!",
+      "year": "1990",
+      "released": "February 1990",
+      "label": "Enigma (ENVLP 1001)",
+      "tracks": [
+        "Bop Pills",
+        "God Damn Rock & Roll",
+        "Bikini Girls with Machine Guns",
+        "All Women Are Bad",
+        "The Creature from the Black Leather Lagoon",
+        "Shortnin' Bread",
+        "Daisys Up Your Butterfly",
+        "Everything Goes",
+        "Journey to the Center of a Girl",
+        "Mama Oo Pow Pow",
+        "Saddle Up a Buzz Buzz",
+        "Muleskinner Blues",
+        "Her Love Rubbed Off"
+      ],
+      "cover": "/images/covers/stay-sick.webp"
+    },
+    {
+      "title": "Look Mom No Head!",
+      "year": "1991",
+      "released": "1991",
+      "label": "Big Beat (PDWIKD 101)",
+      "tracks": [
+        "Dames, Booze, Chains and Boots",
+        "Two Headed Sex Change",
+        "Blow Up Your Mind",
+        "Hard Workin' Man",
+        "Miniskirt Blues",
+        "Alligator Stomp",
+        "I Wanna Get in Your Pants",
+        "Bend Over, I'll Drive",
+        "Don't Get Funny with Me",
+        "Eyeball in My Martini",
+        "Hipsville 29 B.C.",
+        "The Strangeness in Me"
+      ],
+      "cover": "/images/covers/look-mom-no-head.webp"
+    },
+    {
+      "title": "Flamejob",
+      "year": "1994",
+      "released": "1994",
+      "label": "The Medicine Label (24592)",
+      "tracks": [
+        "Mean Machine",
+        "Ultra Twist!",
+        "Let's Get Fucked Up",
+        "Nest of the Cuckoo Bird",
+        "I'm Customized",
+        "Sado County Auto Show",
+        "Naked Girl Falling Down the Stairs",
+        "How Come You Do Me?",
+        "Inside Out and Upside Down (With You)",
+        "Trapped Love",
+        "Swing the Big Eyed Rabbit",
+        "Strange Love",
+        "Blues, Blues, Blues",
+        "Sinners",
+        "Route 66 (Get Your Kicks On)"
+      ],
+      "cover": "/images/covers/flamejob.webp"
+    },
+    {
+      "title": "Big Beat from Badsville",
+      "year": "1997",
+      "released": "1997",
+      "label": "Epitaph (86516-2)",
+      "tracks": [
+        "Cramp Stomp",
+        "God Monster",
+        "It Thing Hard-On",
+        "Like a Bad Girl Should",
+        "Sheena's in a Goth Gang",
+        "Queen of Pain",
+        "Monkey With Your Tail",
+        "Devil Behind That Bush",
+        "Super Goo",
+        "Hypno Sex Ray",
+        "Burn She-Devil, Burn",
+        "Wet Nightmare",
+        "Badass Bug",
+        "Haulass Hyena",
+        "Confessions of a Psycho Cat",
+        "No Club Lone Wolf",
+        "I Walked All Night",
+        "Peter Gunn"
+      ],
+      "cover": "/images/covers/big-beat-from-badsville.webp"
+    },
+    {
+      "title": "Fiends of Dope Island",
+      "year": "2003",
+      "released": "2003",
+      "label": "Vengeance (675)",
+      "cover": "/images/covers/fiends-of-dope-island.webp",
+      "tracks": [
+        "Big Black Witchcraft Rock",
+        "Papa Satan Sang Louie",
+        "Hang Up",
+        "Fissure of Rolando",
+        "Dr. Fucker M.D. (Musical Deviant)",
+        "Dopefiend Boogie",
+        "Taboo",
+        "Elvis Fucking Christ!",
+        "She's Got Balls",
+        "Oowee Baby",
+        "Mojo Man from Mars",
+        "Color Me Black",
+        "Wrong Way Ticket"
+      ]
+    },
+    {
+      "title": "Gravest Gravy",
+      "year": "2026",
+      "released": "2026",
+      "label": "Vengeance (678)",
+      "tracks": [
+        "TV Set",
+        "Weekend On Mars",
+        "Twist & Shout",
+        "Jungle Hop",
+        "I Can't Hardly Stand It",
+        "Hungry",
+        "The Natives Are Restless",
+        "Domino",
+        "Can't Find My Mind",
+        "Rockin' Bones",
+        "Problem Child",
+        "Rocket In My Pocket"
+      ],
+      "cover": "/images/covers/gravest-gravy.webp"
+    }
+  ],
+  "live": [
+    {
+      "title": "Smell of Female",
+      "released": "November 1983",
+      "label": "Big Beat (NED 6)",
+      "cover": "/images/covers/smell-of-female.webp",
+      "tracks": [
+        "Thee Most Exalted Potentate Of Love",
+        "You Got Good Taste",
+        "Call Of The Wighat",
+        "Faster Pussycat",
+        "I Ain't Nuthin' But A Gorehound",
+        "Psychotic Reaction",
+        "Beautiful Gardens",
+        "She Said",
+        "Surfin' Dead"
+      ]
+    },
+    {
+      "title": "RockinnReelininAucklandNewZealandXXX",
+      "released": "September 1987",
+      "label": "Vengeance (669)",
+      "cover": "/images/covers/rockinnreelininaucklandnewzealandxxx.webp",
+      "tracks": [
+        "The Hot Pearl Snatch",
+        "People Ain't No Good",
+        "What's Inside A Girl?",
+        "Cornfed Dames",
+        "Sunglasses After Dark",
+        "Heartbreak Hotel",
+        "Chicken",
+        "Do The Clam",
+        "Aloha From Hell",
+        "Can Your Pussy Do The Dog?",
+        "Birdfeed"
+      ]
+    }
+  ],
+  "compilations": [
+    {
+      "title": "...Off the Bone",
+      "released": "May 1983",
+      "label": "Illegal (ILP 012)",
+      "cover": "/images/covers/off-the-bone.webp",
+      "tracks": [
+        "Human Fly",
+        "The Way I Walk",
+        "Domino",
+        "Surfin' Bird",
+        "Lonesome Town",
+        "Garbageman",
+        "Fever",
+        "Drug Train",
+        "Love Me",
+        "I Can't Hardly Stand It",
+        "Goo Goo Muck",
+        "She Said",
+        "The Crusher",
+        "Save It",
+        "New Kind Of Kick",
+        "Uranium Rock",
+        "Good Taste (Live)"
+      ]
+    },
+    {
+      "title": "Bad Music for Bad People",
+      "released": "1984",
+      "label": "I.R.S. (IRS SP 70042)",
+      "cover": "/images/covers/bad-music-for-bad-people.webp",
+      "tracks": [
+        "Garbageman",
+        "New Kind Of Kick",
+        "Love Me",
+        "I Can't Hardly Stand It",
+        "She Said",
+        "Goo Goo Muck",
+        "Save It",
+        "Human Fly",
+        "Drug Train",
+        "TV Set",
+        "Uranium Rock"
+      ]
+    },
+    {
+      "title": "Greatest Hits",
+      "released": "1998",
+      "label": "BMG (44840-2)",
+      "tracks": [
+        "Can Your Pussy Do The Dog?",
+        "What's Inside A Girl",
+        "Bikini Girls With Machine Guns",
+        "I Ain't Nuthin' But A Gorehound",
+        "Journy To The Center Of A Girl",
+        "The Most Exalted Potentate Of Love",
+        "Shortnin' Bread",
+        "Mama Oo Pow Pow",
+        "She Said",
+        "Psychotic Reaction"
+      ],
+      "cover": "/images/covers/greatest-hits.webp"
+    },
+    {
+      "title": "How to Make a Monster",
+      "released": "2004",
+      "label": "Vengeance (677)",
+      "cover": "/images/covers/how-to-make-a-monster.webp",
+      "tracks": [
+        "Summer 1976",
+        "Quick Joey Small",
+        "Lux's Blues",
+        "Love Me",
+        "TV Set",
+        "Love Me",
+        "Domino",
+        "Sunglasses After Dark",
+        "Subwire Desire",
+        "I Was a Teenage Werewolf",
+        "Can't Hardly Stand It",
+        "Sweet Woman Blues",
+        "Rumble Blues",
+        "Rumble Blues (False Start)",
+        "Rumble Blues",
+        "Rumble Blues",
+        "Lonesome Town",
+        "Five Years Ahead of My Time",
+        "Call of the Wighat",
+        "Hanky Panky",
+        "Journey to the Center of a Girl",
+        "Jackyard Backoff",
+        "Everything Goes",
+        "All Women are Bad",
+        "Don't Eat Stuff Off the Sidewalk",
+        "I Was a Teenage Werewolf",
+        "Sunglasses After Dark",
+        "Jungle Hop",
+        "Domino",
+        "Love Me",
+        "Strychnine",
+        "TV Set",
+        "I'm Cramped",
+        "The Way I Walk",
+        "Love Me",
+        "Domino",
+        "Human Fly",
+        "I Was a Teenage Werewolf",
+        "Sunglasses After Dark",
+        "Can't Hardly Stand It",
+        "Uranium Rock",
+        "What's Behind the Mask",
+        "Baby Blue Rock",
+        "Subwire Desire",
+        "I'm Cramped",
+        "TV Set"
+      ]
+    }
+  ],
+  "eps": [
+    {
+      "title": "Gravest Hits",
+      "released": "June 1979",
+      "label": "Illegal/I.R.S. (ILS 12013)",
+      "cover": "/images/covers/gravest-hits.webp",
+      "tracks": [
+        "Human Fly",
+        "The Way I Walk",
+        "Domino",
+        "Surfin' Bird",
+        "Lonesome Town"
+      ]
+    },
+    {
+      "title": "Blues Fix",
+      "released": "1992",
+      "label": "Big Beat (DNST 136)",
+      "cover": "/images/covers/blues-fix.webp",
+      "tracks": [
+        "Hard Workin' Man",
+        "It's Mighty Crazy",
+        "Jelly Roll Rock",
+        "Shombalor"
+      ]
+    },
+    {
+      "title": "Ultra Twist",
+      "released": "1994",
+      "label": "Creation (CRESCD 180)",
+      "cover": "/images/covers/ultra-twist.webp",
+      "tracks": [
+        "Ultra Twist",
+        "Confessions of a Psycho Cat",
+        "No Club Lone Wolf"
+      ]
+    }
+  ],
+  "singles": [
+    {
+      "title": "Surfin' Bird / The Way I Walk",
+      "year": "1978",
+      "album": "Gravest Hits",
+      "cover": "/images/covers/surfin-bird-the-way-i-walk.webp"
+    },
+    {
+      "title": "Human Fly / Domino",
+      "year": "1978",
+      "album": "Gravest Hits",
+      "cover": "/images/covers/human-fly-domino.webp"
+    },
+    {
+      "title": "Fever / Garbageman",
+      "year": "1980",
+      "album": "Songs the Lord Taught Us",
+      "cover": "/images/covers/fever-garbageman.webp"
+    },
+    {
+      "title": "Garbageman / TV Set",
+      "year": "1980",
+      "album": "Songs the Lord Taught Us"
+    },
+    {
+      "title": "Garbageman / Drug Train",
+      "year": "1980",
+      "album": "Songs the Lord Taught Us"
+    },
+    {
+      "title": "Drug Train / Love Me / I Can't Hardly Stand It",
+      "year": "1980",
+      "album": "...Off the Bone",
+      "cover": "/images/covers/drug-train-love-me-i-cant-hardly-stand-it.webp"
+    },
+    {
+      "title": "Goo Goo Muck / She Said",
+      "year": "1981",
+      "album": "Psychedelic Jungle"
+    },
+    {
+      "title": "The Crusher / Save It / New Kind of Kick",
+      "year": "1981",
+      "album": "Psychedelic Jungle"
+    },
+    {
+      "title": "Faster Pussycat / You Got Good Taste",
+      "year": "1984",
+      "album": "Smell of Female"
+    },
+    {
+      "title": "I Ain't Nuthin' But a Gorehound / Weekend on Mars",
+      "year": "1984",
+      "album": "Smell of Female"
+    },
+    {
+      "title": "Can Your Pussy Do the Dog? / Blue Moon Baby",
+      "year": "1985",
+      "album": "A Date with Elvis",
+      "cover": "/images/covers/can-your-pussy-do-the-dog.webp"
+    },
+    {
+      "title": "What's Inside a Girl? / Give Me a Woman",
+      "year": "1986",
+      "album": "A Date with Elvis"
+    },
+    {
+      "title": "Kizmiaz / Give Me a Woman",
+      "year": "1986",
+      "album": "A Date with Elvis"
+    },
+    {
+      "title": "Get Off the Road",
+      "year": "1986",
+      "album": "A Date with Elvis"
+    },
+    {
+      "title": "Bikini Girls with Machine Guns / Jackyard Backoff",
+      "year": "1990",
+      "album": "Stay Sick!"
+    },
+    {
+      "title": "All Women Are Bad / Teenage Rage",
+      "year": "1990",
+      "album": "Stay Sick!"
+    },
+    {
+      "title": "The Creature from the Black Leather Lagoon / Jailhouse Rock",
+      "year": "1990",
+      "album": "Stay Sick!"
+    },
+    {
+      "title": "Eyeball in My Martini / Wilder Wilder Faster Faster",
+      "year": "1991",
+      "album": "Look Mom No Head!"
+    },
+    {
+      "title": "Let's Get Fucked Up / How Come You Do Me",
+      "year": "1994",
+      "album": "Flamejob"
+    },
+    {
+      "title": "Ultra Twist / No Club Lone Wolf",
+      "year": "1994",
+      "album": "Flamejob"
+    },
+    {
+      "title": "Naked Girl Falling Down the Stairs / Confessions of a Psycho Cat",
+      "year": "1995",
+      "album": "Flamejob"
+    },
+    {
+      "title": "Like a Bad Girl Should / I Walked All Night",
+      "year": "1997",
+      "album": "Big Beat from Badsville"
+    },
+    {
+      "title": "Big Black Witchcraft Rock / Butcher Pete",
+      "year": "2003",
+      "album": "Fiends of Dope Island"
+    }
+  ]
+}

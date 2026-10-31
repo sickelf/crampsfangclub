@@ -1,0 +1,61 @@
+{{ define "main" }}
+<section class="lyrics">
+  <div class="page-head">
+    <p class="eyebrow">Sing along</p>
+    <h1>{{ .Title }}</h1>
+    <div class="content">{{ .Content }}</div>
+  </div>
+
+  {{ $songs := hugo.Data.karaoke.songs }}
+  {{ $groups := slice "studio" "live" "compilations" "eps" }}
+  {{ $headings := dict "studio" "Studio albums" "live" "Live" "compilations" "Compilations" "eps" "EPs" }}
+  {{ range $groups }}
+    {{ $group := . }}
+    {{ $shown := false }}
+    {{ range index hugo.Data.discography $group }}
+      {{ $id := .title | urlize | strings.TrimLeft "." }}
+      {{ $albumSongs := slice }}
+      {{ range $songs }}{{ if and .albums (eq (index .albums 0).id $id) }}{{ $albumSongs = $albumSongs | append . }}{{ end }}{{ end }}
+      {{ if $albumSongs }}
+        {{ if not $shown }}
+          <h2 class="karaoke-group">{{ index $headings $group }}</h2>
+          {{ $shown = true }}
+        {{ end }}
+        <article class="karaoke-album" id="{{ $id }}">
+          <h3><a href="/discography/#{{ $id }}">{{ .title }}</a>{{ with or .year .released }} <em>({{ . }})</em>{{ end }}</h3>
+          <div class="karaoke-songs">
+            {{ range $song := $albumSongs }}
+              <div class="karaoke-song" id="{{ $song.anchor }}">
+                <p class="karaoke-song-title">{{ $song.title }}</p>
+                {{ with index $song.videos 0 }}
+                  {{ partial "youtube.html" (dict "id" (replace .url "https://www.youtube.com/watch?v=" "") "title" (printf "%s karaoke" $song.title)) }}
+                  <p class="karaoke-credit"><a href="{{ .url }}" target="_blank" rel="noopener">{{ .by }} on YouTube</a></p>
+                {{ end }}
+              </div>
+            {{ end }}
+          </div>
+        </article>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ $loose := slice }}
+  {{ range $songs }}{{ if not .albums }}{{ $loose = $loose | append . }}{{ end }}{{ end }}
+  {{ with $loose }}
+    <h2 class="karaoke-group">Not on an album</h2>
+    <div class="karaoke-songs">
+      {{ range $song := . }}
+        <div class="karaoke-song" id="{{ $song.anchor }}">
+          <p class="karaoke-song-title">{{ $song.title }}</p>
+          {{ with index $song.videos 0 }}
+            {{ partial "youtube.html" (dict "id" (replace .url "https://www.youtube.com/watch?v=" "") "title" (printf "%s karaoke" $song.title)) }}
+            <p class="karaoke-credit"><a href="{{ .url }}" target="_blank" rel="noopener">{{ .by }} on YouTube</a></p>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  <p class="source-note">Karaoke tracks found on <a href="{{ hugo.Data.karaoke.source }}">YouTube</a>. This site does not host them, and uploads come and go.</p>
+</section>
+{{ end }}

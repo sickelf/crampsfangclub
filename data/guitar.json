@@ -1,0 +1,1130 @@
+{
+  "note": "Fan-made lessons and playthroughs found on YouTube. Some are full tutorials, some are just covers that show the part.",
+  "instrument": {
+    "id": "guitar",
+    "title": "Guitar",
+    "songs": [
+      {
+        "title": "All Women Are Bad",
+        "anchor": "guitar-all-women-are-bad",
+        "albums": [
+          {
+            "title": "Stay Sick!",
+            "year": "1990",
+            "id": "stay-sick"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=z9C-oCdVDh8",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Bend Over, I'll Drive",
+        "anchor": "guitar-bend-over-ill-drive",
+        "albums": [
+          {
+            "title": "Look Mom No Head!",
+            "year": "1991",
+            "id": "look-mom-no-head"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=Xhp6PFRtYqM",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=jZKu4hezTGk",
+            "by": "Bass Head Bob",
+            "label": "Bass Head Bob"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=gz25LUMqaS4",
+            "by": "Deathray Cat",
+            "label": "Short · Solo"
+          }
+        ]
+      },
+      {
+        "title": "Big Black Witchcraft Rock",
+        "anchor": "guitar-big-black-witchcraft-rock",
+        "albums": [
+          {
+            "title": "Fiends of Dope Island",
+            "year": "2003",
+            "id": "fiends-of-dope-island"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=BRpdTke_KYQ",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          }
+        ]
+      },
+      {
+        "title": "Blue Moon Baby",
+        "anchor": "guitar-blue-moon-baby",
+        "albums": [
+          {
+            "title": "A Date with Elvis",
+            "year": "1986",
+            "id": "a-date-with-elvis"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=CQ_kvVSjpFk",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=2Pg8c-Wtir8",
+            "by": "Deathray Cat",
+            "label": "Short · Solo"
+          }
+        ]
+      },
+      {
+        "title": "Caveman",
+        "anchor": "guitar-caveman",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=8bd6b2Q1g1w",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Domino",
+        "anchor": "guitar-domino",
+        "albums": [
+          {
+            "title": "Gravest Gravy",
+            "year": "2026",
+            "id": "gravest-gravy"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=pfXJ5UfJ1BI",
+            "by": "Fleurimont's corner",
+            "label": "Fleurimont's corner"
+          }
+        ]
+      },
+      {
+        "title": "Don't Eat Stuff Off the Sidewalk",
+        "anchor": "guitar-dont-eat-stuff-off-the-sidewalk",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=lo7gwy9MnNo",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Drug Train",
+        "anchor": "guitar-drug-train",
+        "albums": [
+          {
+            "title": "...Off the Bone",
+            "year": "1983",
+            "id": "...off-the-bone"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=ujnRHHZpmuI",
+            "by": "Colin Gordon",
+            "label": "Colin Gordon"
+          }
+        ]
+      },
+      {
+        "title": "Fever",
+        "anchor": "guitar-fever",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=qgTdFs7r2bk",
+            "by": "Colin Gordon",
+            "label": "Short"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=bHaP1EigvEg",
+            "by": "3 O'Clock Rock",
+            "label": "3 O'Clock Rock"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=R9b1H8ZpjQg",
+            "by": "Andy Guitar",
+            "label": "Andy Guitar"
+          }
+        ]
+      },
+      {
+        "title": "Fissure of Rolando",
+        "anchor": "guitar-fissure-of-rolando",
+        "albums": [
+          {
+            "title": "Fiends of Dope Island",
+            "year": "2003",
+            "id": "fiends-of-dope-island"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=1uzFtF61ck4",
+            "by": "hwyrod1",
+            "label": "hwyrod1"
+          }
+        ]
+      },
+      {
+        "title": "Garbageman",
+        "anchor": "guitar-garbageman",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=glRwngBBTW0",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=G59_eZnuq_8",
+            "by": "Scott OBrien Guitar",
+            "label": "Scott OBrien Guitar"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=oFkdfA53q5s",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Qt3yYaLOkds",
+            "by": "Deathray Cat",
+            "label": "Short"
+          }
+        ]
+      },
+      {
+        "title": "Georgia Lee Brown",
+        "anchor": "guitar-georgia-lee-brown",
+        "albums": [
+          {
+            "title": "A Date with Elvis",
+            "year": "1986",
+            "id": "a-date-with-elvis"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=nngxekMtQIU",
+            "by": "Deathray Cat",
+            "label": "Short"
+          }
+        ]
+      },
+      {
+        "title": "Goo Goo Muck",
+        "anchor": "guitar-goo-goo-muck",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=y_YMv9XnyeM",
+            "by": "Anyone Can Play Guitar",
+            "label": "Anyone Can Play Guitar"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=20iMJrYb53Y",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=26Xm-5n0tzE",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=jARnqI-7jGU",
+            "by": "andycrowley",
+            "label": "Short 1"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=07zT3IuPIKQ",
+            "by": "Marin Music Center",
+            "label": "Marin Music Center"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=rhIHZtT-FVE",
+            "by": "ALE",
+            "label": "ALE"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=GkQgfOAecb8",
+            "by": "Rick Flippone",
+            "label": "Rick Flippone"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=T8o8x0yZHCI",
+            "by": "Deathray Cat",
+            "label": "Short 2"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=sZIArokVIzU",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat · Solo"
+          }
+        ]
+      },
+      {
+        "title": "Green Door",
+        "anchor": "guitar-green-door",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=ipdQjx757oA",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=FBvgFH0L6IE",
+            "by": "Colin Gordon",
+            "label": "Colin Gordon"
+          }
+        ]
+      },
+      {
+        "title": "Green Fuz",
+        "anchor": "guitar-green-fuz",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=_QssDTTvPxo",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Hang Up",
+        "anchor": "guitar-hang-up",
+        "albums": [
+          {
+            "title": "Fiends of Dope Island",
+            "year": "2003",
+            "id": "fiends-of-dope-island"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=cgr7_slPxrU",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Her Love Rubbed Off",
+        "anchor": "guitar-her-love-rubbed-off",
+        "albums": [
+          {
+            "title": "Stay Sick!",
+            "year": "1990",
+            "id": "stay-sick"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=yBFhXaiA42c",
+            "by": "Colin Gordon",
+            "label": "Colin Gordon"
+          }
+        ]
+      },
+      {
+        "title": "How Come You Do Me?",
+        "anchor": "guitar-how-come-you-do-me",
+        "albums": [
+          {
+            "title": "Flamejob",
+            "year": "1994",
+            "id": "flamejob"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=9p_3mUOYLeM",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          }
+        ]
+      },
+      {
+        "title": "How Far Can Too Far Go?",
+        "anchor": "guitar-how-far-can-too-far-go",
+        "albums": [
+          {
+            "title": "A Date with Elvis",
+            "year": "1986",
+            "id": "a-date-with-elvis"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=PCud4bI70m0",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          }
+        ]
+      },
+      {
+        "title": "Human Fly",
+        "anchor": "guitar-human-fly",
+        "albums": [
+          {
+            "title": "Gravest Hits",
+            "year": "1979",
+            "id": "gravest-hits"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=02bSzeJrMR4",
+            "by": "Anyone Can Play Guitar",
+            "label": "Anyone Can Play Guitar"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=VvPMYw7tDYo",
+            "by": "Romain CNC",
+            "label": "Romain CNC"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=mfttm2_A0I4",
+            "by": "Top Guitar Players",
+            "label": "Top Guitar Players"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=kIUBsTNH9EM",
+            "by": "John McNicholas Guitar",
+            "label": "John McNicholas Guitar"
+          }
+        ]
+      },
+      {
+        "title": "I Can't Hardly Stand It",
+        "anchor": "guitar-i-cant-hardly-stand-it",
+        "albums": [
+          {
+            "title": "Gravest Gravy",
+            "year": "2026",
+            "id": "gravest-gravy"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=flJAjiGiAyI",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=4uUPcwUEC6I",
+            "by": "Colin Gordon",
+            "label": "Short"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=_OdDTuxBp1U",
+            "by": "Jason Read",
+            "label": "Jason Read"
+          }
+        ]
+      },
+      {
+        "title": "I Walked All Night",
+        "anchor": "guitar-i-walked-all-night",
+        "albums": [
+          {
+            "title": "Big Beat from Badsville",
+            "year": "1997",
+            "id": "big-beat-from-badsville"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=zo4b96c97fI",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          }
+        ]
+      },
+      {
+        "title": "I Was a Teenage Werewolf",
+        "anchor": "guitar-i-was-a-teenage-werewolf",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=ycco3kQwwl0",
+            "by": "Anyone Can Play Guitar",
+            "label": "Anyone Can Play Guitar"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=YQoViXs8EBM",
+            "by": "Colin Gordon",
+            "label": "Short 1"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=armxTibikuQ",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=F4WOndGz0kg",
+            "by": "Jason Read",
+            "label": "Jason Read"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=UW3ZD2NJOxQ",
+            "by": "Jam Planet",
+            "label": "Jam Planet"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=lpHU2vQzClE",
+            "by": "Deathray Cat",
+            "label": "Short 2"
+          }
+        ]
+      },
+      {
+        "title": "I'm Cramped",
+        "anchor": "guitar-im-cramped",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=IhaafPGzmtA",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "I'm Customized",
+        "anchor": "guitar-im-customized",
+        "albums": [
+          {
+            "title": "Flamejob",
+            "year": "1994",
+            "id": "flamejob"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=w_SlMQ8s1Sc",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=2vkHoKWYB7M",
+            "by": "Colin Gordon",
+            "label": "Short"
+          }
+        ]
+      },
+      {
+        "title": "Journey to the Center of a Girl",
+        "anchor": "guitar-journey-to-the-center-of-a-girl",
+        "albums": [
+          {
+            "title": "Stay Sick!",
+            "year": "1990",
+            "id": "stay-sick"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=O3qBqtFRAy0",
+            "by": "Adrian Whyte",
+            "label": "Adrian Whyte"
+          }
+        ]
+      },
+      {
+        "title": "Like a Bad Girl Should",
+        "anchor": "guitar-like-a-bad-girl-should",
+        "albums": [
+          {
+            "title": "Big Beat from Badsville",
+            "year": "1997",
+            "id": "big-beat-from-badsville"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=PHjndhd5x74",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          }
+        ]
+      },
+      {
+        "title": "Lonesome Town",
+        "anchor": "guitar-lonesome-town",
+        "albums": [
+          {
+            "title": "Gravest Hits",
+            "year": "1979",
+            "id": "gravest-hits"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=5w__21QnFMM",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Mystery Plane",
+        "anchor": "guitar-mystery-plane",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=qwe8lptmraE",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Naked Girl Falling Down the Stairs",
+        "anchor": "guitar-naked-girl-falling-down-the-stairs",
+        "albums": [
+          {
+            "title": "Flamejob",
+            "year": "1994",
+            "id": "flamejob"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=y7lRI3uphzo",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          }
+        ]
+      },
+      {
+        "title": "New Kind Of Kick",
+        "anchor": "guitar-new-kind-of-kick",
+        "albums": [
+          {
+            "title": "...Off the Bone",
+            "year": "1983",
+            "id": "...off-the-bone"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=Ps_bwzlR5G4",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Peter Gunn",
+        "anchor": "guitar-peter-gunn",
+        "albums": [
+          {
+            "title": "Big Beat from Badsville",
+            "year": "1997",
+            "id": "big-beat-from-badsville"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=nqRlheNnZc0",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=s6MGxvWOypM",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=5d5daqPMTes",
+            "by": "Deathray Cat",
+            "label": "Short"
+          }
+        ]
+      },
+      {
+        "title": "Primitive",
+        "anchor": "guitar-primitive",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=wagP4apNGHU",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=tCz9j49QBZQ",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=j7xEjCFpP0w",
+            "by": "Jason Read",
+            "label": "Jason Read"
+          }
+        ]
+      },
+      {
+        "title": "Psychotic Reaction",
+        "anchor": "guitar-psychotic-reaction",
+        "albums": [
+          {
+            "title": "Smell of Female",
+            "year": "1983",
+            "id": "smell-of-female"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=x2valajlanw",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Queen of Pain",
+        "anchor": "guitar-queen-of-pain",
+        "albums": [
+          {
+            "title": "Big Beat from Badsville",
+            "year": "1997",
+            "id": "big-beat-from-badsville"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=s-u0khod-GY",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          }
+        ]
+      },
+      {
+        "title": "Rockin' Bones",
+        "anchor": "guitar-rockin-bones",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=EbSods6eQHA",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=HktBvsHitlM",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Strychnine",
+        "anchor": "guitar-strychnine",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=EbSods6eQHA",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=D_dgQdLiNQ8",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Sunglasses After Dark",
+        "anchor": "guitar-sunglasses-after-dark",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=t2OLn8TNnsw",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Surfin' Bird",
+        "anchor": "guitar-surfin-bird",
+        "albums": [
+          {
+            "title": "Gravest Hits",
+            "year": "1979",
+            "id": "gravest-hits"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=jacmx0ZydMc",
+            "by": "Colin Gordon",
+            "label": "Short"
+          }
+        ]
+      },
+      {
+        "title": "Surfin' Dead",
+        "anchor": "guitar-surfin-dead",
+        "albums": [
+          {
+            "title": "Smell of Female",
+            "year": "1983",
+            "id": "smell-of-female"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=yP9NYItgecg",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Yw_ZoBNTEl8",
+            "by": "Deathray Cat",
+            "label": "Short · Solo"
+          }
+        ]
+      },
+      {
+        "title": "The Mad Daddy",
+        "anchor": "guitar-the-mad-daddy",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=9h9AIH3gJS8",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          }
+        ]
+      },
+      {
+        "title": "The Way I Walk",
+        "anchor": "guitar-the-way-i-walk",
+        "albums": [
+          {
+            "title": "...Off the Bone",
+            "year": "1983",
+            "id": "...off-the-bone"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=RYje9T0G_rk",
+            "by": "Anyone Can Play Guitar",
+            "label": "Anyone Can Play Guitar"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=DHYNNeKmARg",
+            "by": "STVG71",
+            "label": "STVG71"
+          }
+        ]
+      },
+      {
+        "title": "Thee Most Exalted Potentate Of Love",
+        "anchor": "guitar-thee-most-exalted-potentate-of-love",
+        "albums": [
+          {
+            "title": "Smell of Female",
+            "year": "1983",
+            "id": "smell-of-female"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=MCg-rC3AKb0",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          }
+        ]
+      },
+      {
+        "title": "TV Set",
+        "anchor": "guitar-tv-set",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=WXNpZm1oRWg",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          }
+        ]
+      },
+      {
+        "title": "Ultra Twist!",
+        "anchor": "guitar-ultra-twist",
+        "albums": [
+          {
+            "title": "Flamejob",
+            "year": "1994",
+            "id": "flamejob"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=3lLdMTDLTSw",
+            "by": "Scott OBrien Guitar",
+            "label": "Short"
+          }
+        ]
+      },
+      {
+        "title": "Voodoo Idol",
+        "anchor": "guitar-voodoo-idol",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=CV6kQr6ptjw",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=9GYsm5XN4OY",
+            "by": "Deathray Cat",
+            "label": "Short"
+          }
+        ]
+      },
+      {
+        "title": "What's Inside a Girl?",
+        "anchor": "guitar-whats-inside-a-girl",
+        "albums": [
+          {
+            "title": "A Date with Elvis",
+            "year": "1986",
+            "id": "a-date-with-elvis"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=EbSods6eQHA",
+            "by": "Deathray Cat",
+            "label": "Deathray Cat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=CND1eMwi3zM",
+            "by": "Guitar & Bass Breakdown",
+            "label": "Guitar & Bass Breakdown"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=OHdTbYRQeK4",
+            "by": "Colin Gordon",
+            "label": "Short"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=xtDDZ7vBUmk",
+            "by": "John Wombat",
+            "label": "John Wombat"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=XTFg_yg8Js0",
+            "by": "David Wakey Wakefield",
+            "label": "David Wakey Wakefield"
+          }
+        ]
+      },
+      {
+        "title": "You Got Good Taste",
+        "anchor": "guitar-you-got-good-taste",
+        "albums": [
+          {
+            "title": "Smell of Female",
+            "year": "1983",
+            "id": "smell-of-female"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=un5mcDf1nUs",
+            "by": "Colin Gordon",
+            "label": "Colin Gordon"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=91Dlu9368aY",
+            "by": "Billy Ribak",
+            "label": "Billy Ribak"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Owh9Yr2YuJQ",
+            "by": "David Wakey Wakefield",
+            "label": "David Wakey Wakefield"
+          }
+        ]
+      }
+    ],
+    "extras": [
+      {
+        "title": "Barre Chords - The Cramps Style",
+        "url": "https://www.youtube.com/watch?v=p9UZGTynFyg",
+        "label": "Short"
+      },
+      {
+        "title": "Bigsby Trick From Poison Ivy Of The Cramps",
+        "url": "https://www.youtube.com/watch?v=sNNH7lInM3g",
+        "label": "Short"
+      },
+      {
+        "title": "Learn To Play 7 CRAMPS Songs On Guitar In 40 Minutes!",
+        "url": "https://www.youtube.com/watch?v=cbJo1yfgm9U",
+        "label": "Deathray Cat"
+      },
+      {
+        "title": "Play Along With Poison Ivy Of The Cramps!",
+        "url": "https://www.youtube.com/watch?v=T_s3wzfAawE",
+        "label": "Short"
+      },
+      {
+        "title": "Play This Easy Cramps Riff!",
+        "url": "https://www.youtube.com/watch?v=_v0gUSHfWdw",
+        "label": "Short"
+      },
+      {
+        "title": "Poison Ivy's Pedals - The Cramps",
+        "url": "https://www.youtube.com/watch?v=f2Zxunc1_Ak",
+        "label": "Short"
+      },
+      {
+        "title": "The Cramps Guitar Lesson - How To Play Poison Ivy Riffs",
+        "url": "https://www.youtube.com/watch?v=VLJF6psE7eY",
+        "label": "Adrian Whyte"
+      },
+      {
+        "title": "The Cramps Guitar Sound: EVERYTHING You Need To Know To Sound Like Poison Ivy",
+        "url": "https://www.youtube.com/watch?v=hlxEwqVo0Uw",
+        "label": "Deathray Cat"
+      }
+    ]
+  }
+}

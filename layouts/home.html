@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <section class="hero">
+    <div class="hero-lockup">
+      <h1><span class="unofficial">Unofficial</span><span class="cramps-fill">CRAMPS</span><span class="tail">Fang Club</span></h1>
+    </div>
+    <p class="tagline">Stay sick. Turn blue. Lyrics, tabs, bootlegs, and the records that started the fever.</p>
+  </section>
+
+
+  <section class="section-block news-block">
+    <div class="news-list">
+      {{ range first 6 (where site.RegularPages "Section" "news") }}
+        <article class="news-item">
+          <p class="date">{{ .Date.Format "Jan 2, 2006" }}</p>
+          <h3>{{ .Title }}</h3>
+          {{ with .Params.image }}<img class="news-image" src="{{ . }}" alt="">{{ end }}
+          <div class="content">{{ .Content }}</div>
+        </article>
+      {{ else }}
+        <p>No news yet. The dead will rise shortly.</p>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

@@ -1,0 +1,32 @@
+baseURL = 'https://example.com/'
+title = 'Cramps Fang Club'
+locale = 'en-us'
+enableEmoji = true
+buildDrafts = false
+buildFuture = false
+
+[params]
+  description = 'Cramps Fang Club — lyrics, tabs, bootlegs, karaoke, and the discography of The Cramps.'
+  keywords = ['the cramps', 'psychobilly', 'lux interior', 'poison ivy', 'punkabilly', 'rockabilly']
+  author = 'A Cramps Fan'
+  footer = 'Not affiliated with The Cramps estate.'
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = 'monokai'
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[permalinks]
+  news = "/news/:year/:month/:day/:slug/"
+  lyrics = "/lyrics/:slug/"
+  tabs = "/tabs/:slug/"
+  bootlegs = "/bootlegs/:slug/"
+  karaoke = "/karaoke/:slug/"
+  discography = "/discography/:slug/"

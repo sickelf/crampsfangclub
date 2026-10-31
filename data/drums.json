@@ -1,0 +1,254 @@
+{
+  "note": "Fan-made lessons and playthroughs found on YouTube. Some are full tutorials, some are just covers that show the part.",
+  "instrument": {
+    "id": "drums",
+    "title": "Drums",
+    "songs": [
+      {
+        "title": "Bikini Girls with Machine Guns",
+        "anchor": "drums-bikini-girls-with-machine-guns",
+        "albums": [
+          {
+            "title": "Stay Sick!",
+            "year": "1990",
+            "id": "stay-sick"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=uQUoRhA_-UQ",
+            "by": "YouTube",
+            "label": "YouTube"
+          }
+        ]
+      },
+      {
+        "title": "Can't Find My Mind",
+        "anchor": "drums-cant-find-my-mind",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=jszR9M6k0Ro",
+            "by": "YouTube",
+            "label": "YouTube"
+          }
+        ]
+      },
+      {
+        "title": "Dames, Booze, Chains and Boots",
+        "anchor": "drums-dames-booze-chains-and-boots",
+        "albums": [
+          {
+            "title": "Look Mom No Head!",
+            "year": "1991",
+            "id": "look-mom-no-head"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=YDIpAqo2bL8",
+            "by": "YouTube",
+            "label": "YouTube"
+          }
+        ]
+      },
+      {
+        "title": "Garbageman",
+        "anchor": "drums-garbageman",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=nNV3iDl9pPQ",
+            "by": "Slow Train Beat",
+            "label": "Slow Train Beat"
+          }
+        ]
+      },
+      {
+        "title": "Goo Goo Muck",
+        "anchor": "drums-goo-goo-muck",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=nveULdWqmi0",
+            "by": "YouTube",
+            "label": "YouTube"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=cqXMEN62WZw",
+            "by": "YouTube",
+            "label": "Short"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Ewg0dLSPBP0",
+            "by": "YouTube",
+            "label": "YouTube · 2"
+          }
+        ]
+      },
+      {
+        "title": "Human Fly",
+        "anchor": "drums-human-fly",
+        "albums": [
+          {
+            "title": "Gravest Hits",
+            "year": "1979",
+            "id": "gravest-hits"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=J_1EXkdelFw",
+            "by": "Laurin",
+            "label": "Laurin"
+          }
+        ]
+      },
+      {
+        "title": "I Can't Hardly Stand It",
+        "anchor": "drums-i-cant-hardly-stand-it",
+        "albums": [
+          {
+            "title": "Gravest Gravy",
+            "year": "2026",
+            "id": "gravest-gravy"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=dcgI1gUapPQ",
+            "by": "Tommie Krause",
+            "label": "Tommie Krause"
+          }
+        ]
+      },
+      {
+        "title": "I Was a Teenage Werewolf",
+        "anchor": "drums-i-was-a-teenage-werewolf",
+        "albums": [
+          {
+            "title": "Songs the Lord Taught Us",
+            "year": "1980",
+            "id": "songs-the-lord-taught-us"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=wYfU836R6RU",
+            "by": "YouTube",
+            "label": "YouTube"
+          }
+        ]
+      },
+      {
+        "title": "Primitive",
+        "anchor": "drums-primitive",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=znx76NdMOVw",
+            "by": "YouTube",
+            "label": "YouTube"
+          }
+        ]
+      },
+      {
+        "title": "The Crusher",
+        "anchor": "drums-the-crusher",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=pGWvxzxy3Ls",
+            "by": "Laurin",
+            "label": "Laurin"
+          }
+        ]
+      },
+      {
+        "title": "The Way I Walk",
+        "anchor": "drums-the-way-i-walk",
+        "albums": [
+          {
+            "title": "...Off the Bone",
+            "year": "1983",
+            "id": "...off-the-bone"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=j4bvWFA_b0M",
+            "by": "YouTube",
+            "label": "YouTube"
+          }
+        ]
+      },
+      {
+        "title": "Thee Most Exalted Potentate Of Love",
+        "anchor": "drums-thee-most-exalted-potentate-of-love",
+        "albums": [
+          {
+            "title": "Smell of Female",
+            "year": "1983",
+            "id": "smell-of-female"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=AcuiDfdZLBA",
+            "by": "YouTube",
+            "label": "YouTube"
+          }
+        ]
+      },
+      {
+        "title": "Voodoo Idol",
+        "anchor": "drums-voodoo-idol",
+        "albums": [
+          {
+            "title": "Psychedelic Jungle",
+            "year": "1981",
+            "id": "psychedelic-jungle"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=0EUmGM-OUrw",
+            "by": "YouTube",
+            "label": "YouTube"
+          }
+        ]
+      }
+    ],
+    "extras": []
+  }
+}
