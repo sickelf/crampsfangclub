@@ -31,7 +31,7 @@
       {{ $prev = $letter }}
     {{ end }}
     <article class="lesson" id="{{ $song.anchor }}">
-      <h3>{{ $song.title }}{{ with index $song.albums 0 }} <a href="/discography/#{{ .id }}">{{ .title }}</a>{{ with .year }} <em>({{ . }})</em>{{ end }}{{ end }}</h3>
+      <h3>{{ $song.title }}{{ with index $song.albums 0 }} <a href="{{ "discography/#" | relURL }}{{ .id }}">{{ .title }}</a>{{ with .year }} <em>({{ . }})</em>{{ end }}{{ end }}</h3>
       <div class="karaoke-songs">
         {{ range $song.videos }}
           {{ partial "youtube.html" (dict "id" (replace .url "https://www.youtube.com/watch?v=" "") "title" (printf "%s lesson" $song.title)) }}

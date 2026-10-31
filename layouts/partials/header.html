@@ -1,19 +1,19 @@
 <header class="site-header">
   <div class="header-inner">
-    <a href="/" class="site-title">
+    <a href="{{ site.Home.RelPermalink }}" class="site-title">
       <span class="title-main cramps-fill">CRAMPS</span>
       <span class="title-kicker">Fang Club</span>
     </a>
     <nav class="main-nav">
-      <a href="/" {{ if .IsHome }}class="active"{{ end }}>Home</a>
-      <a href="/discography/" {{ if eq .Section "discography" }}class="active"{{ end }}>Discography</a>
-      <a href="/lyrics/" {{ if eq .Section "lyrics" }}class="active"{{ end }}>Lyrics</a>
-      <a href="/tabs/" {{ if eq .Section "tabs" }}class="active"{{ end }}>Tabs</a>
-      <a href="/karaoke/" {{ if eq .Section "karaoke" }}class="active"{{ end }}>Karaoke</a>
-      <a href="/guitar/" {{ if eq .Section "guitar" }}class="active"{{ end }}>Guitar</a>
-      <a href="/bass/" {{ if eq .Section "bass" }}class="active"{{ end }}>Bass</a>
-      <a href="/drums/" {{ if eq .Section "drums" }}class="active"{{ end }}>Drums</a>
-      <a href="/bootlegs/" {{ if eq .Section "bootlegs" }}class="active"{{ end }}>Bootlegs</a>
+      <a href="{{ site.Home.RelPermalink }}" {{ if .IsHome }}class="active"{{ end }}>Home</a>
+      <a href="{{ "discography/" | relURL }}" {{ if eq .Section "discography" }}class="active"{{ end }}>Discography</a>
+      <a href="{{ "lyrics/" | relURL }}" {{ if eq .Section "lyrics" }}class="active"{{ end }}>Lyrics</a>
+      <a href="{{ "tabs/" | relURL }}" {{ if eq .Section "tabs" }}class="active"{{ end }}>Tabs</a>
+      <a href="{{ "karaoke/" | relURL }}" {{ if eq .Section "karaoke" }}class="active"{{ end }}>Karaoke</a>
+      <a href="{{ "guitar/" | relURL }}" {{ if eq .Section "guitar" }}class="active"{{ end }}>Guitar</a>
+      <a href="{{ "bass/" | relURL }}" {{ if eq .Section "bass" }}class="active"{{ end }}>Bass</a>
+      <a href="{{ "drums/" | relURL }}" {{ if eq .Section "drums" }}class="active"{{ end }}>Drums</a>
+      <a href="{{ "bootlegs/" | relURL }}" {{ if eq .Section "bootlegs" }}class="active"{{ end }}>Bootlegs</a>
       </nav>
     <button class="nav-toggle" aria-label="Toggle navigation">
       <span></span><span></span><span></span>

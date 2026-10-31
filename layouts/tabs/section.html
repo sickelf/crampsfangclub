@@ -38,7 +38,7 @@
           {{ range .versions }}<a class="track-btn" href="{{ .url }}" target="_blank" rel="noopener">{{ .type }}</a>{{ end }}
         </span>
         <span class="lyric-albums">
-          {{ with index .albums 0 }}<a href="/discography/#{{ .id }}">{{ .title }}</a>{{ with .year }} <em>({{ . }})</em>{{ end }}{{ end }}
+          {{ with index .albums 0 }}<a href="{{ "discography/#" | relURL }}{{ .id }}">{{ .title }}</a>{{ with .year }} <em>({{ . }})</em>{{ end }}{{ end }}
         </span>
       </li>
     {{ end }}

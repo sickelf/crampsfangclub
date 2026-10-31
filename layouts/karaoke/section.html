@@ -22,7 +22,7 @@
           {{ $shown = true }}
         {{ end }}
         <article class="karaoke-album" id="{{ $id }}">
-          <h3><a href="/discography/#{{ $id }}">{{ .title }}</a>{{ with or .year .released }} <em>({{ . }})</em>{{ end }}</h3>
+          <h3><a href="{{ "discography/#" | relURL }}{{ $id }}">{{ .title }}</a>{{ with or .year .released }} <em>({{ . }})</em>{{ end }}</h3>
           <div class="karaoke-songs">
             {{ range $song := $albumSongs }}
               <div class="karaoke-song" id="{{ $song.anchor }}">

@@ -24,15 +24,15 @@
             {{ . }}
             {{ if $.lyrics }}
               {{ $hit := index hugo.Data.lyricsIndex . }}
-              {{ with $hit }} <a class="track-btn" href="/lyrics/#{{ .anchor }}">Lyrics</a>{{ end }}
+              {{ with $hit }} <a class="track-btn" href="{{ "lyrics/#" | relURL }}{{ .anchor }}">Lyrics</a>{{ end }}
             {{ end }}
             {{ if $.tabs }}
               {{ $tab := index hugo.Data.tabsIndex . }}
-              {{ with $tab }} <a class="track-btn" href="/tabs/#{{ .anchor }}">Tabs</a>{{ end }}
+              {{ with $tab }} <a class="track-btn" href="{{ "tabs/#" | relURL }}{{ .anchor }}">Tabs</a>{{ end }}
             {{ end }}
             {{ if $.karaoke }}
               {{ $kara := index hugo.Data.karaokeIndex . }}
-              {{ with $kara }} <a class="track-btn" href="/karaoke/#{{ .anchor }}">Karaoke</a>{{ end }}
+              {{ with $kara }} <a class="track-btn" href="{{ "karaoke/#" | relURL }}{{ .anchor }}">Karaoke</a>{{ end }}
             {{ end }}
           </li>
           {{ end }}

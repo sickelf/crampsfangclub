@@ -35,7 +35,7 @@
       <li id="{{ .anchor }}">
         <a class="lyric-title" href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
         <span class="lyric-albums">
-          {{ range $i, $album := .albums }}{{ if $i }} · {{ end }}<a href="/discography/#{{ $album.id }}">{{ $album.title }}</a>{{ with $album.year }} <em>({{ . }})</em>{{ end }}{{ end }}
+          {{ range $i, $album := .albums }}{{ if $i }} · {{ end }}<a href="{{ "discography/#" | relURL }}{{ $album.id }}">{{ $album.title }}</a>{{ with $album.year }} <em>({{ . }})</em>{{ end }}{{ end }}
         </span>
       </li>
     {{ end }}
