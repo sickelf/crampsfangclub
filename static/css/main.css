@@ -23,6 +23,7 @@ html { scroll-behavior: smooth; }
 
 .lyric-index li[id],
 .tour-date,
+h2.karaoke-group,
 h2.letter { scroll-margin-top: 130px; }
 
 body {
@@ -524,6 +525,9 @@ a.track-btn:hover { background: #ff2a1f; color: white; }
   letter-spacing: 0.04em;
 }
 .letter-nav a:hover { color: white; }
+.instrument-nav { gap: 8px 28px; }
+.instrument-nav a { font-size: 56px; letter-spacing: 0.06em; }
+.tutorial-letters a { font-size: 36px; }
 
 .lyric-index {
   list-style: none;

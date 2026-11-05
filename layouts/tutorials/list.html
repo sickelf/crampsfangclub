@@ -1,0 +1,68 @@
+{{ define "main" }}
+<section class="lyrics">
+  <div class="page-head">
+    <p class="eyebrow">Learn the songs</p>
+    <h1>{{ .Title }}</h1>
+    <div class="content">{{ .Content }}</div>
+  </div>
+
+  <nav class="letter-nav instrument-nav" aria-label="Jump to instrument">
+    <a href="#guitar">Guitar</a>
+    <a href="#bass">Bass</a>
+    <a href="#drums">Drums</a>
+  </nav>
+
+  {{ range slice "guitar" "bass" "drums" }}
+    {{ $data := index hugo.Data . }}
+    {{ $inst := $data.instrument }}
+    <h2 class="karaoke-group" id="{{ $inst.id }}">{{ $inst.title }}</h2>
+
+    {{ $songs := $inst.songs }}
+    {{ $letters := slice }}
+    {{ range $songs }}
+      {{ $bare := .title }}
+      {{ if and (hasPrefix $bare "(") (in $bare ")") }}{{ $bare = strings.TrimLeft " " (index (split $bare ")") 1) }}{{ end }}
+      {{ $letter := upper (substr $bare 0 1) }}
+      {{ if not (findRE "^[A-Z]" $letter) }}{{ $letter = "#" }}{{ end }}
+      {{ $letters = $letters | append $letter }}
+    {{ end }}
+    <nav class="letter-nav tutorial-letters" aria-label="Jump to letter">
+      {{ range uniq $letters }}<a href="#{{ $inst.id }}-letter-{{ . }}">{{ . }}</a>{{ end }}
+    </nav>
+
+    {{ $prev := "" }}
+    {{ range $song := $songs }}
+      {{ $bare := $song.title }}
+      {{ if and (hasPrefix $bare "(") (in $bare ")") }}{{ $bare = strings.TrimLeft " " (index (split $bare ")") 1) }}{{ end }}
+      {{ $letter := upper (substr $bare 0 1) }}
+      {{ if not (findRE "^[A-Z]" $letter) }}{{ $letter = "#" }}{{ end }}
+      {{ if ne $letter $prev }}
+        <h2 class="letter cramps-fill" id="{{ $inst.id }}-letter-{{ $letter }}">{{ $letter }}</h2>
+        {{ $prev = $letter }}
+      {{ end }}
+      <article class="lesson" id="{{ $song.anchor }}">
+        <h3>{{ $song.title }}{{ with index $song.albums 0 }} <a href="{{ "discography/#" | relURL }}{{ .id }}">{{ .title }}</a>{{ with .year }} <em>({{ . }})</em>{{ end }}{{ end }}</h3>
+        <div class="karaoke-songs">
+          {{ range $song.videos }}
+            {{ partial "youtube.html" (dict "id" (replace .url "https://www.youtube.com/watch?v=" "") "title" (printf "%s lesson" $song.title)) }}
+          {{ end }}
+        </div>
+      </article>
+    {{ end }}
+
+    {{ with $inst.extras }}
+      <h3 class="tutorial-extras-head">Sound, gear, and mixed lessons</h3>
+      <div class="karaoke-songs">
+        {{ range . }}
+          <div class="karaoke-song">
+            <p class="karaoke-song-title">{{ .title }}</p>
+            {{ partial "youtube.html" (dict "id" (replace .url "https://www.youtube.com/watch?v=" "") "title" .title) }}
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+  {{ end }}
+
+  <p class="source-note">Lessons found on YouTube. This site does not host them, and uploads come and go.</p>
+</section>
+{{ end }}
