@@ -1,0 +1,8327 @@
+{
+  "shows": [
+    {
+      "date": "2006-11-04",
+      "venue": "Marquee Theatre",
+      "place": "Tempe, Arizona",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Groovie Ghoulies"
+      ]
+    },
+    {
+      "date": "2006-11-03",
+      "venue": "House of Blues Anaheim",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Groovie Ghoulies"
+      ]
+    },
+    {
+      "date": "2006-11-02",
+      "venue": "House of Blues Las Vegas, Mandalay Bay Resort and Casino",
+      "place": "Las Vegas, Nevada",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Groovie Ghoulies"
+      ]
+    },
+    {
+      "date": "2006-10-31",
+      "venue": "The Fillmore",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods"
+      ]
+    },
+    {
+      "date": "2006-10-29",
+      "venue": "The Catalyst",
+      "place": "Santa Cruz, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2006-10-28",
+      "venue": "House of Blues Anaheim",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2006-10-25",
+      "venue": "Key Club at Morongo",
+      "place": "Cabazon, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2006-10-24",
+      "venue": "House of Blues San Diego",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods"
+      ]
+    },
+    {
+      "date": "2006-09-03",
+      "venue": "Avalon",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2006-08-27",
+      "venue": "Sunset Junction Street Fair Festival Grounds",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "\"Sunset Junction Street Fair\"",
+        "Drive-By Truckers",
+        "Hank3",
+        "Dave Alvin & The Guilty Men"
+      ]
+    },
+    {
+      "date": "2006-08-17",
+      "venue": "Praia Fluvial do Taboão",
+      "place": "Paredes de Coura, Viana do Castelo",
+      "country": "Portugal",
+      "with": []
+    },
+    {
+      "date": "2006-08-15",
+      "venue": "Astoria",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "2006-08-13",
+      "venue": "Berns Salonger",
+      "place": "Stockholm, Stockholm",
+      "country": "Sweden",
+      "with": []
+    },
+    {
+      "date": "2006-08-12",
+      "venue": "Kulturbolaget",
+      "place": "Malmo, Skåne",
+      "country": "Sweden",
+      "with": []
+    },
+    {
+      "date": "2006-08-11",
+      "venue": "Middelalderparken",
+      "place": "Oslo, Oslo",
+      "country": "Norway",
+      "with": [
+        "\"Oya Festival\"",
+        "High On Fire"
+      ]
+    },
+    {
+      "date": "2006-08-09",
+      "venue": "Lokerse Feesten",
+      "place": "Lokeren, Flanders",
+      "country": "Belgium",
+      "with": [
+        "Bauhaus",
+        "Daan"
+      ]
+    },
+    {
+      "date": "2004-11-07",
+      "venue": "The Queen Mary",
+      "place": "Long Beach, California",
+      "country": "United States",
+      "with": [
+        "All Tomorrow's Parties - ATP 2004"
+      ]
+    },
+    {
+      "date": "2004-11-06",
+      "venue": "House of Blues Anaheim",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls",
+        "Creepy Feelings aka \"The Deadbillys\""
+      ]
+    },
+    {
+      "date": "2004-11-05",
+      "venue": "The Catalyst",
+      "place": "Santa Cruz, California",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls",
+        "Deadbillys"
+      ]
+    },
+    {
+      "date": "2004-11-04",
+      "venue": "First Avenue",
+      "place": "Minneapolis, Minnesota",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2004-11-03",
+      "venue": "Roseland Theater",
+      "place": "Portland, Oregon",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2004-11-02",
+      "venue": "The Showbox",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls",
+        "Creepy Feelings aka \"The Deadbillys\""
+      ]
+    },
+    {
+      "date": "2004-10-31",
+      "venue": "The Warfield Theatre",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2004-10-30",
+      "venue": "Hollywood Athletic Club",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2004-10-28",
+      "venue": "House of Blues Las Vegas, Mandalay Bay Resort and Casino",
+      "place": "Las Vegas, Nevada",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls",
+        "The Deadbillys"
+      ]
+    },
+    {
+      "date": "2004-10-27",
+      "venue": "Club Sound, In the Venue",
+      "place": "Salt Lake City, Utah",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2004-10-26",
+      "venue": "Ogden Theatre",
+      "place": "Denver, Colorado",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls",
+        "The Flash Express"
+      ]
+    },
+    {
+      "date": "2004-10-24",
+      "venue": "First Avenue",
+      "place": "Minneapolis, Minnesota",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2004-10-23",
+      "venue": "The Vic Theatre",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2004-10-22",
+      "venue": "The Majestic Theatre",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls",
+        "Cyril Lords"
+      ]
+    },
+    {
+      "date": "2004-10-20",
+      "venue": "Bogart's",
+      "place": "Cincinnati, Ohio",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls",
+        "Foxy Shazam"
+      ]
+    },
+    {
+      "date": "2004-10-18",
+      "venue": "Irving Plaza",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2004-10-17",
+      "venue": "Irving Plaza",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Chesterfield Kings",
+        "Dead Combo",
+        "The Brimstones",
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2004-10-16",
+      "venue": "House of Blues Boston",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2004-10-14",
+      "venue": "The Sphere",
+      "place": "Buffalo, New York",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2004-10-13",
+      "venue": "Odeon Concert Club",
+      "place": "Cleveland, Ohio",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls",
+        "The Vacancies"
+      ]
+    },
+    {
+      "date": "2004-10-12",
+      "venue": "The Theatre, Mr. Smalls",
+      "place": "Millvale, Pennsylvania",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls",
+        "Legendary Hucklebucks"
+      ]
+    },
+    {
+      "date": "2004-10-10",
+      "venue": "Trocadero Theatre",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls",
+        "Juke Box Zeros"
+      ]
+    },
+    {
+      "date": "2004-10-09",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2004-10-08",
+      "venue": "The Orange Peel",
+      "place": "Asheville, North Carolina",
+      "country": "United States",
+      "with": [
+        "Chesterfield Kings",
+        "Labiators"
+      ]
+    },
+    {
+      "date": "2004-10-06",
+      "venue": "Mercy Lounge",
+      "place": "Nashville, Tennessee",
+      "country": "United States",
+      "with": [
+        "The Chesterfield Kings"
+      ]
+    },
+    {
+      "date": "2004-10-05",
+      "venue": "The Roxy Theater",
+      "place": "Atlanta, Georgia",
+      "country": "United States",
+      "with": [
+        "Chesterfield Kings",
+        "Gargantua"
+      ]
+    },
+    {
+      "date": "2004-10-03",
+      "venue": "House of Blues Orlando, Disney Springs West Side",
+      "place": "Orlando, Florida",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2004-10-02",
+      "venue": "Culture Room",
+      "place": "Fort Lauderdale, Florida",
+      "country": "United States",
+      "with": [
+        "The Chesterfield Kings"
+      ]
+    },
+    {
+      "date": "2004-10-01",
+      "venue": "State Theatre",
+      "place": "St. Petersburg, Florida",
+      "country": "United States",
+      "with": [
+        "The Chesterfield Kings"
+      ]
+    },
+    {
+      "date": "2004-09-29",
+      "venue": "House of Blues New Orleans",
+      "place": "New Orleans, Louisiana",
+      "country": "United States",
+      "with": [
+        "The Chesterfield Kings",
+        "Rock City Morgue"
+      ]
+    },
+    {
+      "date": "2004-09-28",
+      "venue": "Blue Cats",
+      "place": "Knoxville, Tennessee",
+      "country": "United States",
+      "with": [
+        "The Chesterfield Kings"
+      ]
+    },
+    {
+      "date": "2004-09-26",
+      "venue": "Meridian",
+      "place": "Houston, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2004-09-25",
+      "venue": "The Gypsy Tea Room",
+      "place": "Dallas, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2004-09-24",
+      "venue": "Stubb's Bar-B-Q",
+      "place": "Austin, Texas",
+      "country": "United States",
+      "with": [
+        "The Chesterfield Kings",
+        "Flametrick Subs"
+      ]
+    },
+    {
+      "date": "2004-09-22",
+      "venue": "Marquee Theatre",
+      "place": "Tempe, Arizona",
+      "country": "United States",
+      "with": [
+        "The Chesterfield Kings"
+      ]
+    },
+    {
+      "date": "2004-07-03",
+      "venue": "Oak Canyon Ranch",
+      "place": "Silverado, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2004-05-19",
+      "venue": "Irving Plaza",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "\"Joey Ramone's Birthday Bash\"",
+        "Blondie",
+        "Cheap Trick",
+        "Misfits"
+      ]
+    },
+    {
+      "date": "2003-11-02",
+      "venue": "4th & B",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2003-11-01",
+      "venue": "The Majestic Ventura Theater",
+      "place": "Ventura, California",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2003-10-31",
+      "venue": "Greek Theatre, Griffith Park",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "Queens of the Stone Age",
+        "Tomahawk",
+        "Masters of Reality"
+      ]
+    },
+    {
+      "date": "2003-10-16",
+      "venue": "Avalon",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-09-27",
+      "venue": "Astoria",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "Queen Adreena"
+      ]
+    },
+    {
+      "date": "2003-09-26",
+      "venue": "Astoria",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "Queen Adreena"
+      ]
+    },
+    {
+      "date": "2003-09-25",
+      "venue": "Rock City",
+      "place": "Nottingham, England",
+      "country": "United Kingdom",
+      "with": [
+        "Queen Adreena"
+      ]
+    },
+    {
+      "date": "2003-09-23",
+      "venue": "Élysée Montmartre",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "2003-09-22",
+      "venue": "Live Music Hall",
+      "place": "Cologne, North Rhine-Westphalia",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "2003-09-21",
+      "venue": "Große Freiheit 36",
+      "place": "Hamburg, Hamburg",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "2003-09-19",
+      "venue": "SO36",
+      "place": "Berlin, Berlin",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "2003-09-18",
+      "venue": "Paradiso",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "2003-09-16",
+      "venue": "Ancienne Belgique",
+      "place": "Brussels, Brussels Capital",
+      "country": "Belgium",
+      "with": []
+    },
+    {
+      "date": "2003-09-15",
+      "venue": "Darmstadt, Germany",
+      "place": "Darmstadt, Hesse",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "2003-09-14",
+      "venue": "LKA-Longhorn",
+      "place": "Stuttgart, Baden-Württemberg",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "2003-09-12",
+      "venue": "Recinto Mendizabala",
+      "place": "Vitoria-Gasteiz",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "2003-09-09",
+      "venue": "Elserhalle",
+      "place": "Munich, Bavaria",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "2003-09-07",
+      "venue": "Independent Day Festival 2003",
+      "place": "Bologna, Emilia-Romagna",
+      "country": "Italy",
+      "with": [
+        "Rancid",
+        "Nashville Pussy",
+        "Radio Birdman",
+        "The Immortal Lee County Killers"
+      ]
+    },
+    {
+      "date": "2003-09-05",
+      "venue": "Colmar",
+      "place": "Colmar",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "2003-06-13",
+      "venue": "The Fonda Theatre",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "Quintron and Miss Pussycat",
+        "Millionaire$"
+      ]
+    },
+    {
+      "date": "2003-06-12",
+      "venue": "4th & B",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": [
+        "The Millionaires",
+        "Quintron and Miss Pussycat"
+      ]
+    },
+    {
+      "date": "2003-06-10",
+      "venue": "House of Blues Anaheim",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": [
+        "Quintron and Miss Pussycat",
+        "Millionaire$"
+      ]
+    },
+    {
+      "date": "2003-06-09",
+      "venue": "The Fillmore",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "Quintron and Miss Pussycat"
+      ]
+    },
+    {
+      "date": "2003-06-06",
+      "venue": "McMenamins Crystal Ballroom",
+      "place": "Portland, Oregon",
+      "country": "United States",
+      "with": [
+        "Millionaire$"
+      ]
+    },
+    {
+      "date": "2003-06-05",
+      "venue": "Showbox at the Market",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-06-03",
+      "venue": "Dv8",
+      "place": "Salt Lake City, Utah",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-06-02",
+      "venue": "Ogden Theatre",
+      "place": "Denver, Colorado",
+      "country": "United States",
+      "with": [
+        "Quintron and Miss Pussycat",
+        "Call Sign Cobra"
+      ]
+    },
+    {
+      "date": "2003-05-31",
+      "venue": "Pop's Nightclub & Concert Venue",
+      "place": "Sauget, Illinois",
+      "country": "United States",
+      "with": [
+        "Quintron and Miss Pussycat"
+      ]
+    },
+    {
+      "date": "2003-05-29",
+      "venue": "Madrid Theatre",
+      "place": "Kansas City, Missouri",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-05-28",
+      "venue": "First Avenue",
+      "place": "Minneapolis, Minnesota",
+      "country": "United States",
+      "with": [
+        "Von Blondies"
+      ]
+    },
+    {
+      "date": "2003-05-27",
+      "venue": "House of Blues Chicago",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": [
+        "Quintron and Miss Pussycat",
+        "The Phenoms"
+      ]
+    },
+    {
+      "date": "2003-05-26",
+      "venue": "Beachland Ballroom, Beachland Ballroom & Tavern",
+      "place": "Cleveland, Ohio",
+      "country": "United States",
+      "with": [
+        "The Von Bondies"
+      ]
+    },
+    {
+      "date": "2003-05-24",
+      "venue": "The Majestic Theatre",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": [
+        "The Von Bondies"
+      ]
+    },
+    {
+      "date": "2003-05-23",
+      "venue": "The Sphere",
+      "place": "Buffalo, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-05-22",
+      "venue": "Funk 'n Waffles - Rochester",
+      "place": "Rochester, New York",
+      "country": "United States",
+      "with": [
+        "The Von Bondies"
+      ]
+    },
+    {
+      "date": "2003-05-20",
+      "venue": "Irving Plaza",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "The Von Bondies"
+      ]
+    },
+    {
+      "date": "2003-05-19",
+      "venue": "The Roxy",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": [
+        "The Von Bondies"
+      ]
+    },
+    {
+      "date": "2003-05-17",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "The Von Bondies"
+      ]
+    },
+    {
+      "date": "2003-05-16",
+      "venue": "Warsaw",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-05-15",
+      "venue": "Trocadero Theatre",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-05-13",
+      "venue": "Peabodys night club",
+      "place": "Virginia Beach, Virginia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-05-11",
+      "venue": "Cat's Cradle",
+      "place": "Carrboro, North Carolina",
+      "country": "United States",
+      "with": [
+        "The Von Bondies"
+      ]
+    },
+    {
+      "date": "2003-05-10",
+      "venue": "The Orange Peel",
+      "place": "Asheville, North Carolina",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-05-08",
+      "venue": "The Masquerade",
+      "place": "Atlanta, Georgia",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2003-05-06",
+      "venue": "40 Watt Club",
+      "place": "Athens, Georgia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-05-04",
+      "venue": "House of Blues Orlando, Disney Springs West Side",
+      "place": "Orlando, Florida",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-05-03",
+      "venue": "Culture Room",
+      "place": "Fort Lauderdale, Florida",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-05-02",
+      "venue": "State Theatre",
+      "place": "St. Petersburg, Florida",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2003-05-01",
+      "venue": "Jack Rabbits",
+      "place": "Jacksonville, Florida",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-04-29",
+      "venue": "Shim Sham Club",
+      "place": "New Orleans, Louisiana",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-04-28",
+      "venue": "Shim Sham Club",
+      "place": "New Orleans, Louisiana",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls",
+        "Rock City Morgue"
+      ]
+    },
+    {
+      "date": "2003-04-26",
+      "venue": "Diamond Ballroom",
+      "place": "Oklahoma City, Oklahoma",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-04-25",
+      "venue": "The Other Side",
+      "place": "Tulsa, Oklahoma",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2003-04-24",
+      "venue": "Deep Ellum Live",
+      "place": "Dallas, Texas",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2003-04-22",
+      "venue": "Numbers",
+      "place": "Houston, Texas",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2003-04-21",
+      "venue": "Stubb's Bar-B-Q",
+      "place": "Austin, Texas",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2003-04-19",
+      "venue": "Sunshine Theater",
+      "place": "Albuquerque, New Mexico",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-04-18",
+      "venue": "Nita's Hideaway",
+      "place": "Tempe, Arizona",
+      "country": "United States",
+      "with": [
+        "Gore Gore Girls"
+      ]
+    },
+    {
+      "date": "2003-04-15",
+      "venue": "Sunshine Theater",
+      "place": "Albuquerque, New Mexico",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2003-03-15",
+      "venue": "Trocadero Theatre",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2002-12-31",
+      "venue": "The Fonda Theatre",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "Blazing Haley",
+        "Jeepers Creepers"
+      ]
+    },
+    {
+      "date": "2002-11-02",
+      "venue": "Key Club",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2002-10-31",
+      "venue": "The Fillmore",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "Lords of Altamont"
+      ]
+    },
+    {
+      "date": "2002-10-30",
+      "venue": "The Majestic Ventura Theater",
+      "place": "Ventura, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2002-10-28",
+      "venue": "Galaxy Concert Theatre",
+      "place": "Santa Ana, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2002-10-25",
+      "venue": "4th and B",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2001-12-31",
+      "venue": "Ogden Theatre",
+      "place": "Denver, Colorado",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2001-10-31",
+      "venue": "The Fillmore",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2001-10-29",
+      "venue": "4th and B",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2001-05-19",
+      "venue": "Hammerstein Ballroom, Manhattan Center",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "The Damned",
+        "Cheap Trick",
+        "Blondie",
+        "Misfits"
+      ]
+    },
+    {
+      "date": "2000-12-31",
+      "venue": "Ogden Theatre",
+      "place": "Denver, Colorado",
+      "country": "United States",
+      "with": [
+        "The Down-n-Outs",
+        "The Jews"
+      ]
+    },
+    {
+      "date": "2000-11-06",
+      "venue": "Showbox Comedy and Supper Club",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": [
+        "The Lords Of Altamont"
+      ]
+    },
+    {
+      "date": "2000-11-05",
+      "venue": "Commodore Ballroom",
+      "place": "Vancouver, British Columbia",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "2000-11-03",
+      "venue": "McMenamins Crystal Ballroom",
+      "place": "Portland, Oregon",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2000-10-31",
+      "venue": "The Fillmore",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "Deadbolt"
+      ]
+    },
+    {
+      "date": "2000-10-29",
+      "venue": "4th and B",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "2000-10-28",
+      "venue": "Variety Arts Center",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "Toilet Boys"
+      ]
+    },
+    {
+      "date": "2000-10-27",
+      "venue": "Galaxy Concert Theatre",
+      "place": "Santa Ana, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1999-12-31",
+      "venue": "The Masquerade",
+      "place": "Atlanta, Georgia",
+      "country": "United States",
+      "with": [
+        "Impotent Sea Snakes"
+      ]
+    },
+    {
+      "date": "1999-12-06",
+      "venue": "4th and B",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1999-12-05",
+      "venue": "The Majestic Ventura Theater",
+      "place": "Ventura, California",
+      "country": "United States",
+      "with": [
+        "Fabulous Monsters",
+        "Deadbolt"
+      ]
+    },
+    {
+      "date": "1999-11-06",
+      "venue": "4th & B",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1999-11-05",
+      "venue": "The Majestic Ventura Theater",
+      "place": "Ventura, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1999-11-03",
+      "venue": "Roseland Theater",
+      "place": "Portland, Oregon",
+      "country": "United States",
+      "with": [
+        "Fabulous Monsters"
+      ]
+    },
+    {
+      "date": "1999-11-02",
+      "venue": "The Showbox",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": [
+        "Fabulous Monsters"
+      ]
+    },
+    {
+      "date": "1999-10-31",
+      "venue": "The Fillmore",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "Deadbolt"
+      ]
+    },
+    {
+      "date": "1999-10-30",
+      "venue": "The Fillmore",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "Fabulous Monsters"
+      ]
+    },
+    {
+      "date": "1999-10-28",
+      "venue": "Sun Theater",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": [
+        "Fabulous Monsters"
+      ]
+    },
+    {
+      "date": "1999-10-27",
+      "venue": "House of Blues Anaheim",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": [
+        "Fabulous Monsters"
+      ]
+    },
+    {
+      "date": "1999-10-26",
+      "venue": "House of Blues Anaheim",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": [
+        "Fabulous Monsters",
+        "Deadbolt"
+      ]
+    },
+    {
+      "date": "1999-05-07",
+      "venue": "Planet Life",
+      "place": "Ljubljana, Ljubljana",
+      "country": "Slovenia",
+      "with": []
+    },
+    {
+      "date": "1998-12-31",
+      "venue": "Ogden Theatre",
+      "place": "Denver, Colorado",
+      "country": "United States",
+      "with": [
+        "The Down-n-Outs",
+        "The Family Men"
+      ]
+    },
+    {
+      "date": "1998-11-02",
+      "venue": "La Luna",
+      "place": "Portland, Oregon",
+      "country": "United States",
+      "with": [
+        "The Bomboras"
+      ]
+    },
+    {
+      "date": "1998-10-31",
+      "venue": "The Warfield Theatre",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "The Bomboras",
+        "Pearl Harbor"
+      ]
+    },
+    {
+      "date": "1998-10-30",
+      "venue": "House of Blues Anaheim",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": [
+        "The Bomboras"
+      ]
+    },
+    {
+      "date": "1998-10-29",
+      "venue": "House of Blues Anaheim",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": [
+        "The Bomboras"
+      ]
+    },
+    {
+      "date": "1998-10-28",
+      "venue": "Galaxy Concert Theatre",
+      "place": "Santa Ana, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-10-22",
+      "venue": "Canecão",
+      "place": "Rio de Janeiro, Rio de Janeiro",
+      "country": "Brazil",
+      "with": []
+    },
+    {
+      "date": "1998-10-21",
+      "venue": "Forum",
+      "place": "Curitiba, Paraná",
+      "country": "Brazil",
+      "with": []
+    },
+    {
+      "date": "1998-10-20",
+      "venue": "Olympia",
+      "place": "São Paulo, São Paulo",
+      "country": "Brazil",
+      "with": []
+    },
+    {
+      "date": "1998-10-18",
+      "venue": "Bar Opinião",
+      "place": "Porto Alegre, Rio Grande do Sul",
+      "country": "Brazil",
+      "with": []
+    },
+    {
+      "date": "1998-10-17",
+      "venue": "Cemento",
+      "place": "Buenos Aires, Buenos Aires F.D.",
+      "country": "Argentina",
+      "with": []
+    },
+    {
+      "date": "1998-10-16",
+      "venue": "Labarinto",
+      "place": "Santiago, Santiago Metropolitan",
+      "country": "Chile",
+      "with": []
+    },
+    {
+      "date": "1998-07-04",
+      "venue": "Oak Canyon Ranch",
+      "place": "Silverado, California",
+      "country": "United States",
+      "with": [
+        "Hootenanny 1998"
+      ]
+    },
+    {
+      "date": "1998-06-14",
+      "venue": "Shibuya O East",
+      "place": "Shibuya, Tokyo",
+      "country": "Japan",
+      "with": [
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1998-06-13",
+      "venue": "Club Citta'",
+      "place": "Kawasaki, Kanagawa",
+      "country": "Japan",
+      "with": [
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1998-06-12",
+      "venue": "Club Quattro / クラブクアトロ",
+      "place": "Nagoya, Aichi",
+      "country": "Japan",
+      "with": [
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1998-06-11",
+      "venue": "Banana Hall",
+      "place": "Osaka, Ōsaka",
+      "country": "Japan",
+      "with": [
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1998-05-15",
+      "venue": "Astoria",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1998-05-14",
+      "venue": "The Astoria",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "Earl Brutus",
+        "Groop Dogdrill"
+      ]
+    },
+    {
+      "date": "1998-05-12",
+      "venue": "Mylos",
+      "place": "Thessaloníki",
+      "country": "Greece",
+      "with": []
+    },
+    {
+      "date": "1998-05-11",
+      "venue": "Rodon",
+      "place": "Athens, Attica",
+      "country": "Greece",
+      "with": []
+    },
+    {
+      "date": "1998-05-08",
+      "venue": "Dom Sportova",
+      "place": "Zagreb, City of Zagreb",
+      "country": "Croatia",
+      "with": []
+    },
+    {
+      "date": "1998-05-07",
+      "venue": "Dakota",
+      "place": "Ljubljana, Ljubljana",
+      "country": "Slovenia",
+      "with": []
+    },
+    {
+      "date": "1998-05-06",
+      "venue": "Palaconcerti Aquatica",
+      "place": "Milan, Lombardy",
+      "country": "Italy",
+      "with": []
+    },
+    {
+      "date": "1998-05-05",
+      "venue": "Vidia Rock Club",
+      "place": "Cesena, Emilia-Romagna",
+      "country": "Italy",
+      "with": []
+    },
+    {
+      "date": "1998-05-02",
+      "venue": "Sagres Campo Pequeno",
+      "place": "Lisbon, Lisbon",
+      "country": "Portugal",
+      "with": [
+        "Ash",
+        "Suicidal Tendencies"
+      ]
+    },
+    {
+      "date": "1998-05-01",
+      "venue": "Parque El Soto",
+      "place": "Móstoles, Madrid",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1998-04-29",
+      "venue": "Le Bikini",
+      "place": "Toulouse, Occitanie",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1998-04-27",
+      "venue": "Incognito",
+      "place": "Munich, Bavaria",
+      "country": "Germany",
+      "with": [
+        "Trashmonkeys"
+      ]
+    },
+    {
+      "date": "1998-04-26",
+      "venue": "Zeche Carl",
+      "place": "Essen, North Rhine-Westphalia",
+      "country": "Germany",
+      "with": [
+        "Trashmonkeys"
+      ]
+    },
+    {
+      "date": "1998-04-25",
+      "venue": "Markthalle",
+      "place": "Hamburg, Hamburg",
+      "country": "Germany",
+      "with": [
+        "Trashmonkeys"
+      ]
+    },
+    {
+      "date": "1998-04-24",
+      "venue": "Kulturzentrum Schlachthof",
+      "place": "Bremen, Bremen",
+      "country": "Germany",
+      "with": [
+        "Trashmonkeys"
+      ]
+    },
+    {
+      "date": "1998-04-22",
+      "venue": "Kesselhaus, Kulturbrauerei",
+      "place": "Berlin, Berlin",
+      "country": "Germany",
+      "with": [
+        "Trashmonkeys"
+      ]
+    },
+    {
+      "date": "1998-04-21",
+      "venue": "PC 69",
+      "place": "Bielefeld, North Rhine-Westphalia",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1998-04-20",
+      "venue": "Tor 3",
+      "place": "Düsseldorf, North Rhine-Westphalia",
+      "country": "Germany",
+      "with": [
+        "Rockbitch"
+      ]
+    },
+    {
+      "date": "1998-04-18",
+      "venue": "La Laiterie",
+      "place": "Strasbourg, Grand Est",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1998-04-17",
+      "venue": "Élysée Montmartre",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1998-04-16",
+      "venue": "Palais d'Auron",
+      "place": "Bourges",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1998-04-15",
+      "venue": "L'Aéronef",
+      "place": "Lille, Hauts-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1998-04-13",
+      "venue": "Schärbeck Hall",
+      "place": "Brussels, Brussels Capital",
+      "country": "Belgium",
+      "with": []
+    },
+    {
+      "date": "1998-04-12",
+      "venue": "De Oosterpoort",
+      "place": "Groningen, Groningen",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1998-04-11",
+      "venue": "Tivoli Oudegracht",
+      "place": "Utrecht, Utrecht",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1998-04-10",
+      "venue": "Paradiso",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": [
+        "The Nomads",
+        "The Fleshtones"
+      ]
+    },
+    {
+      "date": "1998-03-29",
+      "venue": "Fox Theatre",
+      "place": "Boulder, Colorado",
+      "country": "United States",
+      "with": [
+        "The Amazing Royal Crowns"
+      ]
+    },
+    {
+      "date": "1998-03-27",
+      "venue": "The Blue Note",
+      "place": "Columbia, Missouri",
+      "country": "United States",
+      "with": [
+        "Amazing Royal Crowns"
+      ]
+    },
+    {
+      "date": "1998-03-26",
+      "venue": "Modjeska Theater",
+      "place": "Milwaukee, Wisconsin",
+      "country": "United States",
+      "with": [
+        "The Amazing Crowns",
+        "The Bomboras"
+      ]
+    },
+    {
+      "date": "1998-03-25",
+      "venue": "Newport Music Hall",
+      "place": "Columbus, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-24",
+      "venue": "The Vogue",
+      "place": "Indianapolis, Indiana",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-22",
+      "venue": "Bogart's",
+      "place": "Cincinnati, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-21",
+      "venue": "Metropol",
+      "place": "Pittsburgh, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-20",
+      "venue": "Showplace Theatre",
+      "place": "Buffalo, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-18",
+      "venue": "Lupo's Heartbreak Hotel",
+      "place": "Providence, Rhode Island",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-17",
+      "venue": "Toad's Place",
+      "place": "New Haven, Connecticut",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-16",
+      "venue": "Club Toast",
+      "place": "Burlington, Vermont",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-15",
+      "venue": "The Asylum",
+      "place": "Portland, Maine",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-13",
+      "venue": "The Stone Pony",
+      "place": "Asbury Park, New Jersey",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-12",
+      "venue": "Bohager's",
+      "place": "Baltimore, Maryland",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-10",
+      "venue": "Abyss",
+      "place": "Virginia Beach, Virginia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-09",
+      "venue": "Cat's Cradle",
+      "place": "Carrboro, North Carolina",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-08",
+      "venue": "The Masquerade",
+      "place": "Atlanta, Georgia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-07",
+      "venue": "40 Watt Club",
+      "place": "Athens, Georgia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-06",
+      "venue": "House of Blues Orlando, Disney Springs West Side",
+      "place": "Orlando, Florida",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-05",
+      "venue": "Cameo Theater",
+      "place": "Miami, Florida",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-04",
+      "venue": "State Theatre",
+      "place": "St. Petersburg, Florida",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-02",
+      "venue": "The Varsity Theater",
+      "place": "Baton Rouge, Louisiana",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-03-01",
+      "venue": "The White Rabbit",
+      "place": "San Antonio, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1998-02-28",
+      "venue": "Will Rogers Theatre",
+      "place": "Oklahoma City, Oklahoma",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1997-12-31",
+      "venue": "Glass House",
+      "place": "Pomona, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1997-12-14",
+      "venue": "Grays Armory",
+      "place": "Cleveland, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1997-11-29",
+      "venue": "First Avenue",
+      "place": "Minneapolis, Minnesota",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-28",
+      "venue": "Ranch Bowl",
+      "place": "Omaha, Nebraska",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-26",
+      "venue": "Mississippi Nights",
+      "place": "St. Louis, Missouri",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-25",
+      "venue": "The Granada Theater",
+      "place": "Lawrence, Kansas",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-23",
+      "venue": "House of Blues Chicago",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-22",
+      "venue": "House of Blues Chicago",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-21",
+      "venue": "Clutch Cargo's",
+      "place": "Pontiac, Michigan",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-20",
+      "venue": "Odeon",
+      "place": "Cleveland, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1997-11-18",
+      "venue": "The Opera House",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-17",
+      "venue": "Foufounes Électriques",
+      "place": "Montreal, Quebec",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1997-11-15",
+      "venue": "Roseland Ballroom",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-14",
+      "venue": "Avalon",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-13",
+      "venue": "Trocadero Theatre",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-11",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "Guitar Wolf",
+        "Demolition Doll Rods"
+      ]
+    },
+    {
+      "date": "1997-11-09",
+      "venue": "The Buckhead Theatre",
+      "place": "Atlanta, Georgia",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-08",
+      "venue": "House of Blues New Orleans",
+      "place": "New Orleans, Louisiana",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-07",
+      "venue": "Numbers",
+      "place": "Houston, Texas",
+      "country": "United States",
+      "with": [
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-06",
+      "venue": "Deep Ellum Live",
+      "place": "Dallas, Texas",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-05",
+      "venue": "Liberty Lunch",
+      "place": "Austin, Texas",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-03",
+      "venue": "The Zone",
+      "place": "Albuquerque, New Mexico",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-02",
+      "venue": "Electric Ballroom",
+      "place": "Tempe, Arizona",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-11-01",
+      "venue": "SOMA San Diego",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": [
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-10-31",
+      "venue": "The Warfield Theatre",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-10-29",
+      "venue": "Galaxy Concert Theatre",
+      "place": "Santa Ana, California",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-10-28",
+      "venue": "AVALON Hollywood",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-10-25",
+      "venue": "La Luna",
+      "place": "Portland, Oregon",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-10-24",
+      "venue": "Graceland",
+      "place": "Vancouver, British Columbia",
+      "country": "Canada",
+      "with": [
+        "Guitar Wolf",
+        "Demolition Doll Rods"
+      ]
+    },
+    {
+      "date": "1997-10-23",
+      "venue": "ShowBox Theater",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": [
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-10-21",
+      "venue": "Dv8",
+      "place": "Salt Lake City, Utah",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1997-10-20",
+      "venue": "Ogden Theatre",
+      "place": "Denver, Colorado",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar Wolf"
+      ]
+    },
+    {
+      "date": "1997-10-18",
+      "venue": "Huntridge Theater",
+      "place": "Las Vegas, Nevada",
+      "country": "United States",
+      "with": [
+        "Demolition Doll Rods",
+        "Guitar World"
+      ]
+    },
+    {
+      "date": "1996-11-02",
+      "venue": "House of Blues Anaheim",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": [
+        "Everclear",
+        "Cypress Hill"
+      ]
+    },
+    {
+      "date": "1996-11-01",
+      "venue": "House of Blues Anaheim",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": [
+        "Phantom Surfers"
+      ]
+    },
+    {
+      "date": "1996-10-31",
+      "venue": "The Warfield Theatre",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "Groovie Ghoulies",
+        "Phantom Surfers"
+      ]
+    },
+    {
+      "date": "1996-10-30",
+      "venue": "House of Blues Anaheim",
+      "place": "Anaheim, California",
+      "country": "United States",
+      "with": [
+        "Possum Dixon"
+      ]
+    },
+    {
+      "date": "1996-10-27",
+      "venue": "Glass House",
+      "place": "Pomona, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1996-10-26",
+      "venue": "Galaxy Concert Theatre",
+      "place": "Santa Ana, California",
+      "country": "United States",
+      "with": [
+        "Phantom Surfers"
+      ]
+    },
+    {
+      "date": "1996-07-13",
+      "venue": "Metro",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": [
+        "Skeleton Key"
+      ]
+    },
+    {
+      "date": "1996-07-12",
+      "venue": "Metro",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": [
+        "Skeleton Key"
+      ]
+    },
+    {
+      "date": "1996-02-07",
+      "venue": "328 Performance Hall",
+      "place": "Nashville, Tennessee",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1996-02-04",
+      "venue": "Numbers",
+      "place": "Houston, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-12-31",
+      "venue": "The Fillmore",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-11-28",
+      "venue": "Black Cat",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "Date Bait",
+        "Jonathan Fire*Eater"
+      ]
+    },
+    {
+      "date": "1995-11-26",
+      "venue": "Lupo's Heartbreak Hotel",
+      "place": "Providence, Rhode Island",
+      "country": "United States",
+      "with": [
+        "Man or Astro‐Man?",
+        "Royal Crowns"
+      ]
+    },
+    {
+      "date": "1995-11-25",
+      "venue": "The Academy",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Man or Astro‐Man?"
+      ]
+    },
+    {
+      "date": "1995-11-24",
+      "venue": "The Academy",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-11-23",
+      "venue": "Memory Lane",
+      "place": "Baltimore, Maryland",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-11-22",
+      "venue": "Trocadero Theatre",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": [
+        "Man or Astro‐Man?"
+      ]
+    },
+    {
+      "date": "1995-11-20",
+      "venue": "Twisters",
+      "place": "Richmond, Virginia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-11-19",
+      "venue": "Cat's Cradle",
+      "place": "Carrboro, North Carolina",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-10-31",
+      "venue": "Thomas & Mack Center",
+      "place": "Las Vegas, Nevada",
+      "country": "United States",
+      "with": [
+        "White Zombie",
+        "The Voluptuous Horror Of Karen Black",
+        "Toadies"
+      ]
+    },
+    {
+      "date": "1995-10-29",
+      "venue": "San Diego Sports Arena",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-10-28",
+      "venue": "Irvine Meadows Amphitheatre",
+      "place": "Irvine, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-08-19",
+      "venue": "Free Wheels Grounds",
+      "place": "Cunlhat",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1995-07-01",
+      "venue": "Oak Canyon Ranch",
+      "place": "Silverado, California",
+      "country": "United States",
+      "with": [
+        "Hootenanny 1995"
+      ]
+    },
+    {
+      "date": "1995-06-17",
+      "venue": "ANU Bar & Refectory",
+      "place": "Canberra, Australian Capital Territory",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1995-06-16",
+      "venue": "Palace Theatre",
+      "place": "Melbourne, Victoria",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1995-06-14",
+      "venue": "Liberty",
+      "place": "Adelaide, South Australia",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1995-06-12",
+      "venue": "Warehouse",
+      "place": "Perth, Western Australia",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1995-06-10",
+      "venue": "Coogee Bay Hotel",
+      "place": "Sydney, New South Wales",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1995-06-09",
+      "venue": "The Roxy",
+      "place": "Brisbane, Queensland",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1995-06-07",
+      "venue": "Playroom",
+      "place": "Gold Coast, Queensland",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1995-06-04",
+      "venue": "Auckland Town Hall",
+      "place": "Auckland, Auckland",
+      "country": "New Zealand",
+      "with": []
+    },
+    {
+      "date": "1995-03-27",
+      "venue": "Aqualung",
+      "place": "Madrid, Madrid",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1995-03-25",
+      "venue": "Zeleste",
+      "place": "Barcelona, Catalonia",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1995-03-23",
+      "venue": "Fri-Son",
+      "place": "Fribourg, Fribourg",
+      "country": "Switzerland",
+      "with": []
+    },
+    {
+      "date": "1995-03-18",
+      "venue": "Dom Sportova",
+      "place": "Zagreb, City of Zagreb",
+      "country": "Croatia",
+      "with": []
+    },
+    {
+      "date": "1995-03-17",
+      "venue": "Arena Wien",
+      "place": "Vienna, Vienna",
+      "country": "Austria",
+      "with": []
+    },
+    {
+      "date": "1995-03-15",
+      "venue": "Belmondo",
+      "place": "Prague",
+      "country": "Czechia",
+      "with": []
+    },
+    {
+      "date": "1995-03-14",
+      "venue": "Rodon",
+      "place": "Athens, Attica",
+      "country": "Greece",
+      "with": []
+    },
+    {
+      "date": "1995-03-13",
+      "venue": "Mylos",
+      "place": "Thessaloníki",
+      "country": "Greece",
+      "with": []
+    },
+    {
+      "date": "1995-03-11",
+      "venue": "Le Zénith",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1995-03-08",
+      "venue": "Luna Theater",
+      "place": "Brussels, Brussels Capital",
+      "country": "Belgium",
+      "with": [
+        "Sin Alley"
+      ]
+    },
+    {
+      "date": "1995-03-07",
+      "venue": "Große Freiheit 36",
+      "place": "Hamburg, Hamburg",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1995-03-06",
+      "venue": "Music Circus",
+      "place": "Dortmund, North Rhine-Westphalia",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1995-03-05",
+      "venue": "LKA-Longhorn",
+      "place": "Stuttgart, Baden-Württemberg",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1995-03-03",
+      "venue": "Huxleys Neue Welt",
+      "place": "Berlin, Berlin",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1995-03-02",
+      "venue": "PC 69",
+      "place": "Bielefeld, North Rhine-Westphalia",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1995-03-01",
+      "venue": "Paradiso",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1995-02-28",
+      "venue": "Noorderligt",
+      "place": "Tilburg, North Brabant",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1995-02-25",
+      "venue": "Brixton Academy",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "Voodoo Queens",
+        "Gallon Drunk"
+      ]
+    },
+    {
+      "date": "1995-02-24",
+      "venue": "SFX Theatre",
+      "place": "Dublin, Leinster",
+      "country": "Ireland",
+      "with": []
+    },
+    {
+      "date": "1995-02-19",
+      "venue": "Club Congress",
+      "place": "Tucson, Arizona",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-02-18",
+      "venue": "El Rey Theater",
+      "place": "Albuquerque, New Mexico",
+      "country": "United States",
+      "with": [
+        "Doo Rag"
+      ]
+    },
+    {
+      "date": "1995-02-16",
+      "venue": "Cain's Ballroom",
+      "place": "Tulsa, Oklahoma",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-02-15",
+      "venue": "Will Rogers Theatre",
+      "place": "Oklahoma City, Oklahoma",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-02-14",
+      "venue": "The Blue Note",
+      "place": "Columbia, Missouri",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-02-12",
+      "venue": "New Daisy Theatre",
+      "place": "Memphis, Tennessee",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-02-10",
+      "venue": "The Roxy",
+      "place": "Atlanta, Georgia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-02-09",
+      "venue": "House of Blues New Orleans",
+      "place": "New Orleans, Louisiana",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-02-08",
+      "venue": "Five Points Music Hall",
+      "place": "Birmingham, Alabama",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-02-07",
+      "venue": "328 Performance Hall",
+      "place": "Nashville, Tennessee",
+      "country": "United States",
+      "with": [
+        "Doo Rag"
+      ]
+    },
+    {
+      "date": "1995-02-04",
+      "venue": "Numbers",
+      "place": "Houston, Texas",
+      "country": "United States",
+      "with": [
+        "Doo Rag"
+      ]
+    },
+    {
+      "date": "1995-02-03",
+      "venue": "Liberty Lunch",
+      "place": "Austin, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-02-02",
+      "venue": "Trees",
+      "place": "Dallas, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-01-30",
+      "venue": "The Nile Theater",
+      "place": "Mesa, Arizona",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-01-28",
+      "venue": "SOMA San Diego",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-01-27",
+      "venue": "The Palace",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-01-25",
+      "venue": "The Edge",
+      "place": "Palo Alto, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-01-23",
+      "venue": "Crest Theatre",
+      "place": "Sacramento, California",
+      "country": "United States",
+      "with": [
+        "Doo Rag",
+        "Groovie Ghoulies"
+      ]
+    },
+    {
+      "date": "1995-01-21",
+      "venue": "La Luna",
+      "place": "Portland, Oregon",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-01-20",
+      "venue": "DV8",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1995-01-19",
+      "venue": "Commodore Ballroom",
+      "place": "Vancouver, British Columbia",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1994-12-31",
+      "venue": "The Fillmore",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "The Mermen"
+      ]
+    },
+    {
+      "date": "1994-12-17",
+      "venue": "Washigton State Convention Center",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": [
+        "Radiohead",
+        "Sheryl Crow",
+        "Butt Trumpet",
+        "The Jesus and Mary Chain"
+      ]
+    },
+    {
+      "date": "1994-12-13",
+      "venue": "UNLV",
+      "place": "Las Vegas, Nevada",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-12-08",
+      "venue": "University of Nevada",
+      "place": "Reno, Nevada",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-12-07",
+      "venue": "California State University Sacramento",
+      "place": "Sacramento, California",
+      "country": "United States",
+      "with": [
+        "Jesus & Mary Chain",
+        "Weezer",
+        "love spit love",
+        "Linda Perry",
+        "Playground"
+      ]
+    },
+    {
+      "date": "1994-12-02",
+      "venue": "The Bottleneck",
+      "place": "Lawrence, Kansas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-12-01",
+      "venue": "Eastwood Theatre",
+      "place": "Indianapolis, Indiana",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-30",
+      "venue": "Graffiti",
+      "place": "Pittsburgh, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-28",
+      "venue": "Hammerjacks",
+      "place": "Baltimore, Maryland",
+      "country": "United States",
+      "with": [
+        "Jakkpot"
+      ]
+    },
+    {
+      "date": "1994-11-27",
+      "venue": "Trocadero Theatre",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-25",
+      "venue": "The Academy",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-23",
+      "venue": "The Academy",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-22",
+      "venue": "Avalon",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-20",
+      "venue": "Horizontal Boogie Bar",
+      "place": "Rochester, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-19",
+      "venue": "Saint Andrew’s Hall",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-18",
+      "venue": "The Warehouse",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1994-11-16",
+      "venue": "Odeon",
+      "place": "Cleveland, Ohio",
+      "country": "United States",
+      "with": [
+        "Gas Huffer"
+      ]
+    },
+    {
+      "date": "1994-11-15",
+      "venue": "Newport Music Hall",
+      "place": "Columbus, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-14",
+      "venue": "Bogart's",
+      "place": "Cincinnati, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-12",
+      "venue": "Mississippi Nights",
+      "place": "St. Louis, Missouri",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-11",
+      "venue": "The Vic Theatre",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-09",
+      "venue": "Barrymore Theatre",
+      "place": "Madison, Wisconsin",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-08",
+      "venue": "First Avenue",
+      "place": "Minneapolis, Minnesota",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-07",
+      "venue": "Ranch Bowl",
+      "place": "Omaha, Nebraska",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-05",
+      "venue": "Ogden Theatre",
+      "place": "Denver, Colorado",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-11-04",
+      "venue": "Dv8",
+      "place": "Salt Lake City, Utah",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1994-10-30",
+      "venue": "State Palace Theatre",
+      "place": "New Orleans, Louisiana",
+      "country": "United States",
+      "with": [
+        "311"
+      ]
+    },
+    {
+      "date": "1994-10-29",
+      "venue": "Peachtree–DeKalb Airport",
+      "place": "Atlanta, Georgia",
+      "country": "United States",
+      "with": [
+        "Reverend Horton Heat",
+        "The Presidents of The United States of America"
+      ]
+    },
+    {
+      "date": "1994-09-23",
+      "venue": "The Academy",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1993-12-10",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Laughing Hyenas",
+        "Come",
+        "chrome cranks"
+      ]
+    },
+    {
+      "date": "1993-10-31",
+      "venue": "Bimbo's 365 Club",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1993-10-30",
+      "venue": "Concourse Exhibition Center",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1993-08-15",
+      "venue": "Waldbühne Northeim",
+      "place": "Northeim",
+      "country": "Germany",
+      "with": [
+        "Siouxsie and Banshees",
+        "Ramones",
+        "The Bates",
+        "Hip Young Things",
+        "Slime"
+      ]
+    },
+    {
+      "date": "1993-08-14",
+      "venue": "Graspop Metal Meeting 1993",
+      "place": "Dessel, Flanders",
+      "country": "Belgium",
+      "with": [
+        "Graspop Metal Meeting 1993"
+      ]
+    },
+    {
+      "date": "1992-10-31",
+      "venue": "Slim's",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-10-09",
+      "venue": "Phoenix Municipal Stadium",
+      "place": "Phoenix, Arizona",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-08-07",
+      "venue": "Club L.U.C.C.",
+      "place": "Mexico City, Mexico City",
+      "country": "Mexico",
+      "with": []
+    },
+    {
+      "date": "1992-07-25",
+      "venue": "Laulurinne",
+      "place": "Joensuu",
+      "country": "Finland",
+      "with": []
+    },
+    {
+      "date": "1992-07-24",
+      "venue": "Tavastia Klubi",
+      "place": "Helsinki, Uusimaa",
+      "country": "Finland",
+      "with": []
+    },
+    {
+      "date": "1992-07-23",
+      "venue": "Melody Café",
+      "place": "Stockholm, Stockholm",
+      "country": "Sweden",
+      "with": []
+    },
+    {
+      "date": "1992-07-21",
+      "venue": "Nighttown",
+      "place": "Rotterdam, South Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1992-07-20",
+      "venue": "Paradiso",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1992-07-18",
+      "venue": "Lango",
+      "place": "Garlan",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1992-07-12",
+      "venue": "Coca-Cola Lakewood Amphitheatre",
+      "place": "Atlanta, Georgia",
+      "country": "United States",
+      "with": [
+        "Sonic Sunday"
+      ]
+    },
+    {
+      "date": "1992-03-27",
+      "venue": "Hollywood Palladium",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-26",
+      "venue": "The Majestic Ventura Theater",
+      "place": "Ventura, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-25",
+      "venue": "Anaconda Theatre",
+      "place": "Santa Barbara, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-23",
+      "venue": "Cadillac Club",
+      "place": "Fresno, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-22",
+      "venue": "The Edge",
+      "place": "Palo Alto, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-21",
+      "venue": "The Warfield Theatre",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-20",
+      "venue": "One Edge Up",
+      "place": "Portland, Oregon",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-18",
+      "venue": "Commodore Ballroom",
+      "place": "Vancouver, British Columbia",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1992-03-17",
+      "venue": "The OZ",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-15",
+      "venue": "University of Utah Union Ballroom",
+      "place": "Salt Lake City, Utah",
+      "country": "United States",
+      "with": [
+        "Dash Rip Rock"
+      ]
+    },
+    {
+      "date": "1992-03-14",
+      "venue": "Ogden Theatre",
+      "place": "Denver, Colorado",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-12",
+      "venue": "Mississippi Nights",
+      "place": "St. Louis, Missouri",
+      "country": "United States",
+      "with": [
+        "Reverend Horton Heat"
+      ]
+    },
+    {
+      "date": "1992-03-11",
+      "venue": "The Blue Note",
+      "place": "Columbia, Missouri",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-10",
+      "venue": "Ranch Bowl",
+      "place": "Omaha, Nebraska",
+      "country": "United States",
+      "with": [
+        "Reverend Horton Heat"
+      ]
+    },
+    {
+      "date": "1992-03-09",
+      "venue": "First Avenue",
+      "place": "Minneapolis, Minnesota",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-07",
+      "venue": "Riviera Theatre",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": [
+        "Reverend Horton Heat"
+      ]
+    },
+    {
+      "date": "1992-03-06",
+      "venue": "Bogart's",
+      "place": "Cincinnati, Ohio",
+      "country": "United States",
+      "with": [
+        "Reverend Horton Heat"
+      ]
+    },
+    {
+      "date": "1992-03-05",
+      "venue": "Newport Music Hall",
+      "place": "Columbus, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-04",
+      "venue": "State Theatre Detroit",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-03-03",
+      "venue": "Empire",
+      "place": "Columbus, Ohio",
+      "country": "United States",
+      "with": [
+        "Reverend Horton Heat"
+      ]
+    },
+    {
+      "date": "1992-02-29",
+      "venue": "The Graffiti",
+      "place": "Pittsburgh, Pennsylvania",
+      "country": "United States",
+      "with": [
+        "Reverend Horton Heat"
+      ]
+    },
+    {
+      "date": "1992-02-28",
+      "venue": "The Concert Hall",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1992-02-27",
+      "venue": "Spectrum",
+      "place": "Montreal, Quebec",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1992-02-25",
+      "venue": "The Avalon",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": [
+        "Reverend Horton Heat"
+      ]
+    },
+    {
+      "date": "1992-02-23",
+      "venue": "Club Babyhead",
+      "place": "Providence, Rhode Island",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-22",
+      "venue": "City Gardens",
+      "place": "Trenton, New Jersey",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-21",
+      "venue": "The New Ritz",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Reverend Horton Heat"
+      ]
+    },
+    {
+      "date": "1992-02-20",
+      "venue": "Toad's Place",
+      "place": "New Haven, Connecticut",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-18",
+      "venue": "Hammerjacks",
+      "place": "Baltimore, Maryland",
+      "country": "United States",
+      "with": [
+        "Reverend Horton Heat"
+      ]
+    },
+    {
+      "date": "1992-02-17",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-16",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "Reverend Horton Heat"
+      ]
+    },
+    {
+      "date": "1992-02-15",
+      "venue": "Flood Zone",
+      "place": "Richmond, Virginia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-14",
+      "venue": "Cat's Cradle",
+      "place": "Carrboro, North Carolina",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-13",
+      "venue": "1313 Club",
+      "place": "Charlotte, North Carolina",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-11",
+      "venue": "The Masquerade",
+      "place": "Atlanta, Georgia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-10",
+      "venue": "40 Watt Club",
+      "place": "Athens, Georgia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-09",
+      "venue": "The Ritz Ybor",
+      "place": "Tampa, Florida",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-08",
+      "venue": "Milk Bar",
+      "place": "Jacksonville, Florida",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-06",
+      "venue": "Vatican",
+      "place": "Houston, Texas",
+      "country": "United States",
+      "with": [
+        "Dash Rip Rock"
+      ]
+    },
+    {
+      "date": "1992-02-05",
+      "venue": "Deep Ellum Live",
+      "place": "Dallas, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-04",
+      "venue": "The Backroom",
+      "place": "Austin, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-02",
+      "venue": "Club Rio",
+      "place": "Tempe, Arizona",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1992-02-01",
+      "venue": "Iguanas Pueblo Amingo Shopping Center",
+      "place": "Tijuana, Baja California",
+      "country": "Mexico",
+      "with": []
+    },
+    {
+      "date": "1991-12-31",
+      "venue": "Iguanas",
+      "place": "Tijuana, Baja California",
+      "country": "Mexico",
+      "with": []
+    },
+    {
+      "date": "1991-11-29",
+      "venue": "Rodon",
+      "place": "Athens, Attica",
+      "country": "Greece",
+      "with": []
+    },
+    {
+      "date": "1991-11-25",
+      "venue": "Arena Auditorium",
+      "place": "Valencia, Valencia",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1991-11-24",
+      "venue": "Pabellón Zubi-Alde",
+      "place": "Portugalete",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1991-11-23",
+      "venue": "Pabellón Municipal De Defesjos",
+      "place": "Donostia / San Sebastián, Basque Country",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1991-11-22",
+      "venue": "Zeleste",
+      "place": "Barcelona, Catalonia",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1991-11-20",
+      "venue": "Paradiso",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1991-11-19",
+      "venue": "Paradiso",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1991-11-18",
+      "venue": "Paradiso",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1991-11-17",
+      "venue": "Élysée Montmartre",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1991-11-16",
+      "venue": "Élysée Montmartre",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1991-11-15",
+      "venue": "Élysée Montmartre",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1991-11-13",
+      "venue": "Volkshaus",
+      "place": "Zurich, Zurich",
+      "country": "Switzerland",
+      "with": [
+        "Teenage Fanclub"
+      ]
+    },
+    {
+      "date": "1991-11-12",
+      "venue": "Theaterfabrik München",
+      "place": "Munich, Bavaria",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1991-11-11",
+      "venue": "LKA-Longhorn",
+      "place": "Stuttgart, Baden-Württemberg",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1991-11-10",
+      "venue": "Docks",
+      "place": "Hamburg, Hamburg",
+      "country": "Germany",
+      "with": [
+        "Haunted Garage"
+      ]
+    },
+    {
+      "date": "1991-11-08",
+      "venue": "Fryshuset",
+      "place": "Stockholm, Stockholm",
+      "country": "Sweden",
+      "with": []
+    },
+    {
+      "date": "1991-11-07",
+      "venue": "Mejeriet",
+      "place": "Lund, Skåne",
+      "country": "Sweden",
+      "with": []
+    },
+    {
+      "date": "1991-11-06",
+      "venue": "Saga",
+      "place": "Copenhagen, Capital Region",
+      "country": "Denmark",
+      "with": []
+    },
+    {
+      "date": "1991-11-05",
+      "venue": "Quartier Latin",
+      "place": "Berlin, Berlin",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1991-11-03",
+      "venue": "Tor 3",
+      "place": "Düsseldorf, North Rhine-Westphalia",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1991-11-02",
+      "venue": "Ancienne Belgique",
+      "place": "Brussels, Brussels Capital",
+      "country": "Belgium",
+      "with": [
+        "Teenage Fanclub"
+      ]
+    },
+    {
+      "date": "1991-10-31",
+      "venue": "O2 Forum Kentish Town",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-30",
+      "venue": "Town and Country Club",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "Earls of Suave",
+        "Ronnie Dawson"
+      ]
+    },
+    {
+      "date": "1991-10-29",
+      "venue": "O2 Forum Kentish Town",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-28",
+      "venue": "Town and Country Club",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-26",
+      "venue": "O2 Forum Kentish Town",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-25",
+      "venue": "O2 Forum Kentish Town",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-24",
+      "venue": "Civic Hall, University of Wolverhampton at The Halls",
+      "place": "Wolverhampton, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-22",
+      "venue": "Cambridge Corn Exchange",
+      "place": "Cambridge, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-21",
+      "venue": "Rock City / Rock City BETA / Rough Trade Nottingham",
+      "place": "Nottingham, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-20",
+      "venue": "Academy 1, Manchester Academy",
+      "place": "Manchester, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-18",
+      "venue": "The Refectory, University of Leeds",
+      "place": "Leeds, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-17",
+      "venue": "Music Hall",
+      "place": "Aberdeen, Scotland",
+      "country": "United Kingdom",
+      "with": [
+        "The Golden Horde"
+      ]
+    },
+    {
+      "date": "1991-10-16",
+      "venue": "Barrowland Ballroom",
+      "place": "Glasgow, Scotland",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-15",
+      "venue": "Mayfair Ballroom",
+      "place": "Newcastle upon Tyne, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1991-10-02",
+      "venue": "Slim's",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1991-07-23",
+      "venue": "Fryshuset",
+      "place": "Stockholm, Stockholm",
+      "country": "Sweden",
+      "with": []
+    },
+    {
+      "date": "1991-02-10",
+      "venue": "San Francisco",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-12-31",
+      "venue": "San Francisco Civic Auditorium",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "Red Hot Chili Peppers",
+        "The Weirdos"
+      ]
+    },
+    {
+      "date": "1990-11-20",
+      "venue": "MZA Ariake",
+      "place": "Tokyo, Tokyo",
+      "country": "Japan",
+      "with": []
+    },
+    {
+      "date": "1990-11-19",
+      "venue": "MZA Ariake",
+      "place": "Tokyo, Tokyo",
+      "country": "Japan",
+      "with": []
+    },
+    {
+      "date": "1990-11-16",
+      "venue": "Nagoya CLUB QUATTRO",
+      "place": "Nagoya, Aichi",
+      "country": "Japan",
+      "with": []
+    },
+    {
+      "date": "1990-11-15",
+      "venue": "Fish Dance Hall",
+      "place": "Kobe",
+      "country": "Japan",
+      "with": []
+    },
+    {
+      "date": "1990-11-06",
+      "venue": "Unknown venue",
+      "place": "Gold Coast, Queensland",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1990-11-05",
+      "venue": "Unknown venue",
+      "place": "Brisbane, Queensland",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1990-11-04",
+      "venue": "Unknown Venue",
+      "place": "Byron Bay",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1990-11-03",
+      "venue": "Old Greek Theatre",
+      "place": "Melbourne, Victoria",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1990-11-02",
+      "venue": "The Palace Complex",
+      "place": "Melbourne, Victoria",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1990-11-01",
+      "venue": "The Palace Complex",
+      "place": "Melbourne, Victoria",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1990-10-30",
+      "venue": "Unknown venue",
+      "place": "Perth, Western Australia",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1990-10-29",
+      "venue": "Old Lion Hotel",
+      "place": "Adelaide, South Australia",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1990-10-26",
+      "venue": "Unknown Venue",
+      "place": "Newcastle, New South Wales",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1990-10-25",
+      "venue": "ANU Bar & Refectory",
+      "place": "Canberra",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1990-10-24",
+      "venue": "Selina's, Coogee Bay Hotel",
+      "place": "Sydney, New South Wales",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1990-10-23",
+      "venue": "Powerstation",
+      "place": "Auckland, Auckland",
+      "country": "New Zealand",
+      "with": []
+    },
+    {
+      "date": "1990-10-07",
+      "venue": "Unknown venue",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "A Gathering of The Tribes 1990"
+      ]
+    },
+    {
+      "date": "1990-10-06",
+      "venue": "Shoreline Amphitheatre",
+      "place": "Mountain View, California",
+      "country": "United States",
+      "with": [
+        "A Gathering of The Tribes 1990"
+      ]
+    },
+    {
+      "date": "1990-08-26",
+      "venue": "Sanicole Airfield",
+      "place": "Hechtel, Flanders",
+      "country": "Belgium",
+      "with": [
+        "Pukkelpop 1990"
+      ]
+    },
+    {
+      "date": "1990-08-24",
+      "venue": "Little John's Farm",
+      "place": "Reading, England",
+      "country": "United Kingdom",
+      "with": [
+        "Reading Festival"
+      ]
+    },
+    {
+      "date": "1990-08-18",
+      "venue": "Aztec Bowl, SDSU",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": [
+        "B-52's",
+        "They Might Be Giants",
+        "Ziggy Marley"
+      ]
+    },
+    {
+      "date": "1990-08-05",
+      "venue": "Toad's Place",
+      "place": "New Haven, Connecticut",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-06-29",
+      "venue": "Roskilde Dyrskueplads",
+      "place": "Roskilde, Zealand",
+      "country": "Denmark",
+      "with": []
+    },
+    {
+      "date": "1990-06-26",
+      "venue": "Rockefeller",
+      "place": "Oslo, Oslo",
+      "country": "Norway",
+      "with": []
+    },
+    {
+      "date": "1990-06-22",
+      "venue": "The Warfield Theatre",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-06-21",
+      "venue": "Crest Theatre",
+      "place": "Sacramento, California",
+      "country": "United States",
+      "with": [
+        "Flat Duo Jets",
+        "Buck Naked and The Bare Bottom Boys"
+      ]
+    },
+    {
+      "date": "1990-06-19",
+      "venue": "The Majestic Ventura Theater",
+      "place": "Ventura, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-06-15",
+      "venue": "Hollywood Palladium",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "Flat Duo Jets"
+      ]
+    },
+    {
+      "date": "1990-06-13",
+      "venue": "Club Rio",
+      "place": "Tempe, Arizona",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-06-10",
+      "venue": "Cain's Ballroom",
+      "place": "Tulsa, Oklahoma",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-06-09",
+      "venue": "Arcadia Theatre",
+      "place": "Dallas, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-06-08",
+      "venue": "Opera House",
+      "place": "Austin, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-06-07",
+      "venue": "Numbers",
+      "place": "Houston, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-06-05",
+      "venue": "Tipitina's",
+      "place": "New Orleans, Louisiana",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-06-02",
+      "venue": "Törnävä",
+      "place": "Seinäjoki",
+      "country": "Finland",
+      "with": []
+    },
+    {
+      "date": "1990-05-30",
+      "venue": "The Cuban Club",
+      "place": "Tampa, Florida",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-29",
+      "venue": "Club Nu",
+      "place": "Miami Beach, Florida",
+      "country": "United States",
+      "with": [
+        "Flat Duo Jets"
+      ]
+    },
+    {
+      "date": "1990-05-27",
+      "venue": "The Beacham",
+      "place": "Orlando, Florida",
+      "country": "United States",
+      "with": [
+        "Flat Duo Jets"
+      ]
+    },
+    {
+      "date": "1990-05-26",
+      "venue": "The Roxy",
+      "place": "Atlanta, Georgia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-25",
+      "venue": "The Roxy",
+      "place": "Atlanta, Georgia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-24",
+      "venue": "Sloss Furnaces National Historic Landmark",
+      "place": "Birmingham, Alabama",
+      "country": "United States",
+      "with": [
+        "Flat Duo Jets"
+      ]
+    },
+    {
+      "date": "1990-05-22",
+      "venue": "Center Stage Club",
+      "place": "Nashville, Tennessee",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-20",
+      "venue": "1313 Club",
+      "place": "Charlotte, North Carolina",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-19",
+      "venue": "Cat's Cradle",
+      "place": "Carrboro, North Carolina",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-18",
+      "venue": "The Boathouse",
+      "place": "Norfolk, Virginia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-13",
+      "venue": "Theatre Of Living Arts",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-12",
+      "venue": "The New Ritz",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-11",
+      "venue": "City Gardens",
+      "place": "Trenton, New Jersey",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-09",
+      "venue": "Lisner Auditorium, George Washington University",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "Flat Duo Jets",
+        "Date Bait"
+      ]
+    },
+    {
+      "date": "1990-05-08",
+      "venue": "Toad's Place",
+      "place": "New Haven, Connecticut",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-06",
+      "venue": "Unknown venue",
+      "place": "Providence, Rhode Island",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-05-05",
+      "venue": "The Channel",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": [
+        "Flat Duo Jets"
+      ]
+    },
+    {
+      "date": "1990-05-04",
+      "venue": "The Channel",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": [
+        "Flat Duo Jets"
+      ]
+    },
+    {
+      "date": "1990-05-03",
+      "venue": "Théâtre Rialto",
+      "place": "Montreal, Quebec",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1990-05-02",
+      "venue": "The Concert Hall",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1990-05-01",
+      "venue": "The Concert Hall",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1990-04-29",
+      "venue": "Phantasy Theater, Phantasy Complex",
+      "place": "Lakewood, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-04-28",
+      "venue": "Latin Quarter",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-04-27",
+      "venue": "Bogart's",
+      "place": "Cincinnati, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-04-25",
+      "venue": "Metro",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": [
+        "Flat Duo Jets"
+      ]
+    },
+    {
+      "date": "1990-04-24",
+      "venue": "Central Park President's Room",
+      "place": "Milwaukee, Wisconsin",
+      "country": "United States",
+      "with": [
+        "Flat Duo Jets",
+        "Jesus Manson"
+      ]
+    },
+    {
+      "date": "1990-04-23",
+      "venue": "7th St Entry",
+      "place": "Minneapolis, Minnesota",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-04-21",
+      "venue": "The Blue Note",
+      "place": "Columbia, Missouri",
+      "country": "United States",
+      "with": [
+        "Flat Duo Jets",
+        "Untamed Youth"
+      ]
+    },
+    {
+      "date": "1990-04-20",
+      "venue": "Shadow",
+      "place": "Kansas City, Missouri",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-04-17",
+      "venue": "Speedway Cafe",
+      "place": "Salt Lake City, Utah",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-04-16",
+      "venue": "Unknown venue",
+      "place": "Denver, Colorado",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-04-14",
+      "venue": "Pine Street Theatre",
+      "place": "Portland, Oregon",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-04-13",
+      "venue": "Moore Theatre",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1990-04-12",
+      "venue": "Commodore Ballroom",
+      "place": "Vancouver, British Columbia",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1990-04-01",
+      "venue": "O2 Forum Kentish Town",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1990-03-30",
+      "venue": "Le Bataclan",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1990-03-27",
+      "venue": "Valencia Arena",
+      "place": "Valencia, Valencia",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1990-03-26",
+      "venue": "Zeleste",
+      "place": "Barcelona, Catalonia",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1990-03-24",
+      "venue": "Bordeaux",
+      "place": "Bordeaux",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1990-03-22",
+      "venue": "Le Transbordeur",
+      "place": "Villeurbanne",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1990-03-21",
+      "venue": "Volkshaus",
+      "place": "Zurich, Zurich",
+      "country": "Switzerland",
+      "with": []
+    },
+    {
+      "date": "1990-03-20",
+      "venue": "Milan",
+      "place": "Milan, Lombardy",
+      "country": "Italy",
+      "with": []
+    },
+    {
+      "date": "1990-03-19",
+      "venue": "Modern Casino",
+      "place": "Rimini",
+      "country": "Italy",
+      "with": []
+    },
+    {
+      "date": "1990-03-17",
+      "venue": "PC 69",
+      "place": "Bielefeld, North Rhine-Westphalia",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1990-03-16",
+      "venue": "Music Cirkus Ruhr",
+      "place": "Oberhausen, North Rhine-Westphalia",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1990-03-15",
+      "venue": "Stadthalle",
+      "place": "Offenbach, Hesse",
+      "country": "Germany",
+      "with": [
+        "Jesus Jones"
+      ]
+    },
+    {
+      "date": "1990-03-13",
+      "venue": "Docks",
+      "place": "Hamburg, Hamburg",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1990-03-12",
+      "venue": "Metropol",
+      "place": "Berlin, Berlin",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1990-03-11",
+      "venue": "Biskuithalle",
+      "place": "Bonn, North Rhine-Westphalia",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1990-03-09",
+      "venue": "Jaap Eden Hal",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": [
+        "Jesus Jones"
+      ]
+    },
+    {
+      "date": "1990-03-08",
+      "venue": "Brielpoort",
+      "place": "Deinze, Flanders",
+      "country": "Belgium",
+      "with": []
+    },
+    {
+      "date": "1990-03-06",
+      "venue": "Élysée Montmartre",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1990-03-05",
+      "venue": "Élysée Montmartre",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1990-03-04",
+      "venue": "Rouen",
+      "place": "Rouen, Normandy",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1990-03-03",
+      "venue": "L'Aéronef",
+      "place": "Lille, Hauts-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1990-02-28",
+      "venue": "O2 Academy Brixton",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "Thee Hypnotics"
+      ]
+    },
+    {
+      "date": "1990-02-27",
+      "venue": "Brixton Academy",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "Mega City Four",
+        "Blur"
+      ]
+    },
+    {
+      "date": "1990-02-25",
+      "venue": "Bristol Studio",
+      "place": "Bristol, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1990-02-24",
+      "venue": "Hummingbird",
+      "place": "Birmingham, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1990-02-23",
+      "venue": "Manchester Apollo",
+      "place": "Manchester, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1990-02-21",
+      "venue": "Barrowland Ballroom",
+      "place": "Glasgow, Scotland",
+      "country": "United Kingdom",
+      "with": [
+        "Mega City Four"
+      ]
+    },
+    {
+      "date": "1990-02-12",
+      "venue": "O2 Academy Brixton",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1990-02-01",
+      "venue": "Universal Amphitheatre",
+      "place": "Universal City, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1989-12-31",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1989-10-31",
+      "venue": "The Fillmore",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1989-10-28",
+      "venue": "Iguanas",
+      "place": "Tijuana, Baja California",
+      "country": "Mexico",
+      "with": []
+    },
+    {
+      "date": "1989-10-27",
+      "venue": "Iguanas",
+      "place": "Tijuana, Baja California",
+      "country": "Mexico",
+      "with": []
+    },
+    {
+      "date": "1989-10-19",
+      "venue": "Gibson Amphitheatre",
+      "place": "Universal City, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1989-06-06",
+      "venue": "Hollywood Palladium",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1989-01-03",
+      "venue": "The Ritz",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1988-12-31",
+      "venue": "Warner Theatre",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "Butthole Surfers",
+        "The Dead Milkmen"
+      ]
+    },
+    {
+      "date": "1988-12-30",
+      "venue": "City Gardens",
+      "place": "Trenton, New Jersey",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1988-12-29",
+      "venue": "The Ritz",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1988-12-28",
+      "venue": "The Channel",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1988-12-10",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1988-10-31",
+      "venue": "San Francisco",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1988-10-30",
+      "venue": "The Graduate",
+      "place": "Isla Vista, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1988-10-29",
+      "venue": "Gibson Amphitheatre",
+      "place": "Universal City, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1988-10-28",
+      "venue": "California Theatre",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1988-03-17",
+      "venue": "Toad's Place",
+      "place": "New Haven, Connecticut",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1987-12-31",
+      "venue": "The Fillmore",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1987-12-29",
+      "venue": "The Ritz",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-12-31",
+      "venue": "The Ritz",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-12-30",
+      "venue": "The Ritz",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-12-29",
+      "venue": "The Ritz",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-10-08",
+      "venue": "St. Georges",
+      "place": "Bristol, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-08-29",
+      "venue": "The Galaxy",
+      "place": "Auckland, Auckland",
+      "country": "New Zealand",
+      "with": []
+    },
+    {
+      "date": "1986-08-16",
+      "venue": "The Islam Grotto",
+      "place": "Pittsburgh, Pennsylvania",
+      "country": "United States",
+      "with": [
+        "The cynics"
+      ]
+    },
+    {
+      "date": "1986-08-03",
+      "venue": "The Jockey Club",
+      "place": "Newport, Kentucky",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-08-02",
+      "venue": "The Islam Grotto",
+      "place": "Pittsburgh, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-08-01",
+      "venue": "The Ritz",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Screaming Blue Messiahs"
+      ]
+    },
+    {
+      "date": "1986-07-31",
+      "venue": "The Ritz",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Screaming Blue Messiahs"
+      ]
+    },
+    {
+      "date": "1986-07-30",
+      "venue": "The Metro",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-07-29",
+      "venue": "Main Event",
+      "place": "Rochester, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-07-28",
+      "venue": "Spectrum",
+      "place": "Montreal, Quebec",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1986-07-27",
+      "venue": "Spectrum",
+      "place": "Montreal, Quebec",
+      "country": "Canada",
+      "with": [
+        "Nomeansno",
+        "Screaming Blue Messiahs"
+      ]
+    },
+    {
+      "date": "1986-07-26",
+      "venue": "The Concert Hall",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1986-07-25",
+      "venue": "Royal Oak Music Theatre",
+      "place": "Royal Oak, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-07-24",
+      "venue": "Phantasy Complex",
+      "place": "Lakewood, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-07-23",
+      "venue": "Metro",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": [
+        "Screaming Blue Messiahs"
+      ]
+    },
+    {
+      "date": "1986-07-22",
+      "venue": "First Avenue",
+      "place": "Minneapolis, Minnesota",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-07-19",
+      "venue": "Doug Mitchell Thunderbird Sports Centre",
+      "place": "Vancouver, British Columbia",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1986-07-18",
+      "venue": "Paramount Theatre",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": [
+        "The Young Fresh Fellows"
+      ]
+    },
+    {
+      "date": "1986-07-15",
+      "venue": "The I-Beam",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-07-14",
+      "venue": "The I-Beam",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-07-12",
+      "venue": "Hollywood Palladium",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "Social Distortion"
+      ]
+    },
+    {
+      "date": "1986-07-11",
+      "venue": "Adams Avenue Theatre",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1986-06-21",
+      "venue": "The Roxy",
+      "place": "Brisbane, Queensland",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1986-06-19",
+      "venue": "Selina's, Coogee Bay Hotel",
+      "place": "Sydney, New South Wales",
+      "country": "Australia",
+      "with": [
+        "The Johnnys",
+        "Hard-Ons"
+      ]
+    },
+    {
+      "date": "1986-06-18",
+      "venue": "Selina's, Coogee Bay Hotel",
+      "place": "Sydney, New South Wales",
+      "country": "Australia",
+      "with": [
+        "The Johnnys",
+        "Hard-Ons"
+      ]
+    },
+    {
+      "date": "1986-06-17",
+      "venue": "Festival Hall",
+      "place": "Melbourne, Victoria",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1986-06-16",
+      "venue": "Thebarton Theatre",
+      "place": "Adelaide, South Australia",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1986-06-14",
+      "venue": "The Red Parrot",
+      "place": "Perth, Western Australia",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1986-06-13",
+      "venue": "Canterbury Court",
+      "place": "Perth, Western Australia",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1986-06-03",
+      "venue": "Hammersmith Palais",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-06-02",
+      "venue": "Hammersmith Palais",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-06-01",
+      "venue": "Hammersmith Palais",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "Guana Batz",
+        "Stingrays"
+      ]
+    },
+    {
+      "date": "1986-05-31",
+      "venue": "Nick Rayns LCR, University of East Anglia",
+      "place": "Norwich, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-05-30",
+      "venue": "Odeon Birmingham",
+      "place": "Birmingham, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-05-28",
+      "venue": "Ritzy Club",
+      "place": "Cardiff, Wales",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-05-27",
+      "venue": "Bristol Studio",
+      "place": "Bristol, England",
+      "country": "United Kingdom",
+      "with": [
+        "Stingrays"
+      ]
+    },
+    {
+      "date": "1986-05-26",
+      "venue": "Portsmouth Guildhall",
+      "place": "Portsmouth, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Stingrays"
+      ]
+    },
+    {
+      "date": "1986-05-24",
+      "venue": "Loughborough University",
+      "place": "Loughborough",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-05-23",
+      "venue": "De Montfort Hall",
+      "place": "Leicester, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-05-22",
+      "venue": "Rock City",
+      "place": "Nottingham, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-05-21",
+      "venue": "Victoria Hall",
+      "place": "Stoke-on-Trent, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-05-20",
+      "venue": "Coventry University",
+      "place": "Coventry, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-05-19",
+      "venue": "Top Rank",
+      "place": "Brighton, England",
+      "country": "United Kingdom",
+      "with": [
+        "Guana Batz"
+      ]
+    },
+    {
+      "date": "1986-05-18",
+      "venue": "St George's Concert Hall",
+      "place": "Bradford, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-05-14",
+      "venue": "Exo 7",
+      "place": "Rouen, Normandy",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1986-05-13",
+      "venue": "MJC",
+      "place": "Rennes, Brittany",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1986-05-12",
+      "venue": "Le Zénith",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1986-05-10",
+      "venue": "MJC",
+      "place": "Belfort, Bourgogne-Franche-Comté",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1986-05-09",
+      "venue": "Bourse du Travail",
+      "place": "Lyon, Auvergne-Rhône-Alpes",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1986-05-08",
+      "venue": "La Patinoire",
+      "place": "Annecy",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1986-05-06",
+      "venue": "Grand Parc",
+      "place": "Bordeaux",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1986-05-05",
+      "venue": "HALLE AUX GRAINS",
+      "place": "Toulouse, Occitanie",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1986-05-04",
+      "venue": "Rockstore",
+      "place": "Montpellier, Occitania",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1986-05-02",
+      "venue": "Théâtre de Verdure",
+      "place": "Nice, Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1986-04-29",
+      "venue": "Big Club",
+      "place": "Turin, Piedmont",
+      "country": "Italy",
+      "with": []
+    },
+    {
+      "date": "1986-04-28",
+      "venue": "Rolling Stone",
+      "place": "Milan, Lombardy",
+      "country": "Italy",
+      "with": []
+    },
+    {
+      "date": "1986-04-26",
+      "venue": "Teatro Tenda Pianeta",
+      "place": "Rome, Latium",
+      "country": "Italy",
+      "with": []
+    },
+    {
+      "date": "1986-04-25",
+      "venue": "Teatro Tenda",
+      "place": "Florence, Tuscany",
+      "country": "Italy",
+      "with": []
+    },
+    {
+      "date": "1986-04-24",
+      "venue": "Cubo",
+      "place": "Bologna, Emilia-Romagna",
+      "country": "Italy",
+      "with": []
+    },
+    {
+      "date": "1986-04-22",
+      "venue": "Palladium",
+      "place": "Geneva, Geneva",
+      "country": "Switzerland",
+      "with": []
+    },
+    {
+      "date": "1986-04-21",
+      "venue": "Volkshaus",
+      "place": "Zurich, Zurich",
+      "country": "Switzerland",
+      "with": []
+    },
+    {
+      "date": "1986-04-20",
+      "venue": "Alabamahalle",
+      "place": "Munich, Bavaria",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1986-04-18",
+      "venue": "Markthalle",
+      "place": "Hamburg, Hamburg",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1986-04-17",
+      "venue": "Volksbildungsheim",
+      "place": "Frankfurt am Main, Hesse",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1986-04-16",
+      "venue": "Philipshalle",
+      "place": "Düsseldorf, North Rhine-Westphalia",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1986-04-15",
+      "venue": "Hyde Park",
+      "place": "Osnabrück, Lower Saxony",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1986-04-14",
+      "venue": "Metropol",
+      "place": "Berlin, Berlin",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1986-04-11",
+      "venue": "Kulturbolaget",
+      "place": "Malmo, Skåne",
+      "country": "Sweden",
+      "with": []
+    },
+    {
+      "date": "1986-04-10",
+      "venue": "Göta Lejon",
+      "place": "Stockholm, Stockholm",
+      "country": "Sweden",
+      "with": []
+    },
+    {
+      "date": "1986-04-09",
+      "venue": "Circus (NRK Radio Broadcast)",
+      "place": "Oslo, Oslo",
+      "country": "Norway",
+      "with": []
+    },
+    {
+      "date": "1986-04-08",
+      "venue": "Saltlageret",
+      "place": "Copenhagen, Capital Region",
+      "country": "Denmark",
+      "with": []
+    },
+    {
+      "date": "1986-04-06",
+      "venue": "Brielpoort",
+      "place": "Deinze, Flanders",
+      "country": "Belgium",
+      "with": [
+        "Wall Of Voodoo"
+      ]
+    },
+    {
+      "date": "1986-04-05",
+      "venue": "Concertgebouw De Vereeniging",
+      "place": "Nijmegen, Gelderland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1986-04-04",
+      "venue": "Paradiso",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1986-04-03",
+      "venue": "Paradiso",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1986-04-01",
+      "venue": "Printemps de Bourges",
+      "place": "Bourges",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1986-03-30",
+      "venue": "Hull City Hall",
+      "place": "Hull, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-29",
+      "venue": "Civic Hall, University of Wolverhampton at The Halls",
+      "place": "Wolverhampton, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-27",
+      "venue": "O2 Apollo Manchester",
+      "place": "Manchester, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-26",
+      "venue": "Mayfair Ballroom",
+      "place": "Newcastle upon Tyne, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-24",
+      "venue": "Capitol Theatre",
+      "place": "Aberdeen, Scotland",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-23",
+      "venue": "Empire Theatre",
+      "place": "Edinburgh, Scotland",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-22",
+      "venue": "Barrowland Ballroom",
+      "place": "Glasgow, Scotland",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-20",
+      "venue": "Royal Court Theatre",
+      "place": "Liverpool, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-19",
+      "venue": "The Refectory, University of Leeds",
+      "place": "Leeds, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-18",
+      "venue": "Sheffield University",
+      "place": "Sheffield, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-16",
+      "venue": "Eventim Apollo",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "Sting-rays"
+      ]
+    },
+    {
+      "date": "1986-03-15",
+      "venue": "Eventim Apollo",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-14",
+      "venue": "Eventim Apollo",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-11",
+      "venue": "Janice Long BBC Studio Session",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1986-03-07",
+      "venue": "The Tube Live Appearance",
+      "place": "Newcastle upon Tyne, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1985-12-31",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1985-05-05",
+      "venue": "Timbers",
+      "place": "Glendora, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-07-19",
+      "venue": "Selina's, Coogee Bay Hotel",
+      "place": "Sydney, New South Wales",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1984-07-18",
+      "venue": "Selina's, Coogee Bay Hotel",
+      "place": "Sydney, New South Wales",
+      "country": "Australia",
+      "with": []
+    },
+    {
+      "date": "1984-07-05",
+      "venue": "The Channel",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-06-25",
+      "venue": "San Diego",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-06-23",
+      "venue": "Adams Avenue Theatre",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": [
+        "Red Hot Chili Peppers"
+      ]
+    },
+    {
+      "date": "1984-06-22",
+      "venue": "Perkins Palace",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "Nick Cave and The Bad Seeds",
+        "Die Schloflogen",
+        "Saccharine Trust"
+      ]
+    },
+    {
+      "date": "1984-06-07",
+      "venue": "L'Eldorado",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1984-06-06",
+      "venue": "L'Eldorado",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1984-06-05",
+      "venue": "Palais D'Hiver",
+      "place": "Lyon, Auvergne-Rhône-Alpes",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1984-06-04",
+      "venue": "Le Pied",
+      "place": "Toulouse, Occitanie",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1984-06-02",
+      "venue": "Sala Autódromo",
+      "place": "Lasarte, Basque Country",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1984-06-01",
+      "venue": "Rock-Ola",
+      "place": "Madrid, Madrid",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1984-05-31",
+      "venue": "Rock-Ola",
+      "place": "Madrid, Madrid",
+      "country": "Spain",
+      "with": []
+    },
+    {
+      "date": "1984-05-30",
+      "venue": "Hammersmith Palais",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1984-05-29",
+      "venue": "Hammersmith Palais",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "Alien Sex Fiend"
+      ]
+    },
+    {
+      "date": "1984-05-28",
+      "venue": "Hammersmith Palais",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "Specimen",
+        "Sex Beat"
+      ]
+    },
+    {
+      "date": "1984-05-27",
+      "venue": "Hammersmith Palais",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1984-05-26",
+      "venue": "Odeon Birmingham",
+      "place": "Birmingham, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1984-05-25",
+      "venue": "Odeon Birmingham",
+      "place": "Birmingham, England",
+      "country": "United Kingdom",
+      "with": [
+        "Specimen",
+        "Sex Beat"
+      ]
+    },
+    {
+      "date": "1984-05-24",
+      "venue": "Mr Kiesa's",
+      "place": "Leicester, England",
+      "country": "United Kingdom",
+      "with": [
+        "Specimen"
+      ]
+    },
+    {
+      "date": "1984-05-23",
+      "venue": "Haçienda",
+      "place": "Manchester, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1984-05-22",
+      "venue": "Leeds University Union",
+      "place": "Leeds, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1984-05-21",
+      "venue": "The Tube",
+      "place": "Newcastle upon Tyne, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1984-05-19",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-05-17",
+      "venue": "The Channel",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-05-16",
+      "venue": "Club Soda",
+      "place": "Montreal, Quebec",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1984-05-14",
+      "venue": "Barrymore's Music Hall",
+      "place": "Ottawa, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1984-05-13",
+      "venue": "Toronto Concert Hall",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1984-05-10",
+      "venue": "Metro",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": [
+        "Bonemen of Barumba"
+      ]
+    },
+    {
+      "date": "1984-05-09",
+      "venue": "Century Hall",
+      "place": "Milwaukee, Wisconsin",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-05-07",
+      "venue": "First Avenue",
+      "place": "Minneapolis, Minnesota",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-04-26",
+      "venue": "Concert Factory",
+      "place": "Costa Mesa, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-04-24",
+      "venue": "Golden Crown",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-04-21",
+      "venue": "Roseland Theater",
+      "place": "Portland, Oregon",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-04-17",
+      "venue": "Berkeley Square",
+      "place": "Berkeley, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-04-16",
+      "venue": "The I-Beam",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1984-04-09",
+      "venue": "The Concert Factory",
+      "place": "Costa Mesa, California",
+      "country": "United States",
+      "with": [
+        "The Vandals",
+        "Love Canal"
+      ]
+    },
+    {
+      "date": "1984-04-08",
+      "venue": "Ichabods",
+      "place": "Fullerton, California",
+      "country": "United States",
+      "with": [
+        "MIA",
+        "Subterfuge"
+      ]
+    },
+    {
+      "date": "1984-02-18",
+      "venue": "Odeon Birmingham",
+      "place": "Birmingham, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1984-02-15",
+      "venue": "Haçienda",
+      "place": "Manchester, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1984-02-14",
+      "venue": "Stylus, Leeds University",
+      "place": "Leeds, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1984-01-24",
+      "venue": "The Metropolis",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-12-31",
+      "venue": "Bacchanal",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-11-18",
+      "venue": "The Palace",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-11-07",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-11-06",
+      "venue": "First Avenue",
+      "place": "Minneapolis, Minnesota",
+      "country": "United States",
+      "with": [
+        "The Del Fuegos"
+      ]
+    },
+    {
+      "date": "1983-11-05",
+      "venue": "Tuts",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-11-04",
+      "venue": "Saint Andrew’s Hall",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-11-03",
+      "venue": "The Concert Hall",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1983-11-01",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "The Stars That Wouldn't Shine"
+      ]
+    },
+    {
+      "date": "1983-10-31",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "The Fuzztones",
+        "R.E.M."
+      ]
+    },
+    {
+      "date": "1983-10-29",
+      "venue": "The Channel",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-10-28",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Tav Falco’s Panther Burns",
+        "Alex Chilton"
+      ]
+    },
+    {
+      "date": "1983-10-27",
+      "venue": "East Side Club",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-06-04",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-06-03",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-04-30",
+      "venue": "Reseda Country Club",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-03-29",
+      "venue": "Bronco Billy's",
+      "place": "Cathedral City, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-03-18",
+      "venue": "Country Club",
+      "place": "Reseda, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-03-07",
+      "venue": "The Channel",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-03-05",
+      "venue": "City Gardens",
+      "place": "Trenton, New Jersey",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-03-03",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "The Mutants"
+      ]
+    },
+    {
+      "date": "1983-03-02",
+      "venue": "Marble Bar",
+      "place": "Baltimore, Maryland",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-02-26",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-02-25",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-02-23",
+      "venue": "The Channel",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1983-02-19",
+      "venue": "Adams Avenue Theatre",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-12-31",
+      "venue": "Metro",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": [
+        "The Effigies"
+      ]
+    },
+    {
+      "date": "1982-12-29",
+      "venue": "Clutch Cargo's",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-12-28",
+      "venue": "Saint Andrew’s Hall",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-12-08",
+      "venue": "Hitsville",
+      "place": "Passaic, New Jersey",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-11-26",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-11-18",
+      "venue": "Hollywood Palace",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-11-07",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-11-06",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-11-05",
+      "venue": "Tut's",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-11-04",
+      "venue": "Saint Andrew’s Hall",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-11-03",
+      "venue": "City Gardens",
+      "place": "Trenton, New Jersey",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-11-01",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-10-31",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-10-30",
+      "venue": "Reseda Country Club",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-10-28",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-09-18",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-09-17",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-07-18",
+      "venue": "Ichabod's",
+      "place": "Fullerton, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-07-17",
+      "venue": "The Roxy Theatre",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-07-04",
+      "venue": "San Francisco",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-06-26",
+      "venue": "Clutch Cargo's",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-06-25",
+      "venue": "Stages",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-06-15",
+      "venue": "New York (NYC)",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-06-14",
+      "venue": "Larry's Hideaway",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1982-06-12",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-06-11",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-05-24",
+      "venue": "B.J. Kelly’s",
+      "place": "Eugene, Oregon",
+      "country": "United States",
+      "with": [
+        "The Burners"
+      ]
+    },
+    {
+      "date": "1982-05-23",
+      "venue": "The Metro",
+      "place": "Portland, Oregon",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-05-21",
+      "venue": "Commodore Ballroom",
+      "place": "Vancouver, British Columbia",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1982-05-20",
+      "venue": "Astor Park",
+      "place": "Seattle, Washington",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-05-18",
+      "venue": "The Oasis Ballroom",
+      "place": "Sacramento, California",
+      "country": "United States",
+      "with": [
+        "Mutants",
+        "Method Actors"
+      ]
+    },
+    {
+      "date": "1982-05-17",
+      "venue": "I-Beam",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-05-15",
+      "venue": "Berkeley Square",
+      "place": "Berkeley, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-05-14",
+      "venue": "Russian Center",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-05-10",
+      "venue": "Reseda Country Club",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-05-07",
+      "venue": "Dancing Waters",
+      "place": "San Pedro, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-04-26",
+      "venue": "Spirit Club",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": [
+        "Middle Class"
+      ]
+    },
+    {
+      "date": "1982-04-24",
+      "venue": "The Spirit",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-04-23",
+      "venue": "Adams Avenue Theatre",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": [
+        "rozz williams",
+        "Christian Death"
+      ]
+    },
+    {
+      "date": "1982-03-29",
+      "venue": "Safari P.S. 83",
+      "place": "Palm Springs, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-03-18",
+      "venue": "Country Club",
+      "place": "Reseda, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-03-03",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-02-25",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-02-16",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1982-01-04",
+      "venue": "I-Beam",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "Swinging Possums"
+      ]
+    },
+    {
+      "date": "1981-12-21",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-12-20",
+      "venue": "Club Lingerie",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-12-19",
+      "venue": "Club Lingerie",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-12-13",
+      "venue": "The Bayou",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "The Gun Club"
+      ]
+    },
+    {
+      "date": "1981-12-12",
+      "venue": "East Side Club",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-12-11",
+      "venue": "The Channel",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-12-09",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-12-06",
+      "venue": "Hideaway Park",
+      "place": "Bethlehem, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-12-02",
+      "venue": "Malibu Night Club",
+      "place": "Lido Beach, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-11-20",
+      "venue": "Fairmount Hall",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-11-07",
+      "venue": "Berkeley Square",
+      "place": "Berkeley, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-11-06",
+      "venue": "On Broadway",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-10-31",
+      "venue": "North Campus, California State University, Northridge",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "Tav Falco’s Panther Burns",
+        "Howard Morgan",
+        "Magic Man"
+      ]
+    },
+    {
+      "date": "1981-09-26",
+      "venue": "Queens Hall",
+      "place": "Leeds, England",
+      "country": "United Kingdom",
+      "with": [
+        "Echo & The Bunnymen",
+        "Bauhaus",
+        "Thompson Twins",
+        "Theatre of Hate",
+        "Wall Of Voodoo",
+        "Way of the West",
+        "Altered Images"
+      ]
+    },
+    {
+      "date": "1981-09-15",
+      "venue": "Amsterdam",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1981-07-25",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": [
+        "Gun Club"
+      ]
+    },
+    {
+      "date": "1981-07-20",
+      "venue": "Scorgie's",
+      "place": "Rochester, New York",
+      "country": "United States",
+      "with": [
+        "New Math"
+      ]
+    },
+    {
+      "date": "1981-07-17",
+      "venue": "Perkins Palace",
+      "place": "Pasadena, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-07-11",
+      "venue": "The Channel",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-07-10",
+      "venue": "The Shaboo Inn",
+      "place": "Mansfield Center, Connecticut",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-07-09",
+      "venue": "9:30 Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-07-08",
+      "venue": "Bogart's",
+      "place": "Cincinnati, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-07-07",
+      "venue": "Crazy Al's",
+      "place": "Indianapolis, Indiana",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-07-06",
+      "venue": "Mabel's",
+      "place": "Champaign, Illinois",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-07-05",
+      "venue": "The Starship",
+      "place": "Milwaukee, Wisconsin",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-07-04",
+      "venue": "Holiday Ballroom",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-07-03",
+      "venue": "Bookies Club 870",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-07-02",
+      "venue": "Cleveland",
+      "place": "Cleveland, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-06-30",
+      "venue": "Scorgie's",
+      "place": "Rochester, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-06-27",
+      "venue": "Peppermint Lounge",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Circle Jerks"
+      ]
+    },
+    {
+      "date": "1981-06-26",
+      "venue": "City Gardens",
+      "place": "Trenton, New Jersey",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-06-22",
+      "venue": "Hammersmith Palais",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Meteors",
+        "Red Beat"
+      ]
+    },
+    {
+      "date": "1981-06-18",
+      "venue": "Studio 54",
+      "place": "Rouen, Normandy",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-06-17",
+      "venue": "Rennes",
+      "place": "Rennes, Brittany",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-06-16",
+      "venue": "Salle Du Baron",
+      "place": "Orléans, Centre-Val de Loire",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-06-14",
+      "venue": "Biarritz",
+      "place": "Biarritz",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-06-13",
+      "venue": "Paradiso",
+      "place": "Amsterdam, North Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1981-06-12",
+      "venue": "Gigant",
+      "place": "Apeldoorn, Gelderland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1981-06-11",
+      "venue": "The Hague",
+      "place": "The Hague, South Holland",
+      "country": "Netherlands",
+      "with": []
+    },
+    {
+      "date": "1981-06-09",
+      "venue": "Luxembourg",
+      "place": "Luxembourg, Luxembourg",
+      "country": "Luxembourg",
+      "with": []
+    },
+    {
+      "date": "1981-06-07",
+      "venue": "Palais Des Arts",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-06-06",
+      "venue": "Bobino",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-06-05",
+      "venue": "Grand Parc",
+      "place": "Bordeaux",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-06-04",
+      "venue": "Le Pied",
+      "place": "Toulouse, Occitanie",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-06-03",
+      "venue": "Le Flipper",
+      "place": "Marseille, Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-06-02",
+      "venue": "Maison du Peuple",
+      "place": "Clermont-Ferrand, Auvergne-Rhône-Alpes",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-06-01",
+      "venue": "Paladium",
+      "place": "Lyon, Auvergne-Rhône-Alpes",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-05-31",
+      "venue": "Fallonstadion / Stade Fallon",
+      "place": "Sint-Lambrechts-Woluwe",
+      "country": "BE",
+      "with": [
+        "Fischer-Z",
+        "Peter Tosh"
+      ]
+    },
+    {
+      "date": "1981-05-30",
+      "venue": "Biarritz",
+      "place": "Biarritz",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1981-05-28",
+      "venue": "The Cedar Club",
+      "place": "Birmingham, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1981-05-27",
+      "venue": "The Hop & Grape, University of Manchester",
+      "place": "Manchester, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1981-05-26",
+      "venue": "Loughborough University",
+      "place": "Loughborough, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Meteors"
+      ]
+    },
+    {
+      "date": "1981-05-25",
+      "venue": "Eros",
+      "place": "Huddersfield, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1981-05-23",
+      "venue": "Royal Court Theatre",
+      "place": "Liverpool, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1981-05-22",
+      "venue": "Porterhouse",
+      "place": "Retford, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1981-05-21",
+      "venue": "Electric Ballroom Camden",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1981-05-20",
+      "venue": "Keele University Students' Union (Keele SU)",
+      "place": "Keele",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1981-05-19",
+      "venue": "The Limit",
+      "place": "Sheffield, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1981-05-17",
+      "venue": "Tiffany's",
+      "place": "Leeds, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Meteors"
+      ]
+    },
+    {
+      "date": "1981-05-16",
+      "venue": "University of Strathclyde Student Union",
+      "place": "Glasgow, Scotland",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1981-05-15",
+      "venue": "Nite Club",
+      "place": "Edinburgh, Scotland",
+      "country": "United Kingdom",
+      "with": [
+        "The Meteors"
+      ]
+    },
+    {
+      "date": "1981-05-14",
+      "venue": "Rock City",
+      "place": "Nottingham, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1981-05-10",
+      "venue": "Mudd Club",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-05-09",
+      "venue": "The Left Bank",
+      "place": "Mount Vernon, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-05-08",
+      "venue": "Emerald City",
+      "place": "Cherry Hill, New Jersey",
+      "country": "United States",
+      "with": [
+        "Joe Ely"
+      ]
+    },
+    {
+      "date": "1981-05-06",
+      "venue": "Privates",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-04-25",
+      "venue": "The Roxy Theatre",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-04-24",
+      "venue": "The Roxy Theatre",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": [
+        "The Gun Club"
+      ]
+    },
+    {
+      "date": "1981-04-17",
+      "venue": "Old Waldorf",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-04-04",
+      "venue": "California Hall",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1981-03-07",
+      "venue": "Nick Rayns LCR, University of East Anglia",
+      "place": "Norwich, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1981-02-28",
+      "venue": "Brady's",
+      "place": "Liverpool, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-12-14",
+      "venue": "Lyceum Theatre",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-12-10",
+      "venue": "New York (NYC)",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-12-08",
+      "venue": "The Ritz",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-10-16",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-10-15",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-10-05",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-09-05",
+      "venue": "Unknown venue",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-08-23",
+      "venue": "Emerald City",
+      "place": "Cherry Hill, New Jersey",
+      "country": "United States",
+      "with": [
+        "Robert Hazzard & The Heroes",
+        "The Mad",
+        "The Billies",
+        "Helen Wheels"
+      ]
+    },
+    {
+      "date": "1980-08-21",
+      "venue": "Ontario Theatre",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "The Slickee Boys",
+        "Teen Idles",
+        "Tony Perkins and The Psychotics"
+      ]
+    },
+    {
+      "date": "1980-08-15",
+      "venue": "Santa Monica Civic Auditorium",
+      "place": "Santa Monica, California",
+      "country": "United States",
+      "with": [
+        "Urgh! A Music War",
+        "Dead Kennedys",
+        "Bad Brains",
+        "X",
+        "Chelsea"
+      ]
+    },
+    {
+      "date": "1980-08-11",
+      "venue": "The Rox",
+      "place": "Lubbock, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-08-10",
+      "venue": "Duke's Royal Coach Inn",
+      "place": "Austin, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-08-08",
+      "venue": "The Rock Island",
+      "place": "Houston, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-08-07",
+      "venue": "Ole Man River's",
+      "place": "Avondale, Louisiana",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-08-03",
+      "venue": "Agora Ballroom",
+      "place": "Dallas, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-07-31",
+      "venue": "Lawrence Opera House",
+      "place": "Lawrence, Kansas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-07-26",
+      "venue": "Tut's",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-07-23",
+      "venue": "Bookie's Club 870",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-07-19",
+      "venue": "The Edge",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1980-07-18",
+      "venue": "The Edge",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1980-07-17",
+      "venue": "Fyfe & Drum",
+      "place": "Ottawa, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1980-07-16",
+      "venue": "JB Scott's",
+      "place": "Albany, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-07-08",
+      "venue": "Ole Man River",
+      "place": "Avondale, Louisiana",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-07-05",
+      "venue": "The Starship",
+      "place": "Milwaukee, Wisconsin",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-06-21",
+      "venue": "Boomer Theatre",
+      "place": "Oklahoma City, Oklahoma",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-06-19",
+      "venue": "Cain's Ballroom",
+      "place": "Tulsa, Oklahoma",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-06-16",
+      "venue": "Duffy's",
+      "place": "Minneapolis, Minnesota",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-05-30",
+      "venue": "Emerald City",
+      "place": "Cherry Hill, New Jersey",
+      "country": "United States",
+      "with": [
+        "The Fleshtones"
+      ]
+    },
+    {
+      "date": "1980-05-29",
+      "venue": "Ontario Theatre",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "The Slickee Boys"
+      ]
+    },
+    {
+      "date": "1980-05-24",
+      "venue": "North Park Lions Club",
+      "place": "San Diego, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-05-17",
+      "venue": "I-Beam",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-05-16",
+      "venue": "Keystone Berkeley",
+      "place": "Berkeley, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-05-13",
+      "venue": "The Stone",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-05-12",
+      "venue": "Cuckoo's Nest",
+      "place": "Costa Mesa, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-05-11",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": [
+        "The Weirdos"
+      ]
+    },
+    {
+      "date": "1980-05-10",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": [
+        "The Weirdos"
+      ]
+    },
+    {
+      "date": "1980-05-09",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": [
+        "The Weirdos"
+      ]
+    },
+    {
+      "date": "1980-05-05",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-05-02",
+      "venue": "Club 57",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-04-27",
+      "venue": "Tuts",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1980-04-24",
+      "venue": "Paris",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1980-04-19",
+      "venue": "The Venue",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-04-18",
+      "venue": "Trinity Centre",
+      "place": "Bristol, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-04-13",
+      "venue": "Klacik",
+      "place": "Ukkel",
+      "country": "Belgium",
+      "with": []
+    },
+    {
+      "date": "1980-04-07",
+      "venue": "Markhalle",
+      "place": "Berlin, Berlin",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1980-04-06",
+      "venue": "Deutschlandhalle",
+      "place": "Berlin, Berlin",
+      "country": "Germany",
+      "with": []
+    },
+    {
+      "date": "1980-04-04",
+      "venue": "Palasport",
+      "place": "Turin, Piedmont",
+      "country": "Italy",
+      "with": []
+    },
+    {
+      "date": "1980-04-03",
+      "venue": "PalaBigi",
+      "place": "Reggio Emilia, Emilia-Romagna",
+      "country": "Italy",
+      "with": [
+        "The Police"
+      ]
+    },
+    {
+      "date": "1980-04-02",
+      "venue": "Milan",
+      "place": "Milan, Lombardy",
+      "country": "Italy",
+      "with": []
+    },
+    {
+      "date": "1980-03-30",
+      "venue": "Scene Molière",
+      "place": "Lyon, Auvergne-Rhône-Alpes",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1980-03-29",
+      "venue": "Rockstore",
+      "place": "Montpellier, Occitania",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1980-03-28",
+      "venue": "Le Pied",
+      "place": "Toulouse, Occitanie",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1980-03-27",
+      "venue": "Aquarius",
+      "place": "Bordeaux",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1980-03-26",
+      "venue": "Le Palace",
+      "place": "Paris, Île-de-France",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1980-03-24",
+      "venue": "Studio 44",
+      "place": "Rouen, Normandy",
+      "country": "France",
+      "with": []
+    },
+    {
+      "date": "1980-03-22",
+      "venue": "Ajanta",
+      "place": "Derby, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-03-21",
+      "venue": "Electric Ballroom Camden",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Fall",
+        "Fashion"
+      ]
+    },
+    {
+      "date": "1980-03-20",
+      "venue": "Manchester Polytechnic Student Union",
+      "place": "Manchester, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-03-18",
+      "venue": "University of Birmingham Guild of Students",
+      "place": "Birmingham, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Fall"
+      ]
+    },
+    {
+      "date": "1980-03-16",
+      "venue": "The Stagecoach",
+      "place": "Dumfries, Scotland",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-03-15",
+      "venue": "Glasgow Technical College",
+      "place": "Glasgow, Scotland",
+      "country": "United Kingdom",
+      "with": [
+        "The Fall"
+      ]
+    },
+    {
+      "date": "1980-03-14",
+      "venue": "University of Stirling",
+      "place": "Stirling, Scotland",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-03-13",
+      "venue": "Astoria",
+      "place": "Edinburgh, Scotland",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-03-11",
+      "venue": "The Limit",
+      "place": "Sheffield, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-03-10",
+      "venue": "Nottingham Boat Club",
+      "place": "Nottingham, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-03-09",
+      "venue": "The Fan Club",
+      "place": "Leeds, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1980-03-08",
+      "venue": "Eric's",
+      "place": "Liverpool, England",
+      "country": "United Kingdom",
+      "with": [
+        "Nightmares in Wax"
+      ]
+    },
+    {
+      "date": "1980-03-07",
+      "venue": "King's College London Students' Union (KCLSU)",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Fall"
+      ]
+    },
+    {
+      "date": "1980-02-15",
+      "venue": "Emerald City",
+      "place": "Cherry Hill, New Jersey",
+      "country": "United States",
+      "with": [
+        "The Bangs"
+      ]
+    },
+    {
+      "date": "1979-12-09",
+      "venue": "Raul'S",
+      "place": "Austin, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-12-08",
+      "venue": "The Palace",
+      "place": "Houston, Texas",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-12-06",
+      "venue": "Boomer Theater",
+      "place": "Norman, Oklahoma",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-12-04",
+      "venue": "Ole Man River",
+      "place": "Avondale, Louisiana",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-12-01",
+      "venue": "Georgia Theatre",
+      "place": "Athens, Georgia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-11-20",
+      "venue": "My Father’s Place",
+      "place": "Roslyn, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-11-10",
+      "venue": "Toronto",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1979-11-09",
+      "venue": "Montreal",
+      "place": "Montreal, Quebec",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1979-11-07",
+      "venue": "JB Scott's",
+      "place": "Albany, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-11-06",
+      "venue": "J.B. Scott's",
+      "place": "Albany, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-10-31",
+      "venue": "Palladium",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-10-30",
+      "venue": "New Haven",
+      "place": "New Haven, Connecticut",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-10-29",
+      "venue": "Palladium",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-10-28",
+      "venue": "Palladium",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-10-27",
+      "venue": "Palladium",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-10-26",
+      "venue": "Byline Bank Aragon Ballroom",
+      "place": "Chicago, Illinois",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-10-16",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-10-15",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-10-14",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-10-13",
+      "venue": "Kezar Pavilion",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": [
+        "The Clash"
+      ]
+    },
+    {
+      "date": "1979-10-08",
+      "venue": "Ontario Theatre",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "The Police"
+      ]
+    },
+    {
+      "date": "1979-10-06",
+      "venue": "Alexander's",
+      "place": "Browns Mills, New Jersey",
+      "country": "United States",
+      "with": [
+        "The Police"
+      ]
+    },
+    {
+      "date": "1979-09-16",
+      "venue": "De Montfort Hall",
+      "place": "Leicester, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1979-09-12",
+      "venue": "Santa Monica Civic Auditorium",
+      "place": "Santa Monica, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-08-25",
+      "venue": "Hot Club",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-08-24",
+      "venue": "Hot Club",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-08-19",
+      "venue": "Club 57",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-08-18",
+      "venue": "Irving Plaza",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-08-13",
+      "venue": "The Edge",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1979-08-11",
+      "venue": "Bookies Club 870",
+      "place": "Detroit, Michigan",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-08-08",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-08-02",
+      "venue": "Boomer Theater",
+      "place": "Norman, Oklahoma",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-06-30",
+      "venue": "Eric's",
+      "place": "Liverpool, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1979-06-28",
+      "venue": "Barbarella's",
+      "place": "Birmingham, England",
+      "country": "United Kingdom",
+      "with": [
+        "Wire"
+      ]
+    },
+    {
+      "date": "1979-06-25",
+      "venue": "The Factory, The Russell Club",
+      "place": "Manchester, England",
+      "country": "United Kingdom",
+      "with": [
+        "Elti-fits"
+      ]
+    },
+    {
+      "date": "1979-06-24",
+      "venue": "The Factory",
+      "place": "Manchester, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1979-06-23",
+      "venue": "Whitcombe Lodge",
+      "place": "Brockworth, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1979-06-22",
+      "venue": "The Nashville Room",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1979-06-17",
+      "venue": "Lyceum Theatre",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Police"
+      ]
+    },
+    {
+      "date": "1979-06-16",
+      "venue": "Aylesbury Civic Centre (Friars)",
+      "place": "Milton Keynes, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Police"
+      ]
+    },
+    {
+      "date": "1979-06-15",
+      "venue": "Top Rank",
+      "place": "Sheffield, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Police"
+      ]
+    },
+    {
+      "date": "1979-06-14",
+      "venue": "Mayfair Ballroom",
+      "place": "Newcastle upon Tyne, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Police"
+      ]
+    },
+    {
+      "date": "1979-06-12",
+      "venue": "Trinity Hall",
+      "place": "Bristol, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1979-06-11",
+      "venue": "Civic Hall",
+      "place": "Guildford, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1979-06-10",
+      "venue": "Lyceum Theatre",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Police",
+        "Bobby Henry & The Risk"
+      ]
+    },
+    {
+      "date": "1979-06-09",
+      "venue": "Rushcliffe Leisure Centre",
+      "place": "Nottingham, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1979-06-08",
+      "venue": "Free Trade Hall",
+      "place": "Manchester, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Police"
+      ]
+    },
+    {
+      "date": "1979-06-07",
+      "venue": "Victoria Hall Stoke",
+      "place": "Stoke-on-Trent, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Police"
+      ]
+    },
+    {
+      "date": "1979-06-06",
+      "venue": "Digbeth Civic Hall",
+      "place": "Digbeth, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1979-06-05",
+      "venue": "Marquee Club - Wardour Street",
+      "place": "London, England",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1979-06-02",
+      "venue": "Empire Theatre",
+      "place": "Liverpool, England",
+      "country": "United Kingdom",
+      "with": [
+        "The Police",
+        "Bobby Henry"
+      ]
+    },
+    {
+      "date": "1979-06-01",
+      "venue": "Odeon Theatre",
+      "place": "Edinburgh, Scotland",
+      "country": "United Kingdom",
+      "with": [
+        "The Police"
+      ]
+    },
+    {
+      "date": "1979-05-31",
+      "venue": "The Apollo",
+      "place": "Glasgow, Scotland",
+      "country": "United Kingdom",
+      "with": []
+    },
+    {
+      "date": "1979-05-25",
+      "venue": "Irving Plaza",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-05-24",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-05-09",
+      "venue": "Warner Theatre",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "Root Boy Slim & The Sex Change Band",
+        "Original Fetish"
+      ]
+    },
+    {
+      "date": "1979-04-22",
+      "venue": "Georgetown University - Gaston Hall",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-04-20",
+      "venue": "LBJ Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-04-19",
+      "venue": "LBJ Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-03-23",
+      "venue": "Deaf Club",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-03-22",
+      "venue": "Deaf Club",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-03-21",
+      "venue": "Deaf Club",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-03-16",
+      "venue": "Pauley Ballroom",
+      "place": "Berkeley, California",
+      "country": "United States",
+      "with": [
+        "The Readymades",
+        "Tuxedomoon"
+      ]
+    },
+    {
+      "date": "1979-03-14",
+      "venue": "Mabuhay Gardens",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-02-26",
+      "venue": "The Other Masque",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-02-25",
+      "venue": "The Other Masque",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-02-24",
+      "venue": "The Masque 2",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "The Germs",
+        "The Dead Boys",
+        "Pure Hell",
+        "Wall Of Voodoo",
+        "The Extremes"
+      ]
+    },
+    {
+      "date": "1979-02-23",
+      "venue": "Masque",
+      "place": "Los Angeles, California",
+      "country": "United States",
+      "with": [
+        "The Simpletones",
+        "The Extremes",
+        "Robot Factory"
+      ]
+    },
+    {
+      "date": "1979-02-17",
+      "venue": "Palladium",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "The Clash",
+        "Bo Diddley"
+      ]
+    },
+    {
+      "date": "1979-02-16",
+      "venue": "Hot Club",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1979-02-03",
+      "venue": "Hall of Nations - Edmund A. Walsh Building, Georgetown University",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "Urban Verbs",
+        "The Chumps"
+      ]
+    },
+    {
+      "date": "1979-02-01",
+      "venue": "Keystone",
+      "place": "Palo Alto, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-12-30",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-12-29",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-12-09",
+      "venue": "Hot Club",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-12-08",
+      "venue": "Hot Club",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-11-15",
+      "venue": "Mabuhay Gardens",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-11-11",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-11-10",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-11-08",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-10-31",
+      "venue": "Artemis",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-10-28",
+      "venue": "Hurrah",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-10-14",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-10-13",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-10-12",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-10-02",
+      "venue": "Grendel's Lair",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-09-08",
+      "venue": "Psyche Delly",
+      "place": "Bethesda, Maryland",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-09-04",
+      "venue": "Live 36 W. 62Nd St.",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-09-03",
+      "venue": "Live 36 W. 62Nd St.",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-08-12",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-08-11",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-07-31",
+      "venue": "Act One",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-07-22",
+      "venue": "The Horseshoe Tavern",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1978-07-21",
+      "venue": "The Horseshoe Tavern",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1978-07-04",
+      "venue": "Ball Mansion",
+      "place": "Cleveland, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-06-16",
+      "venue": "Napa State Mental Hospital",
+      "place": "Napa, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-06-13",
+      "venue": "Napa State Mental Hospital",
+      "place": "Napa, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-06-10",
+      "venue": "Mabuhay Gardens",
+      "place": "San Francisco, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-06-06",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": [
+        "Diane Diamond",
+        "Consumers"
+      ]
+    },
+    {
+      "date": "1978-06-04",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": [
+        "The Runaways"
+      ]
+    },
+    {
+      "date": "1978-06-03",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": [
+        "The Runaways"
+      ]
+    },
+    {
+      "date": "1978-06-02",
+      "venue": "Whisky a Go Go",
+      "place": "West Hollywood, California",
+      "country": "United States",
+      "with": [
+        "The Runaways"
+      ]
+    },
+    {
+      "date": "1978-05-24",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-05-05",
+      "venue": "The Rat",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-05-04",
+      "venue": "The Rat",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-04-15",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-04-14",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-04-13",
+      "venue": "Real World",
+      "place": "Cleveland, Ohio",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-04-11",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-04-07",
+      "venue": "The Atlantis",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": [
+        "The Puppets"
+      ]
+    },
+    {
+      "date": "1978-04-06",
+      "venue": "The Atlantis Club",
+      "place": "Washington, District of Columbia",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-04-01",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-03-27",
+      "venue": "Philadelphia",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-02-19",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-02-18",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-01-14",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-01-13",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-01-12",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1978-01-01",
+      "venue": "New Yorker Theatre",
+      "place": "Toronto, Ontario",
+      "country": "Canada",
+      "with": []
+    },
+    {
+      "date": "1977-12-10",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-12-09",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-12-08",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-11-10",
+      "venue": "Hot Club",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-11-08",
+      "venue": "Hot Club",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-11-07",
+      "venue": "Hot Club",
+      "place": "Philadelphia, Pennsylvania",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-10-28",
+      "venue": "The Rat",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-10-27",
+      "venue": "The Rat",
+      "place": "Boston, Massachusetts",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-10-09",
+      "venue": "Southwestern at Memphis",
+      "place": "Memphis, Tennessee",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-07-10",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-07-09",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Devo",
+        "Suicide"
+      ]
+    },
+    {
+      "date": "1977-07-08",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Devo",
+        "Suicide"
+      ]
+    },
+    {
+      "date": "1977-07-07",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Devo",
+        "Suicide"
+      ]
+    },
+    {
+      "date": "1977-06-15",
+      "venue": "Village Gate",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-06-11",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-06-10",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Ramones"
+      ]
+    },
+    {
+      "date": "1977-06-09",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-05-29",
+      "venue": "Woolsey Hall",
+      "place": "New Haven, Connecticut",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-05-05",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Blondie",
+        "The Fuse",
+        "Helen Wheels",
+        "Dead Boys",
+        "The Criminals",
+        "Richard Hell & The Voidoids",
+        "The Runaways"
+      ]
+    },
+    {
+      "date": "1977-05-02",
+      "venue": "Lower Manhattan Ocean Club",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-04-26",
+      "venue": "Cuckoo's Nest",
+      "place": "Costa Mesa, California",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-04-20",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-04-15",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-04-13",
+      "venue": "My Father’s Place",
+      "place": "Roslyn, New York",
+      "country": "United States",
+      "with": [
+        "Ramones"
+      ]
+    },
+    {
+      "date": "1977-03-25",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-03-24",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-03-20",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-02-18",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-02-05",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-02-04",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-02-03",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-01-22",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-01-21",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-01-14",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-01-13",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-01-09",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-01-08",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-01-07",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1977-01-06",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1976-12-29",
+      "venue": "On The Rocks",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1976-12-19",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1976-12-18",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1976-12-17",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Suicide",
+        "Jango Edwards & Friends Roadshow"
+      ]
+    },
+    {
+      "date": "1976-12-12",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1976-12-11",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1976-12-05",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1976-12-04",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1976-11-27",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1976-11-21",
+      "venue": "Max's Kansas City",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1976-11-02",
+      "venue": "CBGB",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": []
+    },
+    {
+      "date": "1976-11-01",
+      "venue": "CBGB & OMFUG",
+      "place": "New York, New York",
+      "country": "United States",
+      "with": [
+        "Suicide"
+      ]
+    }
+  ]
+}

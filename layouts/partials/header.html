@@ -1,4 +1,5 @@
 <header class="site-header">
+  
   <div class="header-inner">
     <a href="{{ site.Home.RelPermalink }}" class="site-title">
       <span class="title-main cramps-fill">CRAMPS</span>
@@ -7,6 +8,7 @@
     <nav class="main-nav">
       <a href="{{ site.Home.RelPermalink }}" {{ if .IsHome }}class="active"{{ end }}>Home</a>
       <a href="{{ "discography/" | relURL }}" {{ if eq .Section "discography" }}class="active"{{ end }}>Discography</a>
+      <a href="{{ "tour/" | relURL }}" {{ if eq .Section "tour" }}class="active"{{ end }}>Tours</a>
       <a href="{{ "lyrics/" | relURL }}" {{ if eq .Section "lyrics" }}class="active"{{ end }}>Lyrics</a>
       <a href="{{ "tabs/" | relURL }}" {{ if eq .Section "tabs" }}class="active"{{ end }}>Tabs</a>
       <a href="{{ "karaoke/" | relURL }}" {{ if eq .Section "karaoke" }}class="active"{{ end }}>Karaoke</a>

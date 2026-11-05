@@ -1,0 +1,39 @@
+{{ define "main" }}
+<section class="lyrics">
+  <div class="page-head">
+    <p class="eyebrow">On the road</p>
+    <h1>{{ .Title }}</h1>
+    <div class="content">{{ .Content }}</div>
+  </div>
+
+  {{ $shows := hugo.Data.tour.shows }}
+  {{ $years := slice }}
+  {{ range $shows }}
+    {{ $years = $years | append (substr .date 0 4) }}
+  {{ end }}
+  <nav class="letter-nav" aria-label="Jump to year">
+    {{ range uniq $years }}<a href="#year-{{ . }}">{{ . }}</a>{{ end }}
+  </nav>
+
+  <ul class="tour-list">
+    {{ $prev := "" }}
+    {{ range $show := $shows }}
+      {{ $year := substr $show.date 0 4 }}
+      {{ if ne $year $prev }}
+        <li class="letter cramps-fill" id="year-{{ $year }}"><span>{{ $year }}</span></li>
+        {{ $prev = $year }}
+      {{ end }}
+      <li class="tour-date" id="{{ $show.date }}">
+        <time datetime="{{ $show.date }}">{{ time.AsTime $show.date | time.Format "Jan 2" }}</time>
+        <span class="tour-place">
+          <strong>{{ $show.venue }}</strong>
+          <span>{{ $show.place }}{{ with $show.country }}, {{ . }}{{ end }}</span>
+          {{ with $show.with }}<span class="tour-with">with {{ delimit . " / " }}</span>{{ end }}
+        </span>
+      </li>
+    {{ end }}
+  </ul>
+
+  <p class="source-note">{{ len $shows }} shows, 1976 to 2006. Dates and bills come from fan records, and a few venues were never written down.</p>
+</section>
+{{ end }}

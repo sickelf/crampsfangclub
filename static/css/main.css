@@ -22,6 +22,7 @@
 html { scroll-behavior: smooth; }
 
 .lyric-index li[id],
+.tour-date,
 h2.letter { scroll-margin-top: 130px; }
 
 body {
@@ -539,6 +540,7 @@ a.track-btn:hover { background: #ff2a1f; color: white; }
   border-bottom: 1px solid var(--line);
 }
 .lyric-index .letter,
+.tour-list .letter,
 h2.letter {
   display: block;
   border: 0;
@@ -552,7 +554,9 @@ h2.letter {
   color: var(--red);
 }
 .lyric-index .letter span,
+.tour-list .letter span,
 h2.letter span { font-family: inherit; font-weight: 400; }
+.tour-list .letter { font-size: 104px; list-style: none; }
 .lyric-title { font-weight: 700; }
 .lyric-title:hover { color: var(--red); }
 .lyric-albums {
@@ -664,6 +668,38 @@ h2.letter span { font-family: inherit; font-weight: 400; }
   font-size: 30px;
   letter-spacing: 0.03em;
 }
+.tour-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-width: 1040px;
+}
+.tour-list .letter { scroll-margin-top: 130px; }
+.tour-date {
+  display: grid;
+  grid-template-columns: 92px 1fr;
+  gap: 8px 18px;
+  align-items: baseline;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+.tour-date time {
+  color: var(--red);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+.tour-place {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 14px;
+  align-items: baseline;
+}
+.tour-place > span { color: var(--muted); }
+.tour-with { font-size: 14px; }
+@media (max-width: 760px) {
+  .tour-date { grid-template-columns: 1fr; gap: 2px; }
+}
+
 .lesson h3 a { font-size: 0.62em; letter-spacing: 0.04em; }
 .lesson h3 em { color: var(--muted); font-style: normal; font-size: 0.55em; }
 .lesson .karaoke-songs { grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); }
